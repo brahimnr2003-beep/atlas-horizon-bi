@@ -35,6 +35,20 @@ Atlas Horizon organiza expediciones a destinos remotos. Antes de cada salida, cl
 2. ¿Cuesta lo que hemos presupuestado?
 3. ¿Está lo bastante cerca de la sede de briefing?
 
+### Cómo se adaptan los datos al caso de negocio
+
+Atlas Horizon es una empresa ficticia, pero los datos son reales: anuncios de Airbnb en Londres publicados por Inside Airbnb. Para que respondan a las preguntas de Atlas, se han **transformado e interpretado desde el punto de vista del negocio**. No se ha inventado ni modificado ningún valor (precios, disponibilidad, reseñas, ubicaciones); lo que se añade es la interpretación y las reglas de Atlas:
+
+| Dato original | Cómo lo interpreta Atlas |
+|---|---|
+| Anuncios de Airbnb en Londres | Oferta de alojamiento disponible en el hub de partida de las expediciones |
+| `room_type` (tipo de alojamiento) | Segmento de huésped: *base privada* para clientes UHNW y grupos, *hotel* para clientes que piden servicios de hotel, *habitación individual* para staff técnico y guías, *compartido* para staff de apoyo |
+| Anfitrión y número de anuncios | Proveedor: *particular* (1 anuncio), *multipropiedad* (2-10) o *profesional* (más de 10) |
+| Latitud y longitud | Distancia a la sede de briefing, situada como supuesto en South Kensington |
+| Precio, estancia mínima, disponibilidad y reseñas | Criterios para considerar un alojamiento *homologable* según los estándares de Atlas |
+
+La sede, los criterios de homologación y las metas de los KPIs son supuestos del caso de negocio, documentados en [`docs/diseno_bi.md`](docs/diseno_bi.md).
+
 ## Resultados
 
 | KPI | Valor | Meta | Estado |
@@ -143,7 +157,7 @@ La entrega original de la Fase 2 (notebook de Colab y dashboard de Tableau) est�
 ## Fuente de datos
 
 [Inside Airbnb](http://insideairbnb.com/get-the-data/) · Londres, febrero de 2020 · licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-Atlas Horizon Group es una empresa ficticia creada para el proyecto.
+Atlas Horizon Group es una empresa ficticia creada para el proyecto. Los datos se reinterpretan para su caso de negocio, como se explica en [Cómo se adaptan los datos al caso de negocio](#cómo-se-adaptan-los-datos-al-caso-de-negocio).
 
 ---
 
