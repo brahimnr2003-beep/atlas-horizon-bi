@@ -1,0 +1,6 @@
+id_kpi,kpi,unidad,valor,meta,operador,estado,accion
+PI_ALO_01,Tasa de homologación de la oferta,%,29.3,25,>=,Cumple,Ampliar criterios o buscar plataformas alternativas de alojamiento
+PI_ALO_02,Precio medio por noche · bases privadas homologadas,£,158.0,150,<=,No cumple,Negociar tarifas por volumen o desplazar reservas a barrios más baratos
+PI_ALO_03,Disponibilidad media de la oferta homologada,días/año,195.1,180,>=,Cumple,Reservar con más antelación en temporada alta
+PI_ALO_04,Oferta homologada a ≤ 5 km de la sede de briefing,%,38.4,50,>=,No cumple,Contratar traslados al briefing o abrir un segundo punto de reunión
+PI_ALO_05,Dependencia de proveedores profesionales,%,22.5,30,<=,Cumple,Diversificar proveedores para reducir el riesgo de concentración

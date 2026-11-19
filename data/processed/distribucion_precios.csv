@@ -1,0 +1,110 @@
+segmento_atlas,zona,tramo_precio,alojamientos
+Base privada,Inner London,0.0,9
+Base privada,Inner London,25.0,70
+Base privada,Inner London,50.0,706
+Base privada,Inner London,75.0,2199
+Base privada,Inner London,100.0,2123
+Base privada,Inner London,125.0,1553
+Base privada,Inner London,150.0,1321
+Base privada,Inner London,175.0,950
+Base privada,Inner London,200.0,634
+Base privada,Inner London,225.0,357
+Base privada,Inner London,250.0,431
+Base privada,Inner London,275.0,236
+Base privada,Inner London,300.0,199
+Base privada,Inner London,325.0,105
+Base privada,Inner London,350.0,135
+Base privada,Inner London,375.0,71
+Base privada,Inner London,400.0,114
+Base privada,Inner London,425.0,46
+Base privada,Inner London,450.0,62
+Base privada,Inner London,475.0,33
+Base privada,Inner London,500.0,278
+Base privada,Outer London,25.0,102
+Base privada,Outer London,50.0,513
+Base privada,Outer London,75.0,586
+Base privada,Outer London,100.0,400
+Base privada,Outer London,125.0,200
+Base privada,Outer London,150.0,213
+Base privada,Outer London,175.0,118
+Base privada,Outer London,200.0,87
+Base privada,Outer London,225.0,34
+Base privada,Outer London,250.0,41
+Base privada,Outer London,275.0,18
+Base privada,Outer London,300.0,22
+Base privada,Outer London,325.0,6
+Base privada,Outer London,350.0,6
+Base privada,Outer London,375.0,12
+Base privada,Outer London,400.0,7
+Base privada,Outer London,450.0,3
+Base privada,Outer London,475.0,5
+Base privada,Outer London,500.0,26
+Compartido,Inner London,0.0,61
+Compartido,Inner London,25.0,46
+Compartido,Inner London,50.0,8
+Compartido,Inner London,75.0,1
+Compartido,Outer London,0.0,35
+Compartido,Outer London,25.0,12
+Compartido,Outer London,50.0,2
+Compartido,Outer London,75.0,1
+Compartido,Outer London,275.0,1
+Habitación individual,Inner London,0.0,356
+Habitación individual,Inner London,25.0,3393
+Habitación individual,Inner London,50.0,2382
+Habitación individual,Inner London,75.0,822
+Habitación individual,Inner London,100.0,254
+Habitación individual,Inner London,125.0,80
+Habitación individual,Inner London,150.0,59
+Habitación individual,Inner London,175.0,14
+Habitación individual,Inner London,200.0,13
+Habitación individual,Inner London,225.0,4
+Habitación individual,Inner London,250.0,6
+Habitación individual,Inner London,275.0,3
+Habitación individual,Inner London,300.0,6
+Habitación individual,Inner London,325.0,1
+Habitación individual,Inner London,350.0,2
+Habitación individual,Outer London,0.0,446
+Habitación individual,Outer London,25.0,2430
+Habitación individual,Outer London,50.0,643
+Habitación individual,Outer London,75.0,153
+Habitación individual,Outer London,100.0,39
+Habitación individual,Outer London,125.0,16
+Habitación individual,Outer London,150.0,13
+Habitación individual,Outer London,175.0,6
+Habitación individual,Outer London,250.0,2
+Habitación individual,Outer London,275.0,1
+Habitación individual,Outer London,300.0,1
+Habitación individual,Outer London,350.0,1
+Hotel,Inner London,0.0,22
+Hotel,Inner London,25.0,15
+Hotel,Inner London,50.0,11
+Hotel,Inner London,75.0,26
+Hotel,Inner London,100.0,42
+Hotel,Inner London,125.0,20
+Hotel,Inner London,150.0,37
+Hotel,Inner London,175.0,22
+Hotel,Inner London,200.0,17
+Hotel,Inner London,225.0,6
+Hotel,Inner London,250.0,6
+Hotel,Inner London,275.0,8
+Hotel,Inner London,300.0,4
+Hotel,Inner London,325.0,2
+Hotel,Inner London,350.0,5
+Hotel,Inner London,375.0,2
+Hotel,Inner London,400.0,6
+Hotel,Inner London,425.0,2
+Hotel,Inner London,450.0,1
+Hotel,Inner London,475.0,1
+Hotel,Inner London,500.0,35
+Hotel,Outer London,0.0,2
+Hotel,Outer London,25.0,4
+Hotel,Outer London,50.0,12
+Hotel,Outer London,75.0,21
+Hotel,Outer London,100.0,5
+Hotel,Outer London,125.0,4
+Hotel,Outer London,150.0,2
+Hotel,Outer London,175.0,2
+Hotel,Outer London,200.0,1
+Hotel,Outer London,225.0,1
+Hotel,Outer London,275.0,1
+Hotel,Outer London,500.0,1
