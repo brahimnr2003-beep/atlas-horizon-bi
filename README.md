@@ -50,7 +50,7 @@ Atlas Horizon organiza expediciones a destinos remotos. Antes de cada salida, cl
 | **Modelado dimensional** | 4 procesos de negocio, matriz bus, dimensiones conformadas, tipos de SCD y tablas de hechos transaccionales y de snapshot |
 | **ETL** | Perfilado de calidad, tipos, nulos, duplicados, precios atípicos y recodificación con justificación de negocio |
 | **Data warehouse** | Esquema en estrella en **DuckDB** con reglas de negocio en **SQL** (Haversine, percentiles, flags) |
-| **Visualización en Tableau** | Historia de Tableau con 8 hojas (v1) y dashboard de la v2 alimentado por el data warehouse, con las mismas reglas de negocio |
+| **Visualización en Tableau** | Historia de Tableau con 8 hojas sobre la oferta de alojamiento y un extracto del data warehouse preparado para Tableau |
 | **Reporting** | Informe ejecutivo *push* para dirección y dashboard *pull* para el equipo operativo, cada uno adaptado a su usuario |
 
 ## Arquitectura
@@ -64,19 +64,15 @@ flowchart LR
     D --> F[Agregados<br>v_oferta_agregada]
     E & F --> G[Informe HTML<br>Dirección · push mensual]
     E & F --> H[Cuadro de mando HTML<br>Logística · pull]
-    D --> I[Extracto desnormalizado<br>tableau_oferta.csv]
-    I --> J[Dashboard en Tableau]
+    D --> I[Extracto para Tableau<br>tableau_oferta.csv]
 ```
 
 El modelo en estrella de la tabla de hechos `fact_oferta_alojamiento`, con sus dimensiones tiempo, barrio, segmento y proveedor, está documentado en [`docs/diseno_bi.md`](docs/diseno_bi.md#6-modelos-en-estrella).
 
 ## Tableau
 
-El proyecto tiene dos cuadros de mando en Tableau:
-
-- **v2 · Oferta de alojamiento.** Se construye sobre [`data/processed/tableau_oferta.csv`](data/README.md): una fila por alojamiento con las dimensiones ya unidas y los flags de negocio (`flag_homologable`, `flag_precio_atipico`, `flag_5km`…) calculados en el data warehouse. Así, los KPIs de Tableau coinciden con los del informe y el dashboard HTML.
-  <!-- Añadir aquí el enlace de Tableau Public y una captura (docs/img/tableau.png) -->
-- **v1 · Entrega original.** Historia de Tableau con 8 hojas sobre la oferta de Londres: [`legacy/dashboard_tableau_v1.twbx`](legacy/). Se abre con Tableau Desktop o Tableau Reader.
+- **Historia de Tableau con 8 hojas** sobre la oferta de alojamiento de Londres: [`legacy/dashboard_tableau_v1.twbx`](legacy/). Se abre con Tableau Desktop o Tableau Reader.
+- **Extracto para Tableau:** [`data/processed/tableau_oferta.csv`](data/README.md). Tiene una fila por alojamiento con las dimensiones ya unidas y los flags de negocio (`flag_homologable`, `flag_precio_atipico`, `flag_5km`…) calculados en el data warehouse. Un dashboard construido sobre él da los mismos KPIs que el informe y el dashboard HTML.
 
 ## Estructura del repositorio
 
