@@ -1,899 +1,894 @@
-id_alojamiento,barrio,zona,segmento_atlas,precio_noche,dist_sede_km,latitude,longitude
-30369154,Islington,Inner London,Base privada,100,6.48,51.53793,-0.10268
-527070,Southwark,Inner London,Habitación individual,40,7.66,51.48868,-0.06669
-21560224,Lambeth,Inner London,Habitación individual,50,5.32,51.47894,-0.10752
-33018097,Westminster,Inner London,Habitación individual,55,1.36,51.51339,-0.17881
-26243758,Hammersmith and Fulham,Inner London,Habitación individual,56,3.07,51.5038,-0.21972
-19891152,Barnet,Outer London,Habitación individual,40,9.23,51.58337,-0.19582
-19689200,Westminster,Inner London,Base privada,190,3.19,51.51922,-0.13945
-15153382,Redbridge,Outer London,Habitación individual,35,16.11,51.5629,0.0353
-12364001,Kensington and Chelsea,Inner London,Base privada,350,1.1,51.49392,-0.18612
-27482964,Camden,Inner London,Base privada,330,4.87,51.52011,-0.112
-32246504,Tower Hamlets,Inner London,Base privada,300,10.79,51.49802,-0.01964
-23443960,Bromley,Outer London,Base privada,76,16.72,51.4005,0.00359
-13677366,Haringey,Outer London,Base privada,53,9.16,51.57389,-0.11287
-21581183,Lewisham,Inner London,Habitación individual,30,11.26,51.447,-0.03833
-20010959,Tower Hamlets,Inner London,Habitación individual,20,7.72,51.51265,-0.06551
-23875011,Southwark,Inner London,Habitación individual,70,6.08,51.50067,-0.08769
-34660871,Kensington and Chelsea,Inner London,Base privada,105,2.05,51.48947,-0.19821
-39164928,Tower Hamlets,Inner London,Habitación individual,39,11.48,51.54112,-0.02241
-37041819,Wandsworth,Inner London,Base privada,80,4.11,51.46515,-0.16282
-13946071,Greenwich,Inner London,Habitación individual,25,18.68,51.48506,0.0931
-10325545,Ealing,Outer London,Habitación individual,37,9.7,51.511,-0.31481
-40037058,Westminster,Inner London,Habitación individual,54,3.24,51.52913,-0.1894
-29905937,Barking and Dagenham,Outer London,Habitación individual,22,21.57,51.53457,0.13157
-29627661,Redbridge,Outer London,Habitación individual,34,16.26,51.57943,0.02329
-34388838,Lambeth,Inner London,Habitación individual,68,4.73,51.46513,-0.13956
-1883810,Lambeth,Inner London,Habitación individual,42,4.08,51.47592,-0.13296
-35631659,Westminster,Inner London,Base privada,165,2.61,51.49372,-0.13976
-4522325,Hounslow,Outer London,Habitación individual,85,5.44,51.4885,-0.25141
-3430805,Hackney,Inner London,Habitación individual,44,9.28,51.54112,-0.0577
-8179695,Tower Hamlets,Inner London,Habitación individual,68,7.98,51.52632,-0.06746
-16390459,Wandsworth,Inner London,Base privada,110,4.18,51.46636,-0.15332
-10239553,Greenwich,Inner London,Base privada,75,17.44,51.47698,0.07336
-21304969,Tower Hamlets,Inner London,Habitación individual,35,8.73,51.52071,-0.05321
-3430656,Hackney,Inner London,Base privada,60,9.62,51.54687,-0.05738
-14372315,Kingston upon Thames,Outer London,Base privada,109,13.15,51.4079,-0.29199
-31396720,Brent,Outer London,Habitación individual,70,4.32,51.52979,-0.21789
-18560584,Tower Hamlets,Inner London,Habitación individual,29,10.67,51.532,-0.02942
-20896188,Wandsworth,Inner London,Habitación individual,79,7.48,51.4571,-0.25696
-714723,Tower Hamlets,Inner London,Base privada,130,7.93,51.51072,-0.06191
-28299326,Tower Hamlets,Inner London,Habitación individual,45,7.49,51.51919,-0.07114
-73431,Lambeth,Inner London,Base privada,52,6.13,51.46295,-0.112
-36344753,Greenwich,Inner London,Base privada,117,16.13,51.4881,0.05657
-36299025,Southwark,Inner London,Habitación individual,50,4.66,51.49893,-0.10824
-2624292,Southwark,Inner London,Habitación individual,69,8.81,51.49686,-0.04845
-25713063,Camden,Inner London,Base privada,149,5.88,51.54993,-0.14221
-24429397,Hackney,Inner London,Base privada,85,8.62,51.54674,-0.07462
-32761839,Tower Hamlets,Inner London,Habitación individual,52,10.65,51.49867,-0.02167
-15597966,Westminster,Inner London,Base privada,400,1.83,51.51578,-0.18804
-11639604,Lambeth,Inner London,Compartido,18,4.3,51.49434,-0.11446
-22984837,Hounslow,Outer London,Base privada,150,6.18,51.4864,-0.26152
-38433311,Kensington and Chelsea,Inner London,Base privada,220,0.77,51.50045,-0.18659
-19306957,Richmond upon Thames,Outer London,Habitación individual,52,11.47,51.43706,-0.30511
-23594193,Tower Hamlets,Inner London,Habitación individual,70,7.67,51.52431,-0.07104
-29158910,Southwark,Inner London,Habitación individual,50,5.45,51.48018,-0.10445
-14273054,Islington,Inner London,Habitación individual,40,6.06,51.52317,-0.09534
-4220503,Southwark,Inner London,Base privada,95,7.79,51.46803,-0.07649
-28427786,Tower Hamlets,Inner London,Habitación individual,33,10.93,51.50832,-0.01804
-34556700,Haringey,Outer London,Base privada,139,8.88,51.57101,-0.11294
-3658653,Hackney,Inner London,Habitación individual,70,7.62,51.53819,-0.08262
-27060864,Greenwich,Inner London,Base privada,61,17.31,51.49461,0.07427
-27681085,Greenwich,Inner London,Base privada,600,12.73,51.48516,0.00658
-40003267,Ealing,Outer London,Habitación individual,25,7.69,51.50158,-0.28659
-765928,Southwark,Inner London,Habitación individual,57,5.09,51.49279,-0.10323
-19027678,Hackney,Inner London,Base privada,120,7.32,51.52517,-0.07695
-36415648,Westminster,Inner London,Base privada,250,2.51,51.52236,-0.1885
-6308825,Lambeth,Inner London,Habitación individual,55,8.48,51.42905,-0.13633
-16328626,Lambeth,Inner London,Habitación individual,100,5.01,51.47835,-0.11317
-26970001,Westminster,Inner London,Base privada,107,2.26,51.52103,-0.1677
-35765403,Wandsworth,Inner London,Habitación individual,35,4.05,51.47405,-0.13677
-35925332,Barnet,Outer London,Habitación individual,35,9.13,51.57853,-0.22047
-37799143,Hackney,Inner London,Base privada,85,7.3,51.52728,-0.07869
-34809064,Hillingdon,Outer London,Base privada,120,18.63,51.48211,-0.44281
-34727443,Lambeth,Inner London,Habitación individual,27,7.62,51.44331,-0.11689
-9399009,Hammersmith and Fulham,Inner London,Base privada,253,3.65,51.4702,-0.19255
-32760549,Hackney,Inner London,Habitación individual,43,9.34,51.56779,-0.09291
-754635,Westminster,Inner London,Base privada,160,1.99,51.49709,-0.14762
-19391073,Haringey,Outer London,Base privada,90,8.44,51.57365,-0.13846
-23767402,Croydon,Outer London,Habitación individual,21,10.96,51.4071,-0.1289
-827436,Greenwich,Inner London,Base privada,160,13.04,51.49666,0.01268
-22071394,Lewisham,Inner London,Habitación individual,67,9.88,51.4913,-0.03367
-22896224,Hackney,Inner London,Base privada,89,7.26,51.52578,-0.07831
-20128700,Islington,Inner London,Base privada,77,7.24,51.55256,-0.11103
-23229451,Hackney,Inner London,Base privada,150,9.63,51.55048,-0.06088
-31012056,Hackney,Inner London,Habitación individual,50,9.37,51.5536,-0.06924
-28146904,Westminster,Inner London,Base privada,140,2.35,51.49163,-0.14527
-13087454,Camden,Inner London,Base privada,139,4.69,51.53771,-0.14121
-5464683,Westminster,Inner London,Base privada,250,2.95,51.51455,-0.1385
-30648905,Westminster,Inner London,Base privada,99,1.87,51.5155,-0.16094
-9787951,Westminster,Inner London,Base privada,301,3.63,51.5112,-0.12555
-24512497,Westminster,Inner London,Habitación individual,75,1.36,51.51311,-0.1703
-15295085,Richmond upon Thames,Outer London,Habitación individual,45,12.84,51.44127,-0.33389
-5856643,Westminster,Inner London,Base privada,141,3.03,51.50976,-0.13393
-31073575,Wandsworth,Inner London,Base privada,109,6.42,51.44543,-0.15202
-20583171,Camden,Inner London,Base privada,175,5.03,51.52778,-0.1165
-38452018,Islington,Inner London,Base privada,160,5.95,51.53032,-0.10326
-11567062,Westminster,Inner London,Base privada,73,1.41,51.51367,-0.1798
-16199587,Westminster,Inner London,Base privada,95,2.84,51.52644,-0.18312
-6161504,Brent,Outer London,Habitación individual,89,4.65,51.53009,-0.22421
-27103671,Lambeth,Inner London,Compartido,35,3.83,51.4863,-0.12569
-183336,Brent,Outer London,Habitación individual,49,4.21,51.53515,-0.20267
-16891527,Hounslow,Outer London,Base privada,145,6.16,51.4909,-0.26291
-7811836,Haringey,Outer London,Base privada,76,10.98,51.5899,-0.10544
-15212830,Westminster,Inner London,Habitación individual,85,4.08,51.51122,-0.11881
-38842919,Wandsworth,Inner London,Base privada,120,5.32,51.46848,-0.23142
-18801225,Islington,Inner London,Base privada,145,5.31,51.5229,-0.10714
-18383561,Lambeth,Inner London,Base privada,65,7.78,51.43732,-0.12993
-25198779,Greenwich,Inner London,Base privada,70,16.88,51.48415,0.06669
-39948575,Hounslow,Outer London,Habitación individual,25,15.02,51.48004,-0.38972
-12849659,Brent,Outer London,Habitación individual,52,8.12,51.55734,-0.25069
-717964,Camden,Inner London,Base privada,200,6.32,51.55814,-0.17672
-39199749,Camden,Inner London,Base privada,200,4.52,51.52461,-0.12192
-39517782,Newham,Outer London,Base privada,104,13.94,51.50547,0.02579
-19923993,Kensington and Chelsea,Inner London,Base privada,130,0.86,51.49476,-0.16899
-22491303,Kingston upon Thames,Outer London,Habitación individual,49,12.03,51.42583,-0.29983
-38813057,Tower Hamlets,Inner London,Base privada,79,8.19,51.52792,-0.06521
-32779607,Newham,Outer London,Base privada,75,11.91,51.53201,-0.01065
-23510921,Tower Hamlets,Inner London,Base privada,142,11.24,51.49788,-0.01327
-6091847,Hounslow,Outer London,Base privada,69,10.97,51.48578,-0.33196
-2213040,Richmond upon Thames,Outer London,Habitación individual,25,13.99,51.45343,-0.36231
-37719898,Islington,Inner London,Base privada,170,6.42,51.52131,-0.08847
-19456046,Hackney,Inner London,Base privada,190,7.24,51.525,-0.07803
-32289634,Haringey,Outer London,Base privada,120,10.21,51.57668,-0.09127
-15029298,Tower Hamlets,Inner London,Habitación individual,40,8.83,51.53028,-0.05664
-14627392,Southwark,Inner London,Habitación individual,44,7.81,51.46743,-0.07671
-32329681,Camden,Inner London,Base privada,175,5.07,51.54582,-0.15961
-28000159,Camden,Inner London,Base privada,150,4.65,51.54281,-0.18372
-35972402,Barking and Dagenham,Outer London,Habitación individual,25,22.71,51.54023,0.14665
-34560337,Kensington and Chelsea,Inner London,Base privada,250,2.87,51.51818,-0.20678
-37698666,Haringey,Outer London,Base privada,149,10.21,51.59089,-0.14323
-29505549,Wandsworth,Inner London,Habitación individual,26,8.91,51.42331,-0.14574
-25517520,Lambeth,Inner London,Base privada,234,4.13,51.49812,-0.11604
-23355105,Lambeth,Inner London,Habitación individual,85,4.39,51.49367,-0.11325
-16715324,Kensington and Chelsea,Inner London,Hotel,195,1.4,51.49115,-0.16361
-38145263,Tower Hamlets,Inner London,Base privada,120,11.57,51.49958,-0.00835
-36089204,Westminster,Inner London,Base privada,240,1.53,51.51502,-0.17731
-8514962,Southwark,Inner London,Base privada,522,5.64,51.50002,-0.09404
-15003980,Westminster,Inner London,Habitación individual,49,3.09,51.52747,-0.19039
-31252152,Islington,Inner London,Base privada,84,8.34,51.57136,-0.13243
-33717005,Hillingdon,Outer London,Habitación individual,23,16.42,51.4942,-0.41244
-30348289,Kingston upon Thames,Outer London,Habitación individual,35,11.29,51.42243,-0.27807
-35062948,Lambeth,Inner London,Habitación individual,56,6.65,51.45471,-0.11535
-38866875,Tower Hamlets,Inner London,Habitación individual,55,7.8,51.51199,-0.06417
-12877982,Camden,Inner London,Habitación individual,32,5.7,51.55036,-0.19927
-35857357,Waltham Forest,Outer London,Habitación individual,23,15.82,51.58978,0.0036
-37623459,Camden,Inner London,Habitación individual,45,4.47,51.54131,-0.18185
-21672226,Kensington and Chelsea,Inner London,Base privada,170,2.18,51.48224,-0.18302
-264789,Lewisham,Inner London,Base privada,170,12.47,51.44345,-0.0213
-34806397,Tower Hamlets,Inner London,Base privada,222,8.28,51.51587,-0.05823
-6596709,Southwark,Inner London,Habitación individual,35,7.99,51.49586,-0.06041
-18049461,Westminster,Inner London,Base privada,148,2.27,51.52129,-0.16855
-19843185,Kensington and Chelsea,Inner London,Base privada,120,1.89,51.50808,-0.20049
-37590630,Islington,Inner London,Base privada,100,5.61,51.52312,-0.10238
-9178603,Barnet,Outer London,Habitación individual,60,8.08,51.57269,-0.19755
-20240334,Ealing,Outer London,Base privada,85,7.44,51.51137,-0.28177
-21697609,Newham,Outer London,Habitación individual,25,12.85,51.52074,0.00758
-20660382,Southwark,Inner London,Habitación individual,45,6.0,51.48116,-0.09512
-38511496,Lambeth,Inner London,Base privada,80,5.86,51.46093,-0.12102
-35563053,Camden,Inner London,Base privada,90,6.55,51.55564,-0.13894
-23744307,Hackney,Inner London,Base privada,150,10.88,51.55241,-0.0414
-8887059,Westminster,Inner London,Base privada,135,2.35,51.52105,-0.18768
-29502574,Tower Hamlets,Inner London,Habitación individual,55,8.83,51.53121,-0.05731
-17621930,Hackney,Inner London,Habitación individual,35,8.04,51.54484,-0.08267
-2649920,Lambeth,Inner London,Base privada,420,5.12,51.47199,-0.1185
-28985947,Southwark,Inner London,Base privada,165,5.37,51.4966,-0.09829
-1474834,Lambeth,Inner London,Habitación individual,34,6.85,51.4516,-0.11695
-19482789,Tower Hamlets,Inner London,Habitación individual,25,9.48,51.51999,-0.04188
-33710688,Southwark,Inner London,Habitación individual,52,5.34,51.49279,-0.09962
-1202617,Camden,Inner London,Habitación individual,65,6.74,51.56107,-0.19208
-16943486,Southwark,Inner London,Habitación individual,35,5.42,51.48008,-0.10506
-31940106,Westminster,Inner London,Habitación individual,72,4.51,51.51306,-0.11309
-35278087,Newham,Outer London,Habitación individual,27,14.17,51.54201,0.0185
-6218581,Kensington and Chelsea,Inner London,Base privada,350,0.92,51.49316,-0.17765
-39855867,Hackney,Inner London,Base privada,100,9.28,51.54593,-0.06212
-20399917,Kensington and Chelsea,Inner London,Base privada,190,1.68,51.51082,-0.19434
-24952931,Southwark,Inner London,Base privada,99,9.96,51.44325,-0.06602
-19244251,Merton,Outer London,Base privada,275,7.03,51.43985,-0.19909
-37609471,Westminster,Inner London,Base privada,150,3.17,51.511,-0.1324
-26557862,Southwark,Inner London,Base privada,100,7.95,51.47191,-0.07078
-7346264,Islington,Inner London,Base privada,105,5.94,51.52766,-0.10079
-19301607,Westminster,Inner London,Base privada,155,2.79,51.51374,-0.14051
-37263882,Camden,Inner London,Base privada,95,5.01,51.5438,-0.19949
-4913940,Richmond upon Thames,Outer London,Base privada,155,7.62,51.46704,-0.27076
-33393516,Lewisham,Inner London,Base privada,90,10.62,51.4775,-0.02701
-24373434,Wandsworth,Inner London,Base privada,125,2.72,51.48326,-0.14904
-36879525,Camden,Inner London,Habitación individual,51,4.86,51.53092,-0.12391
-12101927,Kensington and Chelsea,Inner London,Habitación individual,55,1.57,51.4924,-0.19315
-6521539,Brent,Outer London,Habitación individual,32,5.41,51.53405,-0.23335
-19673104,Camden,Inner London,Base privada,299,4.57,51.53673,-0.14206
-36858823,Kensington and Chelsea,Inner London,Base privada,129,1.05,51.49276,-0.16909
-31460892,Westminster,Inner London,Habitación individual,28,2.95,51.48593,-0.14077
-21123259,Lambeth,Inner London,Habitación individual,35,4.83,51.48023,-0.11448
-23424859,Islington,Inner London,Base privada,200,5.52,51.52467,-0.1051
-39135650,Kensington and Chelsea,Inner London,Base privada,206,0.96,51.49395,-0.18282
-15669093,Richmond upon Thames,Outer London,Habitación individual,65,10.17,51.4565,-0.30348
-37356514,Hounslow,Outer London,Habitación individual,38,15.88,51.47127,-0.39968
-20511353,Hackney,Inner London,Base privada,129,7.54,51.53471,-0.08074
-35043365,Hammersmith and Fulham,Inner London,Hotel,225,3.61,51.50833,-0.22643
-7553312,Merton,Outer London,Habitación individual,95,8.5,51.42909,-0.21555
-23756069,Tower Hamlets,Inner London,Base privada,200,7.48,51.50623,-0.06773
-31984182,Waltham Forest,Outer London,Habitación individual,50,12.97,51.57861,-0.03516
-14549541,Merton,Outer London,Habitación individual,25,10.12,51.41101,-0.19404
-1425110,Camden,Inner London,Habitación individual,75,5.45,51.54896,-0.19358
-31496966,Hammersmith and Fulham,Inner London,Base privada,120,2.66,51.4867,-0.20602
-19208401,Kensington and Chelsea,Inner London,Habitación individual,55,1.7,51.48754,-0.16467
-1052279,Sutton,Outer London,Habitación individual,25,14.08,51.37529,-0.15511
-11009946,Haringey,Outer London,Habitación individual,19,11.78,51.59512,-0.0965
-23643690,Hammersmith and Fulham,Inner London,Base privada,120,3.08,51.50495,-0.2196
-5909215,Wandsworth,Inner London,Habitación individual,35,7.14,51.43982,-0.20504
-40755411,Hammersmith and Fulham,Inner London,Habitación individual,60,3.09,51.50579,-0.21962
-26113551,Hammersmith and Fulham,Inner London,Base privada,228,2.77,51.48251,-0.20187
-661917,Kingston upon Thames,Outer London,Habitación individual,42,12.88,51.41743,-0.30365
-38145404,Tower Hamlets,Inner London,Habitación individual,41,8.45,51.51114,-0.05447
-13090999,Hammersmith and Fulham,Inner London,Habitación individual,100,3.04,51.47441,-0.18368
-31733415,Barnet,Outer London,Habitación individual,49,14.69,51.63214,-0.14584
-32694484,Westminster,Inner London,Base privada,100,2.29,51.48872,-0.14925
-36524346,Westminster,Inner London,Habitación individual,86,2.09,51.51976,-0.16972
-29172211,Brent,Outer London,Habitación individual,75,6.09,51.53837,-0.24028
-17581010,Camden,Inner London,Base privada,120,5.23,51.54221,-0.1382
-28728675,Tower Hamlets,Inner London,Habitación individual,24,10.9,51.52239,-0.0217
-9267847,Redbridge,Outer London,Base privada,87,16.46,51.56286,0.04085
-32520661,Westminster,Inner London,Base privada,194,3.24,51.49788,-0.12906
-34903774,Hammersmith and Fulham,Inner London,Base privada,90,2.54,51.49033,-0.20769
-16145573,Merton,Outer London,Habitación individual,41,8.89,51.42272,-0.19891
-27803456,Bromley,Outer London,Base privada,105,18.86,51.39466,0.03612
-4670845,Lambeth,Inner London,Habitación individual,39,10.06,51.41542,-0.12971
-17657876,Lambeth,Inner London,Base privada,85,11.17,51.41997,-0.08083
-26101019,Croydon,Outer London,Base privada,65,10.08,51.41829,-0.11714
-34256812,Hammersmith and Fulham,Inner London,Base privada,87,3.52,51.48533,-0.21937
-28773995,Camden,Inner London,Base privada,200,4.64,51.5357,-0.13754
-34137057,Westminster,Inner London,Base privada,120,3.31,51.51993,-0.13826
-26315334,Waltham Forest,Outer London,Base privada,180,14.75,51.56673,0.00999
-27184240,Barnet,Outer London,Hotel,90,11.75,51.59621,-0.25032
-7290689,Brent,Outer London,Habitación individual,40,5.34,51.53574,-0.22938
-19205371,Westminster,Inner London,Base privada,70,2.28,51.48785,-0.15065
-22381748,Kensington and Chelsea,Inner London,Base privada,299,1.42,51.49164,-0.16207
-9994229,Camden,Inner London,Base privada,145,5.09,51.54671,-0.16586
-23310490,Hammersmith and Fulham,Inner London,Habitación individual,55,3.07,51.50661,-0.21908
-31035061,Westminster,Inner London,Base privada,130,4.04,51.51427,-0.12094
-32019700,Newham,Outer London,Habitación individual,25,14.65,51.51496,0.03503
-16935958,Southwark,Inner London,Base privada,250,5.65,51.50371,-0.09403
-34276724,Greenwich,Inner London,Base privada,132,11.78,51.47446,-0.01097
-36843829,Kensington and Chelsea,Inner London,Base privada,125,1.61,51.49961,-0.19867
-25434739,Kensington and Chelsea,Inner London,Habitación individual,85,1.65,51.49589,-0.19777
-28509410,Tower Hamlets,Inner London,Base privada,139,8.37,51.52734,-0.06207
-20911184,Kensington and Chelsea,Inner London,Base privada,286,1.7,51.51075,-0.19486
-39505255,Westminster,Inner London,Base privada,159,2.93,51.50893,-0.13503
-872544,Lewisham,Inner London,Habitación individual,32,12.14,51.4558,-0.01612
-20911008,Kensington and Chelsea,Inner London,Base privada,320,1.67,51.48635,-0.1778
-39881225,Camden,Inner London,Base privada,120,6.62,51.55647,-0.13969
-5586678,Islington,Inner London,Base privada,110,8.22,51.55216,-0.08931
-18665595,Hammersmith and Fulham,Inner London,Base privada,114,3.02,51.50185,-0.21906
-26411989,Tower Hamlets,Inner London,Base privada,83,10.35,51.50033,-0.02593
-24617859,Greenwich,Inner London,Base privada,200,17.71,51.49345,0.08008
-25100210,Richmond upon Thames,Outer London,Habitación individual,75,7.86,51.47682,-0.28206
-37527770,Camden,Inner London,Habitación individual,48,4.47,51.54119,-0.18315
-38344062,Wandsworth,Inner London,Base privada,185,3.47,51.48195,-0.13624
-25013556,Greenwich,Inner London,Base privada,125,14.69,51.48438,0.03497
-17146129,Islington,Inner London,Habitación individual,55,5.74,51.53857,-0.11802
-37646247,Tower Hamlets,Inner London,Habitación individual,45,10.14,51.52504,-0.03397
-36180904,Waltham Forest,Outer London,Habitación individual,55,13.15,51.57983,-0.03339
-16821590,Hammersmith and Fulham,Inner London,Base privada,75,3.47,51.49089,-0.22277
-25127045,Hackney,Inner London,Base privada,80,10.1,51.55342,-0.05593
-16043352,Islington,Inner London,Habitación individual,43,5.6,51.5356,-0.11621
-14317777,Lambeth,Inner London,Base privada,95,8.52,51.43055,-0.12816
-10764277,Southwark,Inner London,Base privada,240,8.12,51.49436,-0.05871
-30361989,Kensington and Chelsea,Inner London,Base privada,300,1.08,51.49622,-0.18877
-30444357,Kingston upon Thames,Outer London,Habitación individual,39,15.96,51.38044,-0.29979
-34111024,Kensington and Chelsea,Inner London,Base privada,139,2.3,51.48204,-0.18748
-389862,Camden,Inner London,Habitación individual,40,7.94,51.57034,-0.1461
-16247891,Westminster,Inner London,Base privada,199,2.93,51.48905,-0.13795
-8286162,Hackney,Inner London,Habitación individual,36,9.78,51.53921,-0.048
-4499054,Brent,Outer London,Habitación individual,70,5.11,51.54156,-0.21098
-28244563,Harrow,Outer London,Habitación individual,35,16.01,51.61941,-0.30797
-33480885,Lewisham,Inner London,Habitación individual,25,10.87,51.45029,-0.04168
-29696253,Tower Hamlets,Inner London,Base privada,155,7.65,51.5239,-0.07114
-15062700,Camden,Inner London,Habitación individual,47,7.39,51.56471,-0.14351
-11068436,Islington,Inner London,Habitación individual,49,5.52,51.53728,-0.12055
-39555575,Islington,Inner London,Habitación individual,70,7.76,51.54681,-0.09047
-37042300,Merton,Outer London,Base privada,145,10.95,51.4032,-0.162
-18981452,Tower Hamlets,Inner London,Habitación individual,29,11.59,51.49616,-0.00826
-16856739,Newham,Outer London,Habitación individual,30,13.91,51.54726,0.01157
-20157423,Hackney,Inner London,Habitación individual,26,9.42,51.55468,-0.06974
-25818416,Hackney,Inner London,Compartido,30,8.68,51.54539,-0.07204
-37773613,Southwark,Inner London,Base privada,456,5.36,51.50408,-0.09815
-13120366,Lambeth,Inner London,Habitación individual,47,8.11,51.43894,-0.11475
-35245685,Westminster,Inner London,Base privada,119,1.81,51.51715,-0.18135
-5850271,Tower Hamlets,Inner London,Habitación individual,49,7.56,51.52546,-0.07345
-17748535,Southwark,Inner London,Base privada,120,6.6,51.4998,-0.08014
-39119335,Hackney,Inner London,Base privada,100,9.08,51.54853,-0.06844
-37701860,Richmond upon Thames,Outer London,Base privada,105,6.86,51.47022,-0.2611
-32052942,Camden,Inner London,Base privada,110,4.53,51.531,-0.13059
-16542312,Camden,Inner London,Base privada,120,4.98,51.53988,-0.13901
-20203166,Southwark,Inner London,Base privada,220,5.32,51.50205,-0.09864
-35880499,Camden,Inner London,Habitación individual,58,4.41,51.51813,-0.11779
-12702978,Hillingdon,Outer London,Habitación individual,34,14.7,51.52703,-0.38392
-36260382,Barnet,Outer London,Base privada,99,10.11,51.59171,-0.1909
-1098593,Kensington and Chelsea,Inner London,Habitación individual,50,3.23,51.51461,-0.21698
-4005962,Islington,Inner London,Base privada,95,7.3,51.55209,-0.10875
-17817689,Tower Hamlets,Inner London,Base privada,85,8.21,51.51529,-0.05897
-37228388,Westminster,Inner London,Base privada,190,3.21,51.51107,-0.13183
-8796376,Westminster,Inner London,Base privada,129,2.61,51.49228,-0.14068
-18328546,Barnet,Outer London,Habitación individual,23,15.95,51.64335,-0.20711
-28487710,Tower Hamlets,Inner London,Base privada,100,8.25,51.51177,-0.05743
-24937899,Brent,Outer London,Compartido,25,5.82,51.54588,-0.2197
-17974476,Hammersmith and Fulham,Inner London,Habitación individual,25,4.62,51.50368,-0.24217
-441525,Islington,Inner London,Base privada,100,6.64,51.53761,-0.09928
-39043130,Westminster,Inner London,Base privada,165,2.84,51.49193,-0.13729
-15503385,Wandsworth,Inner London,Base privada,128,5.17,51.46342,-0.2188
-31915402,Westminster,Inner London,Base privada,89,3.35,51.51285,-0.13079
-12460823,Wandsworth,Inner London,Habitación individual,95,5.08,51.45602,-0.16548
-27126052,Hammersmith and Fulham,Inner London,Base privada,55,3.61,51.50377,-0.22744
-32585544,Lambeth,Inner London,Habitación individual,45,4.63,51.47318,-0.12622
-34090338,Wandsworth,Inner London,Habitación individual,35,4.84,51.45875,-0.16082
-17487943,Hammersmith and Fulham,Inner London,Habitación individual,20,3.04,51.47895,-0.20084
-32733502,Camden,Inner London,Base privada,347,4.41,51.51838,-0.11791
-19607900,Wandsworth,Inner London,Habitación individual,35,7.54,51.45285,-0.2517
-38489352,Wandsworth,Inner London,Base privada,122,2.69,51.48329,-0.14957
-6653445,Southwark,Inner London,Base privada,160,5.22,51.49958,-0.10013
-550492,Haringey,Outer London,Base privada,149,11.28,51.59994,-0.13742
-38211336,Barnet,Outer London,Base privada,99,14.58,51.6163,-0.27669
-8789500,Wandsworth,Inner London,Habitación individual,37,7.4,51.43491,-0.16791
-11528703,Lewisham,Inner London,Habitación individual,90,9.22,51.47851,-0.04739
-528124,Camden,Inner London,Habitación individual,46,6.29,51.55659,-0.19488
-19133344,Tower Hamlets,Inner London,Habitación individual,50,8.07,51.5137,-0.06063
-22764274,Westminster,Inner London,Base privada,85,3.39,51.52689,-0.20226
-33981556,Richmond upon Thames,Outer London,Base privada,240,11.2,51.46307,-0.32507
-18209044,Islington,Inner London,Base privada,120,8.43,51.56901,-0.12057
-39407967,Lewisham,Inner London,Base privada,110,11.71,51.46646,-0.01595
-12542053,Camden,Inner London,Base privada,82,4.58,51.53702,-0.14261
-24893201,Hounslow,Outer London,Base privada,120,15.4,51.47757,-0.39465
-409270,Lambeth,Inner London,Habitación individual,60,4.84,51.4681,-0.13031
-34028371,Wandsworth,Inner London,Habitación individual,99,4.42,51.46158,-0.17322
-37082981,Islington,Inner London,Base privada,130,5.64,51.52298,-0.10182
-26707079,Kensington and Chelsea,Inner London,Base privada,200,1.85,51.48589,-0.18575
-21681286,Lewisham,Inner London,Habitación individual,55,10.95,51.47694,-0.02228
-38664252,Southwark,Inner London,Base privada,68,6.99,51.47214,-0.08601
-27694332,Greenwich,Inner London,Base privada,598,12.83,51.48517,0.00796
-1283474,Newham,Outer London,Habitación individual,85,14.36,51.5028,0.03194
-8396056,Lambeth,Inner London,Habitación individual,57,6.38,51.45604,-0.11895
-23555322,Tower Hamlets,Inner London,Habitación individual,46,7.78,51.51222,-0.06444
-9425208,Southwark,Inner London,Habitación individual,45,9.61,51.49816,-0.03683
-16552252,Haringey,Outer London,Habitación individual,49,9.0,51.57512,-0.12213
-40868732,Camden,Inner London,Habitación individual,50,4.49,51.52067,-0.1185
-23763266,Hackney,Inner London,Habitación individual,35,6.83,51.53029,-0.08842
-32220063,Lewisham,Inner London,Habitación individual,45,11.52,51.46662,-0.01876
-40193631,Southwark,Inner London,Habitación individual,29,7.54,51.46277,-0.08586
-21348750,Hammersmith and Fulham,Inner London,Base privada,220,3.01,51.4805,-0.2034
-18643340,Tower Hamlets,Inner London,Base privada,250,7.85,51.51327,-0.0637
-9884291,Southwark,Inner London,Habitación individual,50,8.81,51.50223,-0.04821
-22080815,Camden,Inner London,Compartido,19,4.51,51.53099,-0.13102
-31308995,Lewisham,Inner London,Habitación individual,24,10.84,51.45492,-0.03788
-39694701,Ealing,Outer London,Base privada,55,7.73,51.50296,-0.28719
-19601243,Tower Hamlets,Inner London,Habitación individual,55,7.54,51.50927,-0.06738
-2051141,Islington,Inner London,Habitación individual,50,5.49,51.52146,-0.10308
-4580359,Hammersmith and Fulham,Inner London,Habitación individual,67,3.31,51.49715,-0.22286
-40944323,City of London,Inner London,Base privada,199,6.89,51.51911,-0.08011
-36353532,Camden,Inner London,Base privada,180,4.98,51.54315,-0.14984
-32303128,Kensington and Chelsea,Inner London,Habitación individual,46,1.5,51.50891,-0.19333
-28182546,Westminster,Inner London,Base privada,195,2.68,51.5236,-0.16099
-39406703,Hackney,Inner London,Habitación individual,85,7.22,51.5271,-0.07976
-23082488,Westminster,Inner London,Habitación individual,57,2.46,51.52236,-0.16462
-329585,Lambeth,Inner London,Base privada,138,4.83,51.46903,-0.12875
-23665982,Islington,Inner London,Base privada,95,8.54,51.56442,-0.10528
-17131728,Southwark,Inner London,Habitación individual,100,8.83,51.47397,-0.05576
-521547,Lewisham,Inner London,Habitación individual,35,14.32,51.43872,0.00515
-33833366,Westminster,Inner London,Base privada,350,1.73,51.51647,-0.18101
-18688216,Lewisham,Inner London,Habitación individual,26,13.56,51.42627,-0.02111
-34407507,Enfield,Outer London,Habitación individual,20,16.96,51.63076,-0.0457
-32540539,Tower Hamlets,Inner London,Habitación individual,50,7.28,51.50987,-0.07125
-33436742,Westminster,Inner London,Base privada,118,3.27,51.52766,-0.19645
-27872336,Camden,Inner London,Habitación individual,50,4.6,51.52298,-0.11889
-39202491,Westminster,Inner London,Habitación individual,55,2.94,51.4969,-0.13367
-37288302,Brent,Outer London,Base privada,100,6.22,51.54968,-0.22065
-30337071,Kensington and Chelsea,Inner London,Habitación individual,165,0.82,51.49873,-0.16442
-22133464,Lewisham,Inner London,Habitación individual,40,10.74,51.46054,-0.03493
-40907504,Camden,Inner London,Base privada,119,5.92,51.54541,-0.12758
-33040458,Lambeth,Inner London,Habitación individual,50,4.62,51.50107,-0.10881
-27719002,Camden,Inner London,Base privada,105,4.96,51.54292,-0.14977
-19132509,Brent,Outer London,Base privada,100,5.0,51.54317,-0.20203
-36756071,Tower Hamlets,Inner London,Base privada,75,9.77,51.52896,-0.04143
-29176332,Kensington and Chelsea,Inner London,Base privada,192,1.83,51.49202,-0.19728
-33061841,Hackney,Inner London,Base privada,300,9.68,51.56154,-0.07444
-27199608,Wandsworth,Inner London,Base privada,60,3.51,51.46992,-0.16945
-39173165,Islington,Inner London,Base privada,199,5.96,51.54131,-0.11828
-28455945,Bromley,Outer London,Habitación individual,32,14.42,51.40235,-0.04101
-41371744,Kensington and Chelsea,Inner London,Habitación individual,40,1.78,51.49264,-0.19717
-32115611,Greenwich,Inner London,Base privada,79,12.58,51.48304,0.00384
-29033913,Westminster,Inner London,Base privada,155,1.66,51.51463,-0.16457
-17644623,Islington,Inner London,Base privada,97,6.45,51.53246,-0.0968
-28974919,Kensington and Chelsea,Inner London,Base privada,995,3.16,51.52077,-0.20882
-21079652,Croydon,Outer London,Habitación individual,15,13.47,51.38402,-0.12671
-39196526,Westminster,Inner London,Habitación individual,250,1.83,51.51373,-0.19276
-32718277,Westminster,Inner London,Base privada,110,2.45,51.4914,-0.1439
-24764708,Islington,Inner London,Habitación individual,33,6.29,51.54471,-0.11732
-38768678,Kensington and Chelsea,Inner London,Base privada,100,2.28,51.48127,-0.18272
-30393396,Islington,Inner London,Base privada,150,6.34,51.53613,-0.10302
-27252509,Ealing,Outer London,Habitación individual,45,8.18,51.51278,-0.29223
-28025913,Camden,Inner London,Base privada,75,5.45,51.55022,-0.16961
-14362319,Tower Hamlets,Inner London,Base privada,115,9.1,51.51125,-0.04496
-31255924,Richmond upon Thames,Outer London,Base privada,112,10.78,51.4541,-0.3115
-13183897,Brent,Outer London,Compartido,13,5.54,51.54621,-0.21029
-18146967,Lewisham,Inner London,Base privada,110,10.65,51.46778,-0.03143
-23533575,Camden,Inner London,Base privada,227,5.33,51.53619,-0.1226
-31945961,Kensington and Chelsea,Inner London,Hotel,121,1.3,51.49173,-0.16477
-3754439,Barnet,Outer London,Habitación individual,26,12.71,51.60608,-0.24899
-33178101,Greenwich,Inner London,Habitación individual,26,17.43,51.49395,0.07598
-25259947,Kensington and Chelsea,Inner London,Base privada,249,0.92,51.4945,-0.16782
-40130135,Havering,Outer London,Habitación individual,30,25.87,51.55013,0.19011
-40193087,Camden,Inner London,Base privada,250,5.84,51.54848,-0.13825
-25345793,Westminster,Inner London,Base privada,330,2.21,51.51173,-0.14838
-38137573,Greenwich,Inner London,Base privada,170,11.42,51.474,-0.01651
-30519119,Camden,Inner London,Base privada,175,4.7,51.53401,-0.13241
-26210292,Camden,Inner London,Base privada,150,4.72,51.5412,-0.15223
-27324501,Tower Hamlets,Inner London,Base privada,147,7.62,51.52343,-0.07134
-5344655,Kingston upon Thames,Outer London,Habitación individual,40,12.37,51.40176,-0.25524
-38986744,Hackney,Inner London,Habitación individual,75,11.17,51.54641,-0.03117
-2003011,Haringey,Outer London,Base privada,150,8.81,51.5683,-0.10754
-20993911,Barnet,Outer London,Habitación individual,45,7.88,51.56892,-0.20947
-7180348,Barnet,Outer London,Habitación individual,48,7.71,51.56833,-0.2038
-37873486,Westminster,Inner London,Base privada,89,3.13,51.48833,-0.13544
-19851801,Brent,Outer London,Base privada,70,6.76,51.5371,-0.2544
-32659015,Kensington and Chelsea,Inner London,Hotel,195,1.31,51.49135,-0.1654
-30248262,Newham,Outer London,Base privada,130,13.96,51.50817,0.0259
-29705238,Kensington and Chelsea,Inner London,Base privada,165,1.43,51.49115,-0.16286
-10352128,Lewisham,Inner London,Habitación individual,20,11.42,51.42829,-0.05958
-16732018,Hackney,Inner London,Base privada,90,8.4,51.54357,-0.07483
-7662202,Kensington and Chelsea,Inner London,Base privada,95,1.05,51.49481,-0.1866
-13381921,Hammersmith and Fulham,Inner London,Habitación individual,50,2.97,51.48153,-0.2044
-19114093,Southwark,Inner London,Habitación individual,30,5.96,51.49078,-0.09101
-39438551,Lewisham,Inner London,Base privada,200,10.89,51.43871,-0.05459
-31246945,Westminster,Inner London,Base privada,263,2.39,51.48976,-0.14644
-2729885,Westminster,Inner London,Habitación individual,110,3.17,51.50713,-0.13072
-32286606,Brent,Outer London,Habitación individual,45,6.23,51.54346,-0.23475
-20593111,Waltham Forest,Outer London,Habitación individual,45,14.24,51.57517,-0.00729
-40650984,Kensington and Chelsea,Inner London,Habitación individual,46,2.34,51.51371,-0.20274
-9500087,Camden,Inner London,Base privada,234,4.36,51.53255,-0.13745
-5658829,Lambeth,Inner London,Base privada,133,5.11,51.46655,-0.12717
-8229074,Brent,Outer London,Base privada,110,4.02,51.5357,-0.19353
-3293028,Ealing,Outer London,Base privada,106,10.0,51.50149,-0.32002
-24641140,Camden,Inner London,Base privada,250,4.68,51.54297,-0.16599
-17356830,Waltham Forest,Outer London,Base privada,80,14.81,51.59565,-0.0243
-29048353,Westminster,Inner London,Base privada,150,1.64,51.51526,-0.18292
-28063778,Hammersmith and Fulham,Inner London,Base privada,135,2.21,51.48661,-0.19708
-6935007,Richmond upon Thames,Outer London,Habitación individual,90,12.12,51.44705,-0.32736
-4775374,Hackney,Inner London,Base privada,250,10.82,51.54748,-0.03781
-24416979,Brent,Outer London,Base privada,120,5.1,51.54435,-0.20094
-38426537,Westminster,Inner London,Habitación individual,70,1.27,51.51272,-0.17568
-4386827,Hammersmith and Fulham,Inner London,Base privada,150,2.7,51.48829,-0.20843
-26562402,Haringey,Outer London,Base privada,98,12.44,51.60898,-0.12648
-27889807,Lambeth,Inner London,Habitación individual,37,6.27,51.45715,-0.11912
-27054712,Lewisham,Inner London,Habitación individual,21,13.25,51.42829,-0.02427
-38474765,Islington,Inner London,Base privada,140,7.42,51.54032,-0.08859
-31739081,Tower Hamlets,Inner London,Base privada,130,8.13,51.51676,-0.06075
-13049519,Tower Hamlets,Inner London,Base privada,150,10.82,51.51579,-0.02083
-31612083,Camden,Inner London,Hotel,105,4.84,51.54479,-0.17507
-7339011,Westminster,Inner London,Base privada,300,2.48,51.49177,-0.14304
-28537099,Tower Hamlets,Inner London,Base privada,100,10.91,51.49841,-0.01795
-29205613,Tower Hamlets,Inner London,Base privada,278,7.84,51.51567,-0.06464
-29323898,Tower Hamlets,Inner London,Base privada,135,12.61,51.51183,0.00595
-10924783,Richmond upon Thames,Outer London,Habitación individual,65,13.75,51.43173,-0.33962
-13508329,Lewisham,Inner London,Base privada,125,12.18,51.44731,-0.02255
-31395242,Wandsworth,Inner London,Base privada,125,5.81,51.45059,-0.19573
-29176185,Islington,Inner London,Habitación individual,23,8.11,51.56193,-0.11023
-37458593,Westminster,Inner London,Base privada,200,2.51,51.51602,-0.14808
-31235074,Newham,Outer London,Habitación individual,50,17.47,51.50648,0.07679
-39246333,Brent,Outer London,Base privada,90,4.62,51.53976,-0.20084
-27334089,Merton,Outer London,Habitación individual,26,9.75,51.41364,-0.18107
-21019340,Tower Hamlets,Inner London,Hotel,145,7.26,51.51448,-0.07277
-21971082,Hackney,Inner London,Habitación individual,35,9.26,51.56767,-0.09454
-25078317,Islington,Inner London,Habitación individual,80,5.85,51.52659,-0.10143
-17724838,Tower Hamlets,Inner London,Habitación individual,35,8.29,51.53104,-0.06562
-24391609,Kensington and Chelsea,Inner London,Base privada,100,1.52,51.49455,-0.19465
-18425876,Hammersmith and Fulham,Inner London,Base privada,199,3.83,51.48142,-0.22064
-7537897,Southwark,Inner London,Habitación individual,45,5.15,51.50037,-0.10115
-20616190,Camden,Inner London,Base privada,90,3.85,51.52736,-0.13878
-33635691,Redbridge,Outer London,Habitación individual,53,18.52,51.59454,0.0465
-20988026,Brent,Outer London,Habitación individual,55,4.46,51.53311,-0.21466
-37198731,Lewisham,Inner London,Base privada,130,9.05,51.47688,-0.05081
-699256,Hammersmith and Fulham,Inner London,Habitación individual,60,3.94,51.47491,-0.21342
-9002199,Newham,Outer London,Habitación individual,23,15.05,51.55066,0.02713
-16350713,Tower Hamlets,Inner London,Habitación individual,53,11.59,51.50157,-0.0081
-23533461,Hammersmith and Fulham,Inner London,Base privada,65,2.51,51.48855,-0.20546
-29393661,City of London,Inner London,Base privada,162,6.74,51.51263,-0.07979
-29382912,Kensington and Chelsea,Inner London,Base privada,90,1.51,51.50614,-0.19586
-36306193,Lewisham,Inner London,Habitación individual,35,14.84,51.44177,0.01625
-9820596,Ealing,Outer London,Base privada,82,10.4,51.51048,-0.32497
-32688335,Camden,Inner London,Base privada,295,4.45,51.51943,-0.11823
-7852769,Richmond upon Thames,Outer London,Habitación individual,65,12.89,51.44434,-0.33756
-29090242,Brent,Outer London,Habitación individual,36,7.07,51.55207,-0.23712
-6773905,Ealing,Outer London,Base privada,500,8.73,51.50869,-0.30101
-502790,Lambeth,Inner London,Base privada,120,5.73,51.47531,-0.10403
-23751215,Greenwich,Inner London,Base privada,140,13.74,51.47648,0.01893
-38120752,Southwark,Inner London,Base privada,343,5.96,51.50032,-0.08935
-35559626,Harrow,Outer London,Base privada,120,15.49,51.59678,-0.33856
-12400792,Tower Hamlets,Inner London,Habitación individual,49,11.24,51.49589,-0.01339
-20181986,Greenwich,Inner London,Base privada,70,17.29,51.48824,0.07344
-31399806,Tower Hamlets,Inner London,Habitación individual,90,10.01,51.52923,-0.03804
-29182347,Westminster,Inner London,Base privada,105,1.65,51.51406,-0.18759
-35369691,Islington,Inner London,Base privada,125,6.19,51.53045,-0.0993
-9440753,Camden,Inner London,Base privada,450,6.28,51.55776,-0.17848
-21023287,Westminster,Inner London,Base privada,140,2.8,51.52332,-0.15588
-12478820,Camden,Inner London,Habitación individual,89,4.03,51.51912,-0.12487
-30757664,Camden,Inner London,Base privada,100,6.2,51.55686,-0.18365
-22022755,Southwark,Inner London,Base privada,170,5.22,51.50734,-0.10075
-4870484,Hammersmith and Fulham,Inner London,Base privada,130,2.79,51.48291,-0.20291
-11675419,Lewisham,Inner London,Habitación individual,21,10.94,51.44577,-0.04518
-35029375,Merton,Outer London,Base privada,110,8.93,51.42333,-0.20617
-33338587,Hammersmith and Fulham,Inner London,Base privada,160,2.46,51.48966,-0.20569
-28475773,Camden,Inner London,Base privada,476,3.97,51.51806,-0.12483
-36529101,Newham,Outer London,Habitación individual,30,12.48,51.54929,-0.01236
-39318986,Tower Hamlets,Inner London,Base privada,119,8.93,51.5201,-0.04998
-4068010,Camden,Inner London,Base privada,209,4.46,51.52635,-0.12514
-21294054,Greenwich,Inner London,Habitación individual,24,20.21,51.50169,0.11643
-26182898,Camden,Inner London,Base privada,79,4.46,51.54128,-0.18149
-36205477,Newham,Outer London,Habitación individual,27,13.57,51.53433,0.01323
-34168522,Islington,Inner London,Base privada,200,6.64,51.53985,-0.10224
-26037776,Barking and Dagenham,Outer London,Habitación individual,28,18.02,51.5438,0.07589
-39429085,Westminster,Inner London,Base privada,99,1.87,51.51637,-0.16367
-22160400,Tower Hamlets,Inner London,Habitación individual,20,9.73,51.51857,-0.03774
-27835051,Waltham Forest,Outer London,Base privada,65,14.21,51.55512,0.01084
-17161734,Camden,Inner London,Base privada,200,4.65,51.54082,-0.15374
-33130631,Wandsworth,Inner London,Base privada,85,5.53,51.46442,-0.22902
-19345266,Tower Hamlets,Inner London,Habitación individual,99,7.41,51.51144,-0.06974
-482178,City of London,Inner London,Base privada,140,5.8,51.51578,-0.09496
-20076749,Tower Hamlets,Inner London,Base privada,60,7.68,51.52384,-0.07054
-36391397,Redbridge,Outer London,Habitación individual,54,21.24,51.57111,0.11035
-17314564,Ealing,Outer London,Habitación individual,50,5.98,51.51459,-0.25929
-32394343,Ealing,Outer London,Habitación individual,42,6.99,51.50288,-0.2764
-17637693,Camden,Inner London,Base privada,89,4.56,51.52113,-0.11775
-4407523,Camden,Inner London,Base privada,89,5.17,51.54636,-0.19401
-31796250,Westminster,Inner London,Base privada,95,3.4,51.51439,-0.13108
-13969576,Newham,Outer London,Habitación individual,75,15.39,51.5527,0.03098
-20141691,Camden,Inner London,Base privada,100,6.05,51.55171,-0.2083
-24277874,Westminster,Inner London,Base privada,249,3.28,51.51492,-0.13343
-27186515,Brent,Outer London,Hotel,70,6.58,51.53805,-0.25007
-30777325,Westminster,Inner London,Base privada,292,1.78,51.51658,-0.18322
-37647552,Tower Hamlets,Inner London,Habitación individual,29,10.15,51.52324,-0.03309
-30660142,Haringey,Outer London,Habitación individual,62,13.94,51.60402,-0.05985
-38712848,Westminster,Inner London,Base privada,110,2.26,51.51626,-0.19753
-25783658,Tower Hamlets,Inner London,Habitación individual,29,7.94,51.5211,-0.06519
-28998563,Brent,Outer London,Base privada,500,6.59,51.55242,-0.2237
-14840391,Hammersmith and Fulham,Inner London,Base privada,85,3.42,51.47602,-0.20373
-33008409,Tower Hamlets,Inner London,Habitación individual,35,11.41,51.52252,-0.01418
-39740370,Camden,Inner London,Base privada,190,5.68,51.55018,-0.15189
-18629539,Greenwich,Inner London,Base privada,60,13.77,51.47842,0.01998
-20405481,Kensington and Chelsea,Inner London,Hotel,135,1.33,51.4913,-0.16505
-38944973,Westminster,Inner London,Base privada,133,1.87,51.51589,-0.18892
-5075266,Hammersmith and Fulham,Inner London,Base privada,120,2.31,51.48587,-0.19782
-17808694,Kensington and Chelsea,Inner London,Base privada,91,3.27,51.51866,-0.21355
-16597889,Hillingdon,Outer London,Habitación individual,29,19.91,51.50402,-0.46317
-20899090,Tower Hamlets,Inner London,Habitación individual,30,9.9,51.51523,-0.03425
-25771879,Wandsworth,Inner London,Base privada,65,7.27,51.43673,-0.15858
-32161275,Camden,Inner London,Habitación individual,45,6.03,51.55485,-0.16138
-30333054,Camden,Inner London,Base privada,371,4.83,51.52163,-0.1138
-15142942,Hackney,Inner London,Base privada,120,8.73,51.53592,-0.06227
-29649169,Camden,Inner London,Base privada,60,4.97,51.54198,-0.14561
-26766906,Brent,Outer London,Base privada,69,6.41,51.55216,-0.21907
-8279354,Richmond upon Thames,Outer London,Habitación individual,30,13.6,51.45485,-0.35712
-34133919,Brent,Outer London,Base privada,105,7.29,51.55452,-0.23713
-30434170,Havering,Outer London,Habitación individual,45,25.44,51.58004,0.16995
-22224224,Westminster,Inner London,Base privada,250,3.48,51.51262,-0.12856
-29252231,Tower Hamlets,Inner London,Base privada,60,11.15,51.52663,-0.01958
-24951115,Camden,Inner London,Base privada,169,3.63,51.51585,-0.12862
-21591470,City of London,Inner London,Base privada,99,5.84,51.52064,-0.09704
-32008272,Westminster,Inner London,Habitación individual,60,3.07,51.5123,-0.13482
-28151042,Hammersmith and Fulham,Inner London,Habitación individual,100,3.14,51.47619,-0.19629
-13128956,Richmond upon Thames,Outer London,Base privada,160,8.25,51.47431,-0.28647
-18544489,Kensington and Chelsea,Inner London,Base privada,140,1.7,51.51004,-0.19561
-3838369,Islington,Inner London,Base privada,285,6.58,51.52395,-0.08768
-16879324,Camden,Inner London,Base privada,109,4.4,51.51885,-0.11853
-23386785,Lambeth,Inner London,Habitación individual,56,4.29,51.49381,-0.11466
-32214675,Camden,Inner London,Base privada,142,5.69,51.55247,-0.17766
-3916076,Croydon,Outer London,Habitación individual,40,10.08,51.42186,-0.10529
-39455059,Hammersmith and Fulham,Inner London,Habitación individual,65,3.38,51.49967,-0.22429
-584971,Wandsworth,Inner London,Habitación individual,27,6.47,51.44558,-0.14839
-15022955,Croydon,Outer London,Habitación individual,25,12.36,51.40615,-0.08332
-11946740,Merton,Outer London,Habitación individual,30,8.43,51.42597,-0.18977
-957861,Haringey,Outer London,Habitación individual,55,10.24,51.58791,-0.12498
-37924850,Kensington and Chelsea,Inner London,Habitación individual,42,2.56,51.50278,-0.21248
-34620400,Camden,Inner London,Base privada,100,4.03,51.52986,-0.13965
-14518189,Westminster,Inner London,Habitación individual,19,2.84,51.49065,-0.13824
-15921696,Islington,Inner London,Base privada,120,6.16,51.52731,-0.09697
-625296,Kensington and Chelsea,Inner London,Habitación individual,37,4.15,51.52192,-0.22557
-28326002,Brent,Outer London,Base privada,49,6.53,51.54921,-0.23006
-13766921,Lambeth,Inner London,Habitación individual,52,6.18,51.45815,-0.11923
-36873448,Westminster,Inner London,Base privada,150,2.8,51.52463,-0.19086
-22580241,Brent,Outer London,Base privada,95,5.95,51.54577,-0.22328
-14760568,Tower Hamlets,Inner London,Base privada,150,7.4,51.5206,-0.07311
-13724380,Southwark,Inner London,Habitación individual,90,5.06,51.49851,-0.10254
-32313956,Westminster,Inner London,Base privada,200,3.07,51.51087,-0.13392
-27231759,Ealing,Outer London,Compartido,17,6.51,51.51594,-0.26654
-6097361,Westminster,Inner London,Habitación individual,32,3.83,51.53055,-0.20479
-38951707,Camden,Inner London,Base privada,200,4.42,51.52961,-0.13064
-29588677,Wandsworth,Inner London,Habitación individual,60,7.25,51.43885,-0.1453
-28455565,Brent,Outer London,Base privada,80,5.66,51.54631,-0.21365
-1486344,Westminster,Inner London,Base privada,125,2.36,51.52156,-0.16511
-17524120,Kensington and Chelsea,Inner London,Base privada,195,3.51,51.52513,-0.20873
-25240758,Hackney,Inner London,Habitación individual,50,10.16,51.55186,-0.0532
-35430972,Islington,Inner London,Base privada,100,7.52,51.55476,-0.10886
-22874930,Camden,Inner London,Base privada,125,3.44,51.52325,-0.14053
-7281936,Ealing,Outer London,Base privada,119,9.64,51.49652,-0.31456
-29058059,Camden,Inner London,Habitación individual,55,3.8,51.52647,-0.13825
-31940211,Brent,Outer London,Base privada,110,10.08,51.55163,-0.29671
-705526,Hammersmith and Fulham,Inner London,Habitación individual,50,4.03,51.47943,-0.22196
-28298926,Westminster,Inner London,Base privada,275,3.16,51.51295,-0.1339
-22622740,Hammersmith and Fulham,Inner London,Base privada,104,3.19,51.47983,-0.20615
-11988123,Lambeth,Inner London,Base privada,99,4.14,51.49406,-0.11683
-29869629,Westminster,Inner London,Base privada,350,1.59,51.51097,-0.19233
-33681737,Hackney,Inner London,Base privada,180,7.09,51.5347,-0.08825
-2456463,Croydon,Outer London,Habitación individual,22,17.55,51.37281,-0.02858
-26160870,Westminster,Inner London,Base privada,195,3.8,51.50846,-0.12182
-39218992,Hammersmith and Fulham,Inner London,Hotel,1000,3.5,51.49335,-0.22449
-30753299,Brent,Outer London,Base privada,59,5.84,51.53426,-0.24128
-25471889,Newham,Outer London,Base privada,90,14.21,51.51173,0.02911
-31144517,Kingston upon Thames,Outer London,Habitación individual,30,12.7,51.39905,-0.25705
-10899042,Lambeth,Inner London,Base privada,250,6.0,51.46103,-0.11776
-24025201,Brent,Outer London,Habitación individual,160,4.16,51.53515,-0.20119
-30176448,Hillingdon,Outer London,Base privada,60,20.08,51.53167,-0.4616
-20465166,Greenwich,Inner London,Base privada,81,20.41,51.49757,0.11928
-25245527,Barnet,Outer London,Habitación individual,35,10.02,51.59076,-0.19275
-18610982,Merton,Outer London,Habitación individual,175,8.88,51.42381,-0.20637
-8780147,Tower Hamlets,Inner London,Habitación individual,40,8.71,51.52674,-0.05649
-13012318,Islington,Inner London,Base privada,260,5.57,51.53135,-0.11116
-28768745,Camden,Inner London,Base privada,85,4.42,51.53323,-0.1375
-29016869,Greenwich,Inner London,Habitación individual,31,11.5,51.47272,-0.01595
-13051806,Wandsworth,Inner London,Base privada,199,3.68,51.4816,-0.13275
-26268360,Ealing,Outer London,Habitación individual,50,9.72,51.50624,-0.31577
-14249289,Kensington and Chelsea,Inner London,Base privada,89,2.56,51.49998,-0.2124
-11405398,Westminster,Inner London,Base privada,186,3.19,51.51204,-0.13271
-40490564,Camden,Inner London,Habitación individual,50,5.1,51.54088,-0.13831
-22895122,Islington,Inner London,Base privada,180,5.58,51.52455,-0.10406
-22467750,Westminster,Inner London,Base privada,92,1.53,51.51489,-0.17212
-33327444,Tower Hamlets,Inner London,Base privada,199,7.93,51.52466,-0.06719
-19993351,Islington,Inner London,Base privada,154,6.08,51.52656,-0.09758
-21814704,Hackney,Inner London,Base privada,75,8.8,51.54047,-0.06497
-8622409,Hackney,Inner London,Habitación individual,115,7.03,51.52951,-0.08453
-20135563,Tower Hamlets,Inner London,Habitación individual,55,7.47,51.52047,-0.07206
-20499932,Ealing,Outer London,Habitación individual,25,7.06,51.50328,-0.27746
-21192360,Wandsworth,Inner London,Habitación individual,65,3.38,51.47462,-0.15213
-18670770,Haringey,Outer London,Habitación individual,55,12.17,51.58558,-0.06318
-31561336,Camden,Inner London,Base privada,163,3.82,51.51622,-0.12581
-22750469,Tower Hamlets,Inner London,Base privada,150,11.29,51.48694,-0.0141
-21213160,Lambeth,Inner London,Habitación individual,50,4.38,51.49899,-0.11239
-14182630,Camden,Inner London,Base privada,185,6.09,51.55511,-0.15893
-33566525,Westminster,Inner London,Base privada,201,2.54,51.52316,-0.16498
-14403716,Southwark,Inner London,Base privada,250,6.24,51.50006,-0.08543
-39789353,Tower Hamlets,Inner London,Habitación individual,59,7.56,51.51623,-0.06887
-30761282,Westminster,Inner London,Habitación individual,85,2.89,51.52732,-0.17541
-13133254,Hackney,Inner London,Habitación individual,33,11.44,51.55173,-0.03137
-9859401,Tower Hamlets,Inner London,Base privada,120,9.76,51.51837,-0.03716
-27504883,Lewisham,Inner London,Habitación individual,27,13.49,51.42443,-0.02489
-37631562,Tower Hamlets,Inner London,Base privada,105,11.43,51.50855,-0.01082
-27459735,Newham,Outer London,Habitación individual,25,14.63,51.54501,0.02392
-39683275,Kensington and Chelsea,Inner London,Base privada,200,3.16,51.51979,-0.21019
-32910501,Lewisham,Inner London,Habitación individual,38,13.81,51.44274,0.0004
-15544357,Kingston upon Thames,Outer London,Base privada,110,13.68,51.41,-0.30781
-39248904,Kensington and Chelsea,Inner London,Base privada,143,1.19,51.49303,-0.1645
-17598940,Croydon,Outer London,Habitación individual,45,10.11,51.41718,-0.11996
-39463554,Newham,Outer London,Base privada,250,12.65,51.54817,-0.00882
-31940329,Camden,Inner London,Hotel,1000,4.59,51.53602,-0.13964
-35128263,Southwark,Inner London,Base privada,97,7.82,51.48679,-0.06494
-32861441,Westminster,Inner London,Base privada,145,1.87,51.51744,-0.16813
-5107051,Southwark,Inner London,Habitación individual,54,4.96,51.50113,-0.10388
-24169862,Tower Hamlets,Inner London,Habitación individual,20,7.89,51.51704,-0.0643
-21360884,Kensington and Chelsea,Inner London,Hotel,135,1.2,51.49306,-0.16435
-14183707,Camden,Inner London,Base privada,130,5.64,51.55177,-0.16808
-5148057,Camden,Inner London,Base privada,180,4.07,51.51743,-0.12267
-31373049,Kensington and Chelsea,Inner London,Base privada,240,1.53,51.49305,-0.19325
-30693568,Westminster,Inner London,Habitación individual,75,2.98,51.50009,-0.13248
-21778952,Hammersmith and Fulham,Inner London,Base privada,160,2.63,51.47959,-0.19051
-24769215,Hackney,Inner London,Habitación individual,80,8.85,51.55631,-0.08298
-20816357,Tower Hamlets,Inner London,Base privada,120,10.46,51.51382,-0.02569
-38684293,Islington,Inner London,Base privada,190,8.51,51.56067,-0.09788
-19495033,Redbridge,Outer London,Habitación individual,50,17.74,51.59333,0.03406
-17380760,Westminster,Inner London,Base privada,165,3.18,51.52773,-0.19303
-13316385,Westminster,Inner London,Base privada,150,2.92,51.48892,-0.13832
-18117592,Westminster,Inner London,Base privada,280,3.24,51.51338,-0.13282
-28219082,Southwark,Inner London,Habitación individual,32,6.0,51.48722,-0.09182
-4413398,Hackney,Inner London,Habitación individual,52,9.25,51.54783,-0.06469
-26425655,Newham,Outer London,Habitación individual,65,13.55,51.50682,0.02002
-36005227,Islington,Inner London,Base privada,147,5.88,51.54181,-0.12094
-21436250,Westminster,Inner London,Base privada,100,3.63,51.53387,-0.17856
-3466532,Hackney,Inner London,Base privada,150,10.08,51.56974,-0.07983
-15250865,Westminster,Inner London,Habitación individual,95,4.07,51.51122,-0.11883
-17628538,Kensington and Chelsea,Inner London,Base privada,125,1.54,51.49434,-0.19475
-26395794,Lambeth,Inner London,Base privada,75,4.25,51.48379,-0.12099
-21235573,Tower Hamlets,Inner London,Habitación individual,36,7.34,51.52126,-0.07438
-7263156,Kingston upon Thames,Outer London,Habitación individual,55,12.02,51.42809,-0.30313
-9410201,Ealing,Outer London,Habitación individual,30,6.52,51.51973,-0.26493
-351727,Lambeth,Inner London,Habitación individual,32,6.91,51.45511,-0.10869
-528001,Haringey,Outer London,Base privada,105,9.47,51.57752,-0.11452
-20932450,Lambeth,Inner London,Habitación individual,50,7.72,51.43903,-0.12614
-16111387,Hounslow,Outer London,Habitación individual,49,11.47,51.48612,-0.33932
-34774586,Wandsworth,Inner London,Habitación individual,50,4.97,51.46955,-0.22611
-19158945,Westminster,Inner London,Base privada,260,3.06,51.51833,-0.14075
-20842046,Camden,Inner London,Base privada,249,5.41,51.54495,-0.14104
-1532025,Camden,Inner London,Base privada,95,5.3,51.54863,-0.16603
-41563618,Camden,Inner London,Base privada,199,4.87,51.53004,-0.12243
-38038767,Westminster,Inner London,Base privada,400,3.78,51.51287,-0.12414
-34136278,Wandsworth,Inner London,Habitación individual,55,3.08,51.47366,-0.17399
-7605914,Harrow,Outer London,Habitación individual,30,14.29,51.57771,-0.34165
-18208847,Redbridge,Outer London,Habitación individual,20,20.79,51.56717,0.10578
-35409427,Kensington and Chelsea,Inner London,Base privada,120,1.07,51.49406,-0.18568
-11994759,Haringey,Outer London,Habitación individual,27,9.86,51.58912,-0.15557
-22241379,Tower Hamlets,Inner London,Base privada,250,9.24,51.52965,-0.04992
-6474667,Hammersmith and Fulham,Inner London,Habitación individual,69,3.19,51.48108,-0.20813
-1532924,Hounslow,Outer London,Habitación individual,75,5.82,51.49187,-0.25821
-11571997,Kensington and Chelsea,Inner London,Base privada,120,3.87,51.5262,-0.21459
-16856287,Camden,Inner London,Habitación individual,120,5.03,51.54029,-0.13867
-25480696,Camden,Inner London,Base privada,129,5.62,51.55065,-0.19279
-36165241,Brent,Outer London,Compartido,17,5.85,51.54652,-0.21877
-17525289,Kensington and Chelsea,Inner London,Base privada,445,0.66,51.49588,-0.17936
-24676938,Hackney,Inner London,Habitación individual,40,7.55,51.5387,-0.0845
-13881911,Hackney,Inner London,Base privada,80,10.51,51.54699,-0.04258
-33451860,Ealing,Outer London,Base privada,75,6.43,51.51116,-0.26708
-27717589,Kensington and Chelsea,Inner London,Base privada,225,1.99,51.51372,-0.19611
-38303080,Richmond upon Thames,Outer London,Base privada,70,12.65,51.44452,-0.33376
-14939248,Brent,Outer London,Habitación individual,38,6.31,51.54856,-0.22598
-13312199,Barnet,Outer London,Base privada,100,12.3,51.61146,-0.15973
-20561219,Hammersmith and Fulham,Inner London,Habitación individual,34,5.4,51.518,-0.24871
-21131721,Kensington and Chelsea,Inner London,Habitación individual,77,1.55,51.49906,-0.19756
-37703607,Tower Hamlets,Inner London,Habitación individual,43,11.46,51.4984,-0.01007
-34032785,Westminster,Inner London,Base privada,264,1.77,51.50824,-0.15241
-30349658,Westminster,Inner London,Base privada,228,3.01,51.5192,-0.14293
-8385207,Waltham Forest,Outer London,Habitación individual,55,18.7,51.62786,0.00274
-19474702,Brent,Outer London,Habitación individual,40,11.81,51.55795,-0.31984
-28145940,Westminster,Inner London,Base privada,99,1.48,51.51333,-0.18452
-3645778,Kensington and Chelsea,Inner London,Base privada,160,2.54,51.51588,-0.20368
-37585432,Greenwich,Inner London,Base privada,85,12.48,51.48531,0.00295
-33928571,Camden,Inner London,Habitación individual,50,5.39,51.54855,-0.15818
-33921531,Sutton,Outer London,Habitación individual,55,16.87,51.35007,-0.15532
-16202628,Brent,Outer London,Habitación individual,59,4.76,51.53395,-0.22
-3654351,Hackney,Inner London,Base privada,115,7.5,51.53851,-0.08509
-28398991,Tower Hamlets,Inner London,Habitación individual,35,7.84,51.5258,-0.0693
-3519290,Islington,Inner London,Base privada,109,7.79,51.56044,-0.11518
-558664,Camden,Inner London,Habitación individual,48,5.1,51.52177,-0.10959
-33128545,Southwark,Inner London,Habitación individual,41,6.03,51.48759,-0.09117
-5986255,Hammersmith and Fulham,Inner London,Habitación individual,46,2.97,51.47871,-0.19847
-32657674,Kensington and Chelsea,Inner London,Hotel,165,1.18,51.4933,-0.16428
-28907307,Greenwich,Inner London,Base privada,249,12.68,51.48677,0.00614
-3357790,Lambeth,Inner London,Habitación individual,60,4.72,51.48063,-0.11592
-7960921,Wandsworth,Inner London,Base privada,110,5.31,51.46011,-0.21423
-5693435,Hackney,Inner London,Base privada,150,11.44,51.54508,-0.02583
-13792904,Hackney,Inner London,Habitación individual,99,7.89,51.53609,-0.07609
-36384725,Camden,Inner London,Habitación individual,69,5.84,51.55359,-0.16759
-36897818,Hounslow,Outer London,Base privada,100,7.35,51.49212,-0.28062
-6721584,City of London,Inner London,Base privada,240,6.83,51.51138,-0.07821
-35681904,Camden,Inner London,Habitación individual,35,4.77,51.5344,-0.13159
-24418585,Southwark,Inner London,Habitación individual,65,6.66,51.49589,-0.07962
-38226191,Westminster,Inner London,Base privada,200,2.97,51.52119,-0.14696
-29986690,Bromley,Outer London,Habitación individual,32,12.53,51.41926,-0.0516
-20565709,Westminster,Inner London,Base privada,190,3.77,51.50805,-0.12208
-15995420,Lambeth,Inner London,Base privada,109,4.5,51.49971,-0.11051
-36202049,Kingston upon Thames,Outer London,Habitación individual,36,18.46,51.35852,-0.3113
-39128125,Newham,Outer London,Habitación individual,42,13.16,51.53592,0.00635
-30636636,Kensington and Chelsea,Inner London,Base privada,195,0.93,51.49566,-0.16567
-31823006,Haringey,Outer London,Habitación individual,30,13.92,51.60169,-0.05534
-7098712,Haringey,Outer London,Base privada,120,12.74,51.60691,-0.10388
-32038319,Haringey,Outer London,Habitación individual,90,9.78,51.57899,-0.10932
-31492626,Waltham Forest,Outer London,Base privada,90,14.89,51.59745,-0.02556
-27802329,Tower Hamlets,Inner London,Habitación individual,40,10.97,51.52026,-0.02001
-40141075,Camden,Inner London,Habitación individual,40,4.07,51.53731,-0.18589
-3543541,Kensington and Chelsea,Inner London,Base privada,85,1.12,51.49227,-0.16844
-17710286,Camden,Inner London,Base privada,72,5.38,51.5495,-0.18301
-7378805,Lambeth,Inner London,Base privada,80,9.05,51.42427,-0.13324
-17323307,Richmond upon Thames,Outer London,Base privada,158,11.98,51.43413,-0.31074
-31930868,Wandsworth,Inner London,Habitación individual,45,2.54,51.47876,-0.16941
-32070591,Newham,Outer London,Habitación individual,24,14.52,51.51535,0.03309
-34933535,Camden,Inner London,Habitación individual,46,4.23,51.5194,-0.12168
-5736974,Lambeth,Inner London,Base privada,75,9.93,51.42317,-0.10617
-27717783,Wandsworth,Inner London,Base privada,89,3.92,51.47013,-0.14908
-29282116,Wandsworth,Inner London,Habitación individual,90,3.96,51.47771,-0.13271
-13073158,Tower Hamlets,Inner London,Habitación individual,25,8.9,51.51783,-0.04969
-38891070,Haringey,Outer London,Habitación individual,25,12.3,51.59359,-0.07738
-11634511,Lambeth,Inner London,Habitación individual,30,4.2,51.49197,-0.11678
-7434726,Camden,Inner London,Base privada,80,5.42,51.54975,-0.18431
-31123783,Tower Hamlets,Inner London,Base privada,85,10.17,51.52373,-0.03309
-7378630,Islington,Inner London,Base privada,450,6.28,51.53205,-0.09945
-23889692,Tower Hamlets,Inner London,Habitación individual,20,8.47,51.51048,-0.05408
-972717,Camden,Inner London,Base privada,90,5.25,51.54205,-0.13723
-15878525,Barnet,Outer London,Base privada,60,13.75,51.61528,-0.25258
-28801809,Lambeth,Inner London,Base privada,117,5.85,51.46193,-0.1195
-22222312,City of London,Inner London,Base privada,113,5.69,51.51873,-0.09823
-37044507,Westminster,Inner London,Habitación individual,43,3.7,51.53431,-0.16903
-32982572,Islington,Inner London,Base privada,80,6.41,51.53166,-0.09671
-4361131,Tower Hamlets,Inner London,Base privada,76,8.43,51.5288,-0.06204
-5519383,Lambeth,Inner London,Habitación individual,78,4.43,51.49337,-0.11276
-29378481,Tower Hamlets,Inner London,Base privada,150,7.3,51.51562,-0.07256
-36238025,Westminster,Inner London,Habitación individual,80,2.05,51.51904,-0.1838
-17618552,Tower Hamlets,Inner London,Habitación individual,45,8.42,51.51736,-0.05662
-20146692,Waltham Forest,Outer London,Habitación individual,35,12.74,51.56989,-0.02787
-30389882,Tower Hamlets,Inner London,Base privada,150,11.37,51.48671,-0.01298
-5700208,Tower Hamlets,Inner London,Habitación individual,49,11.41,51.51217,-0.01157
-12218298,Hammersmith and Fulham,Inner London,Habitación individual,80,3.41,51.47444,-0.19934
-35308621,Kensington and Chelsea,Inner London,Base privada,298,2.07,51.51208,-0.19985
-9447772,Camden,Inner London,Base privada,90,6.79,51.5587,-0.1421
-473145,Southwark,Inner London,Base privada,199,5.16,51.49228,-0.10245
-21587350,Lambeth,Inner London,Base privada,130,3.98,51.48551,-0.12388
-37590641,Islington,Inner London,Base privada,102,5.54,51.52253,-0.10304
-25147421,Hounslow,Outer London,Habitación individual,45,13.51,51.46113,-0.3596
-22199805,Tower Hamlets,Inner London,Base privada,153,7.59,51.52456,-0.0724
-24224139,Hammersmith and Fulham,Inner London,Habitación individual,20,3.37,51.48585,-0.21736
-12581481,Harrow,Outer London,Base privada,120,13.51,51.56453,-0.34233
-39298909,Kensington and Chelsea,Inner London,Base privada,90,0.84,51.49514,-0.18243
-29669771,Lambeth,Inner London,Base privada,250,4.6,51.48229,-0.11649
-31353680,Westminster,Inner London,Base privada,120,3.11,51.48904,-0.13506
-14308901,Camden,Inner London,Base privada,277,4.66,51.51588,-0.11234
-26772639,Hammersmith and Fulham,Inner London,Base privada,150,2.89,51.48166,-0.20288
-25400053,Tower Hamlets,Inner London,Base privada,90,8.65,51.52038,-0.05428
-13941134,Harrow,Outer London,Habitación individual,27,17.77,51.60969,-0.36446
-14752819,Richmond upon Thames,Outer London,Base privada,100,9.81,51.45656,-0.29755
-38144608,Kingston upon Thames,Outer London,Habitación individual,35,15.56,51.37982,-0.28702
-34648653,Islington,Inner London,Habitación individual,200,5.4,51.52185,-0.10476
-13968241,Hackney,Inner London,Habitación individual,55,9.35,51.5627,-0.08308
-5251138,Kensington and Chelsea,Inner London,Base privada,143,0.78,51.49464,-0.17207
-28648400,Westminster,Inner London,Base privada,90,3.04,51.5286,-0.17752
-27271387,Islington,Inner London,Base privada,225,5.09,51.52354,-0.11114
-39940545,Southwark,Inner London,Base privada,260,5.88,51.49141,-0.09201
-22151243,Ealing,Outer London,Habitación individual,35,6.11,51.53203,-0.24877
-22661469,Westminster,Inner London,Base privada,135,1.98,51.51782,-0.18601
-39906066,Camden,Inner London,Base privada,230,4.49,51.51937,-0.11754
-38672387,Tower Hamlets,Inner London,Habitación individual,23,10.93,51.50924,-0.01804
-32755347,Westminster,Inner London,Base privada,75,2.09,51.50644,-0.14647
-38700168,Wandsworth,Inner London,Habitación individual,50,7.55,51.43563,-0.1477
-33625757,Tower Hamlets,Inner London,Habitación individual,90,7.42,51.51671,-0.07118
-3664786,Westminster,Inner London,Habitación individual,170,2.42,51.51208,-0.14514
-38451743,Kensington and Chelsea,Inner London,Base privada,150,0.86,51.49562,-0.16707
-33994202,Westminster,Inner London,Base privada,205,1.81,51.51508,-0.18936
-40437234,Southwark,Inner London,Habitación individual,50,7.47,51.4882,-0.06969
-28252200,Southwark,Inner London,Base privada,199,7.16,51.49749,-0.07224
-29484842,Richmond upon Thames,Outer London,Habitación individual,95,8.99,51.46667,-0.29275
-31470760,Camden,Inner London,Habitación individual,37,4.6,51.53166,-0.13031
-22029278,Camden,Inner London,Base privada,77,3.64,51.52449,-0.13831
-42010,Barnet,Outer London,Habitación individual,45,9.47,51.58611,-0.16272
-6425475,Lambeth,Inner London,Habitación individual,63,4.38,51.49592,-0.11275
-3943758,Lambeth,Inner London,Habitación individual,47,6.88,51.45351,-0.11236
-1935885,Tower Hamlets,Inner London,Base privada,150,7.81,51.52416,-0.0688
-31957725,Wandsworth,Inner London,Base privada,65,6.04,51.44986,-0.14728
-16478270,Brent,Outer London,Habitación individual,45,4.82,51.53446,-0.22032
-35731963,Southwark,Inner London,Base privada,150,9.23,51.49358,-0.04281
-18076542,Westminster,Inner London,Base privada,99,1.71,51.51523,-0.165
-21862328,Southwark,Inner London,Habitación individual,64,6.68,51.50049,-0.07901
-31069276,Westminster,Inner London,Habitación individual,35,3.3,51.52618,-0.20154
-1079410,Merton,Outer London,Habitación individual,40,10.67,51.40786,-0.21048
-30414332,Westminster,Inner London,Base privada,150,2.1,51.49693,-0.14599
-9703053,Lewisham,Inner London,Habitación individual,50,9.06,51.48051,-0.04891
-32852878,Westminster,Inner London,Base privada,140,3.28,51.51062,-0.13053
-22626244,Hammersmith and Fulham,Inner London,Habitación individual,39,3.83,51.46799,-0.18944
-15702273,Redbridge,Outer London,Habitación individual,70,17.45,51.59074,0.03183
-4268755,Tower Hamlets,Inner London,Base privada,160,10.77,51.49888,-0.02
-35187786,Hackney,Inner London,Base privada,90,8.58,51.54605,-0.07449
-25258626,Tower Hamlets,Inner London,Base privada,136,7.46,51.52126,-0.07258
-38189619,Westminster,Inner London,Base privada,220,2.04,51.51957,-0.17875
-24713009,Tower Hamlets,Inner London,Base privada,67,7.6,51.5244,-0.07215
-6275466,Tower Hamlets,Inner London,Habitación individual,45,11.49,51.51279,-0.01048
-16825123,Lewisham,Inner London,Base privada,70,9.84,51.46821,-0.04373
-16754816,Merton,Outer London,Base privada,120,9.8,51.41889,-0.22551
-19655955,Wandsworth,Inner London,Habitación individual,45,6.46,51.4472,-0.20941
-6304811,Tower Hamlets,Inner London,Base privada,275,7.34,51.50999,-0.07032
-19117797,Newham,Outer London,Habitación individual,75,15.2,51.55216,0.02852
-27189549,Hounslow,Outer London,Habitación individual,59,7.18,51.49137,-0.27795
-31930062,Tower Hamlets,Inner London,Base privada,106,11.31,51.52648,-0.0171
-10846111,Hammersmith and Fulham,Inner London,Base privada,135,2.58,51.49704,-0.21213
-12511820,Hackney,Inner London,Base privada,125,9.39,51.55803,-0.07487
-23429784,Redbridge,Outer London,Habitación individual,32,16.01,51.57516,0.02322
-30342850,Westminster,Inner London,Base privada,216,3.74,51.51214,-0.12432
-9178278,Hammersmith and Fulham,Inner London,Base privada,310,3.64,51.47682,-0.21051
-21025540,Barnet,Outer London,Habitación individual,25,11.49,51.60288,-0.14468
-38369064,Westminster,Inner London,Base privada,300,1.91,51.50564,-0.14875
-9873331,Westminster,Inner London,Base privada,195,1.91,51.51225,-0.15425
-25563067,Westminster,Inner London,Base privada,200,1.72,51.51536,-0.16508
-13330375,Hackney,Inner London,Habitación individual,56,10.7,51.55029,-0.04231
-13528709,Brent,Outer London,Habitación individual,105,7.41,51.54181,-0.26058
-18006846,Westminster,Inner London,Habitación individual,130,2.34,51.51952,-0.15872
-35140714,Enfield,Outer London,Base privada,143,15.11,51.61507,-0.05609
-39520008,Newham,Outer London,Base privada,97,15.79,51.54447,0.04186
-19514735,Kensington and Chelsea,Inner London,Base privada,120,1.35,51.49661,-0.19348
-9376593,Westminster,Inner London,Base privada,124,3.07,51.48744,-0.13714
-33964293,Westminster,Inner London,Base privada,700,2.29,51.52189,-0.17523
-3173050,Hounslow,Outer London,Base privada,220,6.41,51.48229,-0.26286
-38592214,Islington,Inner London,Base privada,95,7.1,51.56035,-0.13649
-19458926,Barnet,Outer London,Habitación individual,59,11.92,51.60825,-0.18696
-14666914,Brent,Outer London,Habitación individual,36,7.48,51.55401,-0.24277
-20348651,Kensington and Chelsea,Inner London,Base privada,150,1.68,51.51164,-0.19329
-10986800,Islington,Inner London,Habitación individual,31,7.6,51.55654,-0.11075
-39075598,Hillingdon,Outer London,Habitación individual,45,20.87,51.48111,-0.47513
-33661927,Islington,Inner London,Habitación individual,45,6.59,51.55127,-0.12415
-27108756,Tower Hamlets,Inner London,Habitación individual,45,7.64,51.51362,-0.06684
-36447993,Islington,Inner London,Habitación individual,59,7.12,51.55402,-0.11715
-23424314,Hillingdon,Outer London,Habitación individual,50,17.34,51.48025,-0.42371
-34953217,Merton,Outer London,Habitación individual,35,9.08,51.42379,-0.21697
-14718140,Richmond upon Thames,Outer London,Base privada,330,12.53,51.44701,-0.3341
-16462880,Westminster,Inner London,Hotel,440,3.23,51.51296,-0.13277
-33151678,Lambeth,Inner London,Base privada,150,6.24,51.46127,-0.11242
-18893709,Tower Hamlets,Inner London,Habitación individual,59,7.28,51.51066,-0.07144
-18323446,Islington,Inner London,Habitación individual,35,5.78,51.52621,-0.10226
-19766595,Westminster,Inner London,Base privada,130,2.72,51.52099,-0.19879
-40131814,Camden,Inner London,Base privada,105,4.4,51.53933,-0.15795
+id_alojamiento,barrio,zona,segmento_atlas,tipo_proveedor,precio_noche,dist_sede_km,latitude,longitude
+30369154,Islington,Inner London,Base privada,Particular,100,6.48,51.53793,-0.10268
+527070,Southwark,Inner London,Habitación individual,Multipropiedad,40,7.66,51.48868,-0.06669
+21560224,Lambeth,Inner London,Habitación individual,Particular,50,5.32,51.47894,-0.10752
+33018097,Westminster,Inner London,Habitación individual,Multipropiedad,55,1.36,51.51339,-0.17881
+26243758,Hammersmith and Fulham,Inner London,Habitación individual,Multipropiedad,56,3.07,51.5038,-0.21972
+19891152,Barnet,Outer London,Habitación individual,Particular,40,9.23,51.58337,-0.19582
+19689200,Westminster,Inner London,Base privada,Multipropiedad,190,3.19,51.51922,-0.13945
+15153382,Redbridge,Outer London,Habitación individual,Particular,35,16.11,51.5629,0.0353
+12364001,Kensington and Chelsea,Inner London,Base privada,Particular,350,1.1,51.49392,-0.18612
+27482964,Camden,Inner London,Base privada,Multipropiedad,330,4.87,51.52011,-0.112
+32246504,Tower Hamlets,Inner London,Base privada,Multipropiedad,300,10.79,51.49802,-0.01964
+23443960,Bromley,Outer London,Base privada,Particular,76,16.72,51.4005,0.00359
+13677366,Haringey,Outer London,Base privada,Particular,53,9.16,51.57389,-0.11287
+21581183,Lewisham,Inner London,Habitación individual,Particular,30,11.26,51.447,-0.03833
+20010959,Tower Hamlets,Inner London,Habitación individual,Profesional,20,7.72,51.51265,-0.06551
+23875011,Southwark,Inner London,Habitación individual,Particular,70,6.08,51.50067,-0.08769
+34660871,Kensington and Chelsea,Inner London,Base privada,Particular,105,2.05,51.48947,-0.19821
+39164928,Tower Hamlets,Inner London,Habitación individual,Particular,39,11.48,51.54112,-0.02241
+37041819,Wandsworth,Inner London,Base privada,Particular,80,4.11,51.46515,-0.16282
+13946071,Greenwich,Inner London,Habitación individual,Particular,25,18.68,51.48506,0.0931
+10325545,Ealing,Outer London,Habitación individual,Particular,37,9.7,51.511,-0.31481
+40037058,Westminster,Inner London,Habitación individual,Multipropiedad,54,3.24,51.52913,-0.1894
+29905937,Barking and Dagenham,Outer London,Habitación individual,Multipropiedad,22,21.57,51.53457,0.13157
+29627661,Redbridge,Outer London,Habitación individual,Particular,34,16.26,51.57943,0.02329
+34388838,Lambeth,Inner London,Habitación individual,Multipropiedad,68,4.73,51.46513,-0.13956
+1883810,Lambeth,Inner London,Habitación individual,Particular,42,4.08,51.47592,-0.13296
+35631659,Westminster,Inner London,Base privada,Profesional,165,2.61,51.49372,-0.13976
+4522325,Hounslow,Outer London,Habitación individual,Particular,85,5.44,51.4885,-0.25141
+3430805,Hackney,Inner London,Habitación individual,Multipropiedad,44,9.28,51.54112,-0.0577
+8179695,Tower Hamlets,Inner London,Habitación individual,Multipropiedad,68,7.98,51.52632,-0.06746
+16390459,Wandsworth,Inner London,Base privada,Particular,110,4.18,51.46636,-0.15332
+10239553,Greenwich,Inner London,Base privada,Particular,75,17.44,51.47698,0.07336
+21304969,Tower Hamlets,Inner London,Habitación individual,Multipropiedad,35,8.73,51.52071,-0.05321
+3430656,Hackney,Inner London,Base privada,Particular,60,9.62,51.54687,-0.05738
+14372315,Kingston upon Thames,Outer London,Base privada,Particular,109,13.15,51.4079,-0.29199
+31396720,Brent,Outer London,Habitación individual,Multipropiedad,70,4.32,51.52979,-0.21789
+18560584,Tower Hamlets,Inner London,Habitación individual,Particular,29,10.67,51.532,-0.02942
+20896188,Wandsworth,Inner London,Habitación individual,Multipropiedad,79,7.48,51.4571,-0.25696
+714723,Tower Hamlets,Inner London,Base privada,Particular,130,7.93,51.51072,-0.06191
+28299326,Tower Hamlets,Inner London,Habitación individual,Profesional,45,7.49,51.51919,-0.07114
+73431,Lambeth,Inner London,Base privada,Particular,52,6.13,51.46295,-0.112
+36344753,Greenwich,Inner London,Base privada,Multipropiedad,117,16.13,51.4881,0.05657
+36299025,Southwark,Inner London,Habitación individual,Multipropiedad,50,4.66,51.49893,-0.10824
+2624292,Southwark,Inner London,Habitación individual,Multipropiedad,69,8.81,51.49686,-0.04845
+25713063,Camden,Inner London,Base privada,Multipropiedad,149,5.88,51.54993,-0.14221
+24429397,Hackney,Inner London,Base privada,Particular,85,8.62,51.54674,-0.07462
+32761839,Tower Hamlets,Inner London,Habitación individual,Particular,52,10.65,51.49867,-0.02167
+15597966,Westminster,Inner London,Base privada,Profesional,400,1.83,51.51578,-0.18804
+11639604,Lambeth,Inner London,Compartido,Multipropiedad,18,4.3,51.49434,-0.11446
+22984837,Hounslow,Outer London,Base privada,Particular,150,6.18,51.4864,-0.26152
+38433311,Kensington and Chelsea,Inner London,Base privada,Profesional,220,0.77,51.50045,-0.18659
+19306957,Richmond upon Thames,Outer London,Habitación individual,Particular,52,11.47,51.43706,-0.30511
+23594193,Tower Hamlets,Inner London,Habitación individual,Particular,70,7.67,51.52431,-0.07104
+29158910,Southwark,Inner London,Habitación individual,Particular,50,5.45,51.48018,-0.10445
+14273054,Islington,Inner London,Habitación individual,Particular,40,6.06,51.52317,-0.09534
+4220503,Southwark,Inner London,Base privada,Multipropiedad,95,7.79,51.46803,-0.07649
+28427786,Tower Hamlets,Inner London,Habitación individual,Multipropiedad,33,10.93,51.50832,-0.01804
+34556700,Haringey,Outer London,Base privada,Particular,139,8.88,51.57101,-0.11294
+3658653,Hackney,Inner London,Habitación individual,Multipropiedad,70,7.62,51.53819,-0.08262
+27060864,Greenwich,Inner London,Base privada,Multipropiedad,61,17.31,51.49461,0.07427
+27681085,Greenwich,Inner London,Base privada,Multipropiedad,600,12.73,51.48516,0.00658
+40003267,Ealing,Outer London,Habitación individual,Multipropiedad,25,7.69,51.50158,-0.28659
+765928,Southwark,Inner London,Habitación individual,Particular,57,5.09,51.49279,-0.10323
+19027678,Hackney,Inner London,Base privada,Multipropiedad,120,7.32,51.52517,-0.07695
+36415648,Westminster,Inner London,Base privada,Multipropiedad,250,2.51,51.52236,-0.1885
+6308825,Lambeth,Inner London,Habitación individual,Particular,55,8.48,51.42905,-0.13633
+16328626,Lambeth,Inner London,Habitación individual,Multipropiedad,100,5.01,51.47835,-0.11317
+26970001,Westminster,Inner London,Base privada,Profesional,107,2.26,51.52103,-0.1677
+39169313,Kensington and Chelsea,Inner London,Base privada,Multipropiedad,100,1.69,51.48941,-0.19078
+35765403,Wandsworth,Inner London,Habitación individual,Multipropiedad,35,4.05,51.47405,-0.13677
+35925332,Barnet,Outer London,Habitación individual,Multipropiedad,35,9.13,51.57853,-0.22047
+37799143,Hackney,Inner London,Base privada,Profesional,85,7.3,51.52728,-0.07869
+34809064,Hillingdon,Outer London,Base privada,Multipropiedad,120,18.63,51.48211,-0.44281
+34727443,Lambeth,Inner London,Habitación individual,Multipropiedad,27,7.62,51.44331,-0.11689
+9399009,Hammersmith and Fulham,Inner London,Base privada,Profesional,253,3.65,51.4702,-0.19255
+32760549,Hackney,Inner London,Habitación individual,Particular,43,9.34,51.56779,-0.09291
+754635,Westminster,Inner London,Base privada,Profesional,160,1.99,51.49709,-0.14762
+19391073,Haringey,Outer London,Base privada,Particular,90,8.44,51.57365,-0.13846
+23767402,Croydon,Outer London,Habitación individual,Multipropiedad,21,10.96,51.4071,-0.1289
+827436,Greenwich,Inner London,Base privada,Profesional,160,13.04,51.49666,0.01268
+22071394,Lewisham,Inner London,Habitación individual,Multipropiedad,67,9.88,51.4913,-0.03367
+22896224,Hackney,Inner London,Base privada,Multipropiedad,89,7.26,51.52578,-0.07831
+20128700,Islington,Inner London,Base privada,Particular,77,7.24,51.55256,-0.11103
+23229451,Hackney,Inner London,Base privada,Particular,150,9.63,51.55048,-0.06088
+31012056,Hackney,Inner London,Habitación individual,Multipropiedad,50,9.37,51.5536,-0.06924
+28146904,Westminster,Inner London,Base privada,Particular,140,2.35,51.49163,-0.14527
+13087454,Camden,Inner London,Base privada,Profesional,139,4.69,51.53771,-0.14121
+5464683,Westminster,Inner London,Base privada,Particular,250,2.95,51.51455,-0.1385
+30648905,Westminster,Inner London,Base privada,Profesional,99,1.87,51.5155,-0.16094
+9787951,Westminster,Inner London,Base privada,Profesional,301,3.63,51.5112,-0.12555
+24512497,Westminster,Inner London,Habitación individual,Particular,75,1.36,51.51311,-0.1703
+15295085,Richmond upon Thames,Outer London,Habitación individual,Particular,45,12.84,51.44127,-0.33389
+5856643,Westminster,Inner London,Base privada,Particular,141,3.03,51.50976,-0.13393
+31073575,Wandsworth,Inner London,Base privada,Particular,109,6.42,51.44543,-0.15202
+20583171,Camden,Inner London,Base privada,Profesional,175,5.03,51.52778,-0.1165
+38452018,Islington,Inner London,Base privada,Multipropiedad,160,5.95,51.53032,-0.10326
+11567062,Westminster,Inner London,Base privada,Multipropiedad,73,1.41,51.51367,-0.1798
+16199587,Westminster,Inner London,Base privada,Particular,95,2.84,51.52644,-0.18312
+6161504,Brent,Outer London,Habitación individual,Multipropiedad,89,4.65,51.53009,-0.22421
+27103671,Lambeth,Inner London,Compartido,Multipropiedad,35,3.83,51.4863,-0.12569
+183336,Brent,Outer London,Habitación individual,Multipropiedad,49,4.21,51.53515,-0.20267
+16891527,Hounslow,Outer London,Base privada,Particular,145,6.16,51.4909,-0.26291
+7811836,Haringey,Outer London,Base privada,Multipropiedad,76,10.98,51.5899,-0.10544
+15212830,Westminster,Inner London,Habitación individual,Profesional,85,4.08,51.51122,-0.11881
+38842919,Wandsworth,Inner London,Base privada,Particular,120,5.32,51.46848,-0.23142
+18801225,Islington,Inner London,Base privada,Particular,145,5.31,51.5229,-0.10714
+18383561,Lambeth,Inner London,Base privada,Multipropiedad,65,7.78,51.43732,-0.12993
+25198779,Greenwich,Inner London,Base privada,Multipropiedad,70,16.88,51.48415,0.06669
+39948575,Hounslow,Outer London,Habitación individual,Multipropiedad,25,15.02,51.48004,-0.38972
+12849659,Brent,Outer London,Habitación individual,Multipropiedad,52,8.12,51.557339999999996,-0.25069
+717964,Camden,Inner London,Base privada,Multipropiedad,200,6.32,51.55814,-0.17672
+39199749,Camden,Inner London,Base privada,Particular,200,4.52,51.52461,-0.12192
+39517782,Newham,Outer London,Base privada,Multipropiedad,104,13.94,51.50547,0.02579
+22491303,Kingston upon Thames,Outer London,Habitación individual,Multipropiedad,49,12.03,51.42583,-0.29983
+38813057,Tower Hamlets,Inner London,Base privada,Particular,79,8.19,51.52792,-0.06521
+32779607,Newham,Outer London,Base privada,Multipropiedad,75,11.91,51.53201,-0.01065
+23510921,Tower Hamlets,Inner London,Base privada,Multipropiedad,142,11.24,51.49788,-0.01327
+6091847,Hounslow,Outer London,Base privada,Particular,69,10.97,51.48578,-0.33196
+2213040,Richmond upon Thames,Outer London,Habitación individual,Multipropiedad,25,13.99,51.45343,-0.36231
+37719898,Islington,Inner London,Base privada,Profesional,170,6.42,51.52131,-0.08847
+19456046,Hackney,Inner London,Base privada,Particular,190,7.24,51.525,-0.07803
+32289634,Haringey,Outer London,Base privada,Particular,120,10.21,51.57668,-0.09127
+15029298,Tower Hamlets,Inner London,Habitación individual,Profesional,40,8.83,51.53028,-0.05664
+14627392,Southwark,Inner London,Habitación individual,Multipropiedad,44,7.81,51.46743,-0.07671
+32329681,Camden,Inner London,Base privada,Multipropiedad,175,5.07,51.54582,-0.15961
+28000159,Camden,Inner London,Base privada,Particular,150,4.65,51.54281,-0.18372
+35972402,Barking and Dagenham,Outer London,Habitación individual,Particular,25,22.71,51.54023,0.14665
+37698666,Haringey,Outer London,Base privada,Profesional,149,10.21,51.59089,-0.14323
+29505549,Wandsworth,Inner London,Habitación individual,Multipropiedad,26,8.91,51.42331,-0.14574
+25517520,Lambeth,Inner London,Base privada,Multipropiedad,234,4.13,51.49812,-0.11604
+23355105,Lambeth,Inner London,Habitación individual,Multipropiedad,85,4.39,51.49367,-0.11325
+16715324,Kensington and Chelsea,Inner London,Hotel,Profesional,195,1.4,51.49115,-0.16361
+38145263,Tower Hamlets,Inner London,Base privada,Particular,120,11.57,51.49958,-0.00835
+36089204,Westminster,Inner London,Base privada,Profesional,240,1.53,51.51502,-0.17731
+8514962,Southwark,Inner London,Base privada,Profesional,522,5.64,51.50002,-0.09404
+15003980,Westminster,Inner London,Habitación individual,Multipropiedad,49,3.09,51.52747,-0.19039
+31252152,Islington,Inner London,Base privada,Multipropiedad,84,8.34,51.57136,-0.13243
+33717005,Hillingdon,Outer London,Habitación individual,Multipropiedad,23,16.42,51.4942,-0.41244
+30348289,Kingston upon Thames,Outer London,Habitación individual,Multipropiedad,35,11.29,51.42243,-0.27807
+35062948,Lambeth,Inner London,Habitación individual,Particular,56,6.65,51.45471,-0.11535
+38866875,Tower Hamlets,Inner London,Habitación individual,Profesional,55,7.8,51.51199,-0.06417
+12877982,Camden,Inner London,Habitación individual,Multipropiedad,32,5.7,51.55036,-0.19927
+35857357,Waltham Forest,Outer London,Habitación individual,Profesional,23,15.82,51.58978,0.0036
+37623459,Camden,Inner London,Habitación individual,Profesional,45,4.47,51.54131,-0.18185
+264789,Lewisham,Inner London,Base privada,Profesional,170,12.47,51.44345,-0.0213
+34806397,Tower Hamlets,Inner London,Base privada,Multipropiedad,222,8.28,51.51587,-0.05823
+6596709,Southwark,Inner London,Habitación individual,Profesional,35,7.99,51.49586,-0.06041
+18049461,Westminster,Inner London,Base privada,Multipropiedad,148,2.27,51.52129,-0.16855
+19843185,Kensington and Chelsea,Inner London,Base privada,Particular,120,1.89,51.50808,-0.20049
+37590630,Islington,Inner London,Base privada,Profesional,100,5.61,51.52312,-0.10238
+9178603,Barnet,Outer London,Habitación individual,Multipropiedad,60,8.08,51.57269,-0.19755
+20240334,Ealing,Outer London,Base privada,Multipropiedad,85,7.44,51.51137,-0.28177
+21697609,Newham,Outer London,Habitación individual,Profesional,25,12.85,51.52074,0.00758
+20660382,Southwark,Inner London,Habitación individual,Multipropiedad,45,6.0,51.48116,-0.09512
+38511496,Lambeth,Inner London,Base privada,Multipropiedad,80,5.86,51.46093,-0.12102
+35563053,Camden,Inner London,Base privada,Multipropiedad,90,6.55,51.55564,-0.13894
+23744307,Hackney,Inner London,Base privada,Particular,150,10.88,51.55241,-0.0414
+8887059,Westminster,Inner London,Base privada,Multipropiedad,135,2.35,51.52105,-0.18768
+29502574,Tower Hamlets,Inner London,Habitación individual,Particular,55,8.83,51.53121,-0.05731
+17621930,Hackney,Inner London,Habitación individual,Multipropiedad,35,8.04,51.54484,-0.08267
+2649920,Lambeth,Inner London,Base privada,Particular,420,5.12,51.47199,-0.1185
+28985947,Southwark,Inner London,Base privada,Multipropiedad,165,5.37,51.4966,-0.09829
+1474834,Lambeth,Inner London,Habitación individual,Particular,34,6.85,51.4516,-0.11695
+19482789,Tower Hamlets,Inner London,Habitación individual,Profesional,25,9.48,51.51999,-0.04188
+33710688,Southwark,Inner London,Habitación individual,Particular,52,5.34,51.49279,-0.09962
+1202617,Camden,Inner London,Habitación individual,Particular,65,6.74,51.56107,-0.19208
+16943486,Southwark,Inner London,Habitación individual,Multipropiedad,35,5.42,51.48008,-0.10506
+31940106,Westminster,Inner London,Habitación individual,Profesional,72,4.51,51.51306,-0.11309
+35278087,Newham,Outer London,Habitación individual,Multipropiedad,27,14.17,51.54201,0.0185
+39855867,Hackney,Inner London,Base privada,Multipropiedad,100,9.28,51.54593,-0.06212
+12693541,Kensington and Chelsea,Inner London,Base privada,Multipropiedad,160,1.42,51.49542,-0.19379
+24952931,Southwark,Inner London,Base privada,Particular,99,9.96,51.44325,-0.06602
+19244251,Merton,Outer London,Base privada,Particular,275,7.03,51.43985,-0.19909
+37609471,Westminster,Inner London,Base privada,Profesional,150,3.17,51.511,-0.1324
+26557862,Southwark,Inner London,Base privada,Particular,100,7.95,51.47191,-0.07078
+7346264,Islington,Inner London,Base privada,Multipropiedad,105,5.94,51.52766,-0.10079
+19301607,Westminster,Inner London,Base privada,Multipropiedad,155,2.79,51.51374,-0.14051
+37263882,Camden,Inner London,Base privada,Profesional,95,5.01,51.5438,-0.19949
+4913940,Richmond upon Thames,Outer London,Base privada,Particular,155,7.62,51.46704,-0.27076
+33393516,Lewisham,Inner London,Base privada,Particular,90,10.62,51.4775,-0.02701
+24373434,Wandsworth,Inner London,Base privada,Particular,125,2.72,51.48326,-0.14904
+36879525,Camden,Inner London,Habitación individual,Multipropiedad,51,4.86,51.53092,-0.12391
+12101927,Kensington and Chelsea,Inner London,Habitación individual,Multipropiedad,55,1.57,51.4924,-0.19315
+6521539,Brent,Outer London,Habitación individual,Multipropiedad,32,5.41,51.53405,-0.23335
+19673104,Camden,Inner London,Base privada,Profesional,299,4.57,51.53673,-0.14206
+22950770,Kensington and Chelsea,Inner London,Base privada,Multipropiedad,420,0.87,51.49382,-0.1793
+31460892,Westminster,Inner London,Habitación individual,Profesional,28,2.95,51.48593,-0.14077
+21123259,Lambeth,Inner London,Habitación individual,Particular,35,4.83,51.48023,-0.11448
+23424859,Islington,Inner London,Base privada,Particular,200,5.52,51.52467,-0.1051
+36297624,Kensington and Chelsea,Inner London,Base privada,Multipropiedad,69,2.29,51.51452,-0.20091
+15669093,Richmond upon Thames,Outer London,Habitación individual,Multipropiedad,65,10.17,51.4565,-0.30348
+37356514,Hounslow,Outer London,Habitación individual,Multipropiedad,38,15.88,51.47127,-0.39968
+20511353,Hackney,Inner London,Base privada,Multipropiedad,129,7.54,51.53471,-0.08074
+35043365,Hammersmith and Fulham,Inner London,Hotel,Multipropiedad,225,3.61,51.50833,-0.22643
+7553312,Merton,Outer London,Habitación individual,Particular,95,8.5,51.42909,-0.21555
+23756069,Tower Hamlets,Inner London,Base privada,Particular,200,7.48,51.50623,-0.06773
+31984182,Waltham Forest,Outer London,Habitación individual,Particular,50,12.97,51.57861,-0.03516
+14549541,Merton,Outer London,Habitación individual,Particular,25,10.12,51.41101,-0.19404
+1425110,Camden,Inner London,Habitación individual,Particular,75,5.45,51.54896,-0.19358
+31496966,Hammersmith and Fulham,Inner London,Base privada,Multipropiedad,120,2.66,51.4867,-0.20602
+19208401,Kensington and Chelsea,Inner London,Habitación individual,Particular,55,1.7,51.48754,-0.16467
+1052279,Sutton,Outer London,Habitación individual,Multipropiedad,25,14.08,51.37529,-0.15511
+11009946,Haringey,Outer London,Habitación individual,Multipropiedad,19,11.78,51.59512,-0.0965
+23643690,Hammersmith and Fulham,Inner London,Base privada,Particular,120,3.08,51.50495,-0.2196
+5909215,Wandsworth,Inner London,Habitación individual,Multipropiedad,35,7.14,51.43982,-0.20504
+40755411,Hammersmith and Fulham,Inner London,Habitación individual,Profesional,60,3.09,51.50579,-0.21962
+26113551,Hammersmith and Fulham,Inner London,Base privada,Particular,228,2.77,51.48251,-0.20187
+661917,Kingston upon Thames,Outer London,Habitación individual,Multipropiedad,42,12.88,51.41743,-0.30365
+38145404,Tower Hamlets,Inner London,Habitación individual,Profesional,41,8.45,51.51114,-0.05447
+13090999,Hammersmith and Fulham,Inner London,Habitación individual,Multipropiedad,100,3.04,51.47441,-0.18368
+31733415,Barnet,Outer London,Habitación individual,Particular,49,14.69,51.63214,-0.14584
+32694484,Westminster,Inner London,Base privada,Particular,100,2.29,51.48872,-0.14925
+36524346,Westminster,Inner London,Habitación individual,Profesional,86,2.09,51.51976,-0.16972
+29172211,Brent,Outer London,Habitación individual,Multipropiedad,75,6.09,51.53837,-0.24028
+17581010,Camden,Inner London,Base privada,Multipropiedad,120,5.23,51.54221,-0.1382
+28728675,Tower Hamlets,Inner London,Habitación individual,Multipropiedad,24,10.9,51.52239,-0.0217
+9267847,Redbridge,Outer London,Base privada,Particular,87,16.46,51.56286,0.04085
+32520661,Westminster,Inner London,Base privada,Profesional,194,3.24,51.49788,-0.12906
+34903774,Hammersmith and Fulham,Inner London,Base privada,Profesional,90,2.54,51.49033,-0.20769
+16145573,Merton,Outer London,Habitación individual,Multipropiedad,41,8.89,51.42272,-0.19891
+27803456,Bromley,Outer London,Base privada,Particular,105,18.86,51.39466,0.03612
+4670845,Lambeth,Inner London,Habitación individual,Particular,39,10.06,51.41542,-0.12971
+17657876,Lambeth,Inner London,Base privada,Particular,85,11.17,51.41997,-0.08083
+26101019,Croydon,Outer London,Base privada,Particular,65,10.08,51.41829,-0.11714
+34256812,Hammersmith and Fulham,Inner London,Base privada,Particular,87,3.52,51.48533,-0.21937
+28773995,Camden,Inner London,Base privada,Particular,200,4.64,51.5357,-0.13754
+34137057,Westminster,Inner London,Base privada,Multipropiedad,120,3.31,51.51993,-0.13826
+26315334,Waltham Forest,Outer London,Base privada,Particular,180,14.75,51.56673,0.00999
+27184240,Barnet,Outer London,Hotel,Profesional,90,11.75,51.59621,-0.25032
+7290689,Brent,Outer London,Habitación individual,Multipropiedad,40,5.34,51.53574,-0.22938
+19205371,Westminster,Inner London,Base privada,Particular,70,2.28,51.48785,-0.15065
+9994229,Camden,Inner London,Base privada,Particular,145,5.09,51.54671,-0.16586
+23310490,Hammersmith and Fulham,Inner London,Habitación individual,Multipropiedad,55,3.07,51.50661,-0.21908
+31035061,Westminster,Inner London,Base privada,Particular,130,4.04,51.51427,-0.12094
+32019700,Newham,Outer London,Habitación individual,Multipropiedad,25,14.65,51.51496,0.03503
+16935958,Southwark,Inner London,Base privada,Multipropiedad,250,5.65,51.50371,-0.09403
+34276724,Greenwich,Inner London,Base privada,Particular,132,11.78,51.47446,-0.01097
+36843829,Kensington and Chelsea,Inner London,Base privada,Particular,125,1.61,51.49961,-0.19867
+25434739,Kensington and Chelsea,Inner London,Habitación individual,Multipropiedad,85,1.65,51.49589,-0.19777
+9323880,Kensington and Chelsea,Inner London,Base privada,Multipropiedad,200,2.87,51.51907,-0.20559
+28509410,Tower Hamlets,Inner London,Base privada,Profesional,139,8.37,51.52734,-0.06207
+20911184,Kensington and Chelsea,Inner London,Base privada,Profesional,286,1.7,51.51075,-0.19486
+39505255,Westminster,Inner London,Base privada,Multipropiedad,159,2.93,51.50893,-0.13503
+872544,Lewisham,Inner London,Habitación individual,Multipropiedad,32,12.14,51.455799999999996,-0.01612
+28509165,Kensington and Chelsea,Inner London,Base privada,Profesional,220,1.94,51.48676,-0.19088
+39881225,Camden,Inner London,Base privada,Multipropiedad,120,6.62,51.55647,-0.13969
+5586678,Islington,Inner London,Base privada,Particular,110,8.22,51.55216,-0.08931
+18665595,Hammersmith and Fulham,Inner London,Base privada,Profesional,114,3.02,51.50185,-0.21906
+26411989,Tower Hamlets,Inner London,Base privada,Profesional,83,10.35,51.50033,-0.02593
+24617859,Greenwich,Inner London,Base privada,Multipropiedad,200,17.71,51.49345,0.08008
+25100210,Richmond upon Thames,Outer London,Habitación individual,Multipropiedad,75,7.86,51.476820000000004,-0.28206
+37527770,Camden,Inner London,Habitación individual,Profesional,48,4.47,51.54119,-0.18315
+38344062,Wandsworth,Inner London,Base privada,Particular,185,3.47,51.48195,-0.13624
+25013556,Greenwich,Inner London,Base privada,Particular,125,14.69,51.48438,0.03497
+17146129,Islington,Inner London,Habitación individual,Multipropiedad,55,5.74,51.53857,-0.11802
+37646247,Tower Hamlets,Inner London,Habitación individual,Profesional,45,10.14,51.52504,-0.03397
+36180904,Waltham Forest,Outer London,Habitación individual,Multipropiedad,55,13.15,51.57983,-0.03339
+16821590,Hammersmith and Fulham,Inner London,Base privada,Profesional,75,3.47,51.49089,-0.22277
+25127045,Hackney,Inner London,Base privada,Profesional,80,10.1,51.55342,-0.05593
+16043352,Islington,Inner London,Habitación individual,Multipropiedad,43,5.6,51.5356,-0.11621
+14317777,Lambeth,Inner London,Base privada,Particular,95,8.52,51.43055,-0.12816
+10764277,Southwark,Inner London,Base privada,Multipropiedad,240,8.12,51.49436,-0.05871
+30361989,Kensington and Chelsea,Inner London,Base privada,Profesional,300,1.08,51.49622,-0.18877
+30444357,Kingston upon Thames,Outer London,Habitación individual,Particular,39,15.96,51.38044,-0.29979
+34111024,Kensington and Chelsea,Inner London,Base privada,Particular,139,2.3,51.48204,-0.18748
+389862,Camden,Inner London,Habitación individual,Particular,40,7.94,51.57034,-0.1461
+16247891,Westminster,Inner London,Base privada,Multipropiedad,199,2.93,51.48905,-0.13795
+8286162,Hackney,Inner London,Habitación individual,Multipropiedad,36,9.78,51.53921,-0.048
+4499054,Brent,Outer London,Habitación individual,Particular,70,5.11,51.54156,-0.21098
+28244563,Harrow,Outer London,Habitación individual,Particular,35,16.01,51.61941,-0.30797
+33480885,Lewisham,Inner London,Habitación individual,Multipropiedad,25,10.87,51.45029,-0.04168
+29696253,Tower Hamlets,Inner London,Base privada,Profesional,155,7.65,51.5239,-0.07114
+15062700,Camden,Inner London,Habitación individual,Particular,47,7.39,51.56471,-0.14351
+11068436,Islington,Inner London,Habitación individual,Multipropiedad,49,5.52,51.53728,-0.12055
+39555575,Islington,Inner London,Habitación individual,Multipropiedad,70,7.76,51.54681,-0.09047
+37042300,Merton,Outer London,Base privada,Particular,145,10.95,51.4032,-0.162
+18981452,Tower Hamlets,Inner London,Habitación individual,Profesional,29,11.59,51.49616,-0.00826
+16856739,Newham,Outer London,Habitación individual,Multipropiedad,30,13.91,51.54726,0.01157
+20157423,Hackney,Inner London,Habitación individual,Particular,26,9.42,51.55468,-0.06974
+25818416,Hackney,Inner London,Compartido,Multipropiedad,30,8.68,51.54539,-0.07204
+37773613,Southwark,Inner London,Base privada,Profesional,456,5.36,51.50408,-0.09815
+13120366,Lambeth,Inner London,Habitación individual,Particular,47,8.11,51.43894,-0.11475
+35245685,Westminster,Inner London,Base privada,Profesional,119,1.81,51.51715,-0.18135
+5850271,Tower Hamlets,Inner London,Habitación individual,Profesional,49,7.56,51.52546,-0.07345
+17748535,Southwark,Inner London,Base privada,Particular,120,6.6,51.4998,-0.08014
+39119335,Hackney,Inner London,Base privada,Particular,100,9.08,51.54853,-0.06844
+37701860,Richmond upon Thames,Outer London,Base privada,Multipropiedad,105,6.86,51.47022,-0.2611
+32052942,Camden,Inner London,Base privada,Multipropiedad,110,4.53,51.531,-0.13059
+16542312,Camden,Inner London,Base privada,Profesional,120,4.98,51.53988,-0.13901
+20203166,Southwark,Inner London,Base privada,Profesional,220,5.32,51.50205,-0.09864
+35880499,Camden,Inner London,Habitación individual,Profesional,58,4.41,51.51813,-0.11779
+12702978,Hillingdon,Outer London,Habitación individual,Particular,34,14.7,51.52703,-0.38392
+36260382,Barnet,Outer London,Base privada,Multipropiedad,99,10.11,51.59171,-0.1909
+1098593,Kensington and Chelsea,Inner London,Habitación individual,Particular,50,3.23,51.51461,-0.21698
+4005962,Islington,Inner London,Base privada,Profesional,95,7.3,51.55209,-0.10875
+17817689,Tower Hamlets,Inner London,Base privada,Particular,85,8.21,51.51529,-0.05897
+37228388,Westminster,Inner London,Base privada,Particular,190,3.21,51.51107,-0.13183
+8796376,Westminster,Inner London,Base privada,Multipropiedad,129,2.61,51.49228,-0.14068
+18328546,Barnet,Outer London,Habitación individual,Multipropiedad,23,15.95,51.64335,-0.20711
+28487710,Tower Hamlets,Inner London,Base privada,Multipropiedad,100,8.25,51.51177,-0.05743
+24937899,Brent,Outer London,Compartido,Profesional,25,5.82,51.54588,-0.2197
+17974476,Hammersmith and Fulham,Inner London,Habitación individual,Particular,25,4.62,51.50368,-0.24217
+441525,Islington,Inner London,Base privada,Multipropiedad,100,6.64,51.53761,-0.09928
+39043130,Westminster,Inner London,Base privada,Particular,165,2.84,51.491929999999996,-0.13729
+15503385,Wandsworth,Inner London,Base privada,Multipropiedad,128,5.17,51.46342,-0.2188
+31915402,Westminster,Inner London,Base privada,Multipropiedad,89,3.35,51.51285,-0.13079
+12460823,Wandsworth,Inner London,Habitación individual,Particular,95,5.08,51.45602,-0.16548
+27126052,Hammersmith and Fulham,Inner London,Base privada,Multipropiedad,55,3.61,51.50377,-0.22744
+32585544,Lambeth,Inner London,Habitación individual,Multipropiedad,45,4.63,51.47318,-0.12622
+34090338,Wandsworth,Inner London,Habitación individual,Particular,35,4.84,51.45875,-0.16082
+17487943,Hammersmith and Fulham,Inner London,Habitación individual,Profesional,20,3.04,51.47895,-0.20084
+32733502,Camden,Inner London,Base privada,Profesional,347,4.41,51.51838,-0.11791
+19607900,Wandsworth,Inner London,Habitación individual,Particular,35,7.54,51.45285,-0.2517
+38489352,Wandsworth,Inner London,Base privada,Profesional,122,2.69,51.48329,-0.14957
+6653445,Southwark,Inner London,Base privada,Particular,160,5.22,51.49958,-0.10013
+550492,Haringey,Outer London,Base privada,Particular,149,11.28,51.59994,-0.13742
+38211336,Barnet,Outer London,Base privada,Multipropiedad,99,14.58,51.6163,-0.27669
+8789500,Wandsworth,Inner London,Habitación individual,Particular,37,7.4,51.43491,-0.16791
+11528703,Lewisham,Inner London,Habitación individual,Particular,90,9.22,51.47851,-0.04739
+528124,Camden,Inner London,Habitación individual,Multipropiedad,46,6.29,51.55659,-0.19488
+19133344,Tower Hamlets,Inner London,Habitación individual,Multipropiedad,50,8.07,51.5137,-0.06063
+22764274,Westminster,Inner London,Base privada,Profesional,85,3.39,51.52689,-0.20226
+33981556,Richmond upon Thames,Outer London,Base privada,Particular,240,11.2,51.46307,-0.32507
+18209044,Islington,Inner London,Base privada,Particular,120,8.43,51.56901,-0.12057
+39407967,Lewisham,Inner London,Base privada,Multipropiedad,110,11.71,51.46646,-0.01595
+12542053,Camden,Inner London,Base privada,Multipropiedad,82,4.58,51.53702,-0.14261
+24893201,Hounslow,Outer London,Base privada,Particular,120,15.4,51.47757,-0.39465
+409270,Lambeth,Inner London,Habitación individual,Multipropiedad,60,4.84,51.4681,-0.13031
+34028371,Wandsworth,Inner London,Habitación individual,Multipropiedad,99,4.42,51.46158,-0.17322
+37082981,Islington,Inner London,Base privada,Particular,130,5.64,51.52298,-0.10182
+26707079,Kensington and Chelsea,Inner London,Base privada,Particular,200,1.85,51.48589,-0.18575
+21681286,Lewisham,Inner London,Habitación individual,Particular,55,10.95,51.47694,-0.02228
+38664252,Southwark,Inner London,Base privada,Particular,68,6.99,51.47214,-0.08601
+27694332,Greenwich,Inner London,Base privada,Multipropiedad,598,12.83,51.48517,0.00796
+1283474,Newham,Outer London,Habitación individual,Particular,85,14.36,51.5028,0.03194
+8396056,Lambeth,Inner London,Habitación individual,Particular,57,6.38,51.45604,-0.11895
+23555322,Tower Hamlets,Inner London,Habitación individual,Profesional,46,7.78,51.51222,-0.06444
+9425208,Southwark,Inner London,Habitación individual,Multipropiedad,45,9.61,51.49816,-0.03683
+16552252,Haringey,Outer London,Habitación individual,Multipropiedad,49,9.0,51.57512,-0.12213
+40868732,Camden,Inner London,Habitación individual,Particular,50,4.49,51.52067,-0.1185
+23763266,Hackney,Inner London,Habitación individual,Multipropiedad,35,6.83,51.53029,-0.08842
+32220063,Lewisham,Inner London,Habitación individual,Multipropiedad,45,11.52,51.46662,-0.01876
+40193631,Southwark,Inner London,Habitación individual,Multipropiedad,29,7.54,51.46277,-0.08586
+21348750,Hammersmith and Fulham,Inner London,Base privada,Particular,220,3.01,51.4805,-0.2034
+18643340,Tower Hamlets,Inner London,Base privada,Particular,250,7.85,51.51327,-0.0637
+9884291,Southwark,Inner London,Habitación individual,Particular,50,8.81,51.50223,-0.04821
+22080815,Camden,Inner London,Compartido,Profesional,19,4.51,51.53099,-0.13102
+31308995,Lewisham,Inner London,Habitación individual,Multipropiedad,24,10.84,51.45492,-0.03788
+39694701,Ealing,Outer London,Base privada,Particular,55,7.73,51.50296,-0.28719
+19601243,Tower Hamlets,Inner London,Habitación individual,Multipropiedad,55,7.54,51.50927,-0.06738
+2051141,Islington,Inner London,Habitación individual,Multipropiedad,50,5.49,51.52146,-0.10308
+4580359,Hammersmith and Fulham,Inner London,Habitación individual,Particular,67,3.31,51.49715,-0.22286
+40944323,City of London,Inner London,Base privada,Multipropiedad,199,6.89,51.51911,-0.08011
+36353532,Camden,Inner London,Base privada,Profesional,180,4.98,51.54315,-0.14984
+32303128,Kensington and Chelsea,Inner London,Habitación individual,Multipropiedad,46,1.5,51.50891,-0.19333
+28182546,Westminster,Inner London,Base privada,Particular,195,2.68,51.5236,-0.16099
+39406703,Hackney,Inner London,Habitación individual,Particular,85,7.22,51.5271,-0.07976
+23082488,Westminster,Inner London,Habitación individual,Multipropiedad,57,2.46,51.52236,-0.16462
+329585,Lambeth,Inner London,Base privada,Multipropiedad,138,4.83,51.46903,-0.12875
+23665982,Islington,Inner London,Base privada,Multipropiedad,95,8.54,51.56442,-0.10528
+17131728,Southwark,Inner London,Habitación individual,Multipropiedad,100,8.83,51.47397,-0.05576
+521547,Lewisham,Inner London,Habitación individual,Particular,35,14.32,51.43872,0.00515
+33833366,Westminster,Inner London,Base privada,Profesional,350,1.73,51.51647,-0.18101
+18688216,Lewisham,Inner London,Habitación individual,Multipropiedad,26,13.56,51.42627,-0.02111
+34407507,Enfield,Outer London,Habitación individual,Multipropiedad,20,16.96,51.63076,-0.0457
+32540539,Tower Hamlets,Inner London,Habitación individual,Multipropiedad,50,7.28,51.50987,-0.07125
+33436742,Westminster,Inner London,Base privada,Particular,118,3.27,51.52766,-0.19645
+27872336,Camden,Inner London,Habitación individual,Multipropiedad,50,4.6,51.52298,-0.11889
+39202491,Westminster,Inner London,Habitación individual,Profesional,55,2.94,51.4969,-0.13367
+37288302,Brent,Outer London,Base privada,Multipropiedad,100,6.22,51.54968,-0.22065
+30337071,Kensington and Chelsea,Inner London,Habitación individual,Multipropiedad,165,0.82,51.49873,-0.16442
+22133464,Lewisham,Inner London,Habitación individual,Multipropiedad,40,10.74,51.46054,-0.03493
+40907504,Camden,Inner London,Base privada,Multipropiedad,119,5.92,51.54541,-0.12758
+33040458,Lambeth,Inner London,Habitación individual,Profesional,50,4.62,51.50107,-0.10881
+27719002,Camden,Inner London,Base privada,Profesional,105,4.96,51.54292,-0.14977
+19132509,Brent,Outer London,Base privada,Particular,100,5.0,51.54317,-0.20203
+36756071,Tower Hamlets,Inner London,Base privada,Profesional,75,9.77,51.52896,-0.04143
+29176332,Kensington and Chelsea,Inner London,Base privada,Profesional,192,1.83,51.49202,-0.19728
+33061841,Hackney,Inner London,Base privada,Particular,300,9.68,51.56154,-0.07444
+27199608,Wandsworth,Inner London,Base privada,Particular,60,3.51,51.46992,-0.16945
+39173165,Islington,Inner London,Base privada,Profesional,199,5.96,51.54131,-0.11828
+28455945,Bromley,Outer London,Habitación individual,Particular,32,14.42,51.40235,-0.04101
+41371744,Kensington and Chelsea,Inner London,Habitación individual,Multipropiedad,40,1.78,51.49264,-0.19717
+32115611,Greenwich,Inner London,Base privada,Multipropiedad,79,12.58,51.48304,0.00384
+29033913,Westminster,Inner London,Base privada,Multipropiedad,155,1.66,51.51463,-0.16457
+17644623,Islington,Inner London,Base privada,Multipropiedad,97,6.45,51.53246,-0.0968
+21079652,Croydon,Outer London,Habitación individual,Multipropiedad,15,13.47,51.38402,-0.12671
+39196526,Westminster,Inner London,Habitación individual,Particular,250,1.83,51.51373,-0.19276
+32718277,Westminster,Inner London,Base privada,Profesional,110,2.45,51.4914,-0.1439
+24764708,Islington,Inner London,Habitación individual,Multipropiedad,33,6.29,51.54471,-0.11732
+38768678,Kensington and Chelsea,Inner London,Base privada,Profesional,100,2.28,51.48127,-0.18272
+30393396,Islington,Inner London,Base privada,Profesional,150,6.34,51.53613,-0.10302
+27252509,Ealing,Outer London,Habitación individual,Profesional,45,8.18,51.51278,-0.29223
+28025913,Camden,Inner London,Base privada,Profesional,75,5.45,51.55022,-0.16961
+14362319,Tower Hamlets,Inner London,Base privada,Particular,115,9.1,51.51125,-0.04496
+31255924,Richmond upon Thames,Outer London,Base privada,Particular,112,10.78,51.4541,-0.3115
+13183897,Brent,Outer London,Compartido,Profesional,13,5.54,51.54621,-0.21029
+18146967,Lewisham,Inner London,Base privada,Particular,110,10.65,51.46778,-0.03143
+23533575,Camden,Inner London,Base privada,Multipropiedad,227,5.33,51.53619,-0.1226
+31945961,Kensington and Chelsea,Inner London,Hotel,Profesional,121,1.3,51.49173,-0.16477
+3754439,Barnet,Outer London,Habitación individual,Particular,26,12.71,51.60608,-0.24899
+33178101,Greenwich,Inner London,Habitación individual,Particular,26,17.43,51.49395,0.07598
+40130135,Havering,Outer London,Habitación individual,Multipropiedad,30,25.87,51.55013,0.19011
+40193087,Camden,Inner London,Base privada,Profesional,250,5.84,51.54848,-0.13825
+25345793,Westminster,Inner London,Base privada,Multipropiedad,330,2.21,51.51173,-0.14838
+38137573,Greenwich,Inner London,Base privada,Particular,170,11.42,51.474,-0.01651
+30519119,Camden,Inner London,Base privada,Multipropiedad,175,4.7,51.53401,-0.13241
+26210292,Camden,Inner London,Base privada,Particular,150,4.72,51.5412,-0.15223
+27324501,Tower Hamlets,Inner London,Base privada,Profesional,147,7.62,51.52343,-0.07134
+5344655,Kingston upon Thames,Outer London,Habitación individual,Multipropiedad,40,12.37,51.40176,-0.25524
+38986744,Hackney,Inner London,Habitación individual,Particular,75,11.17,51.54641,-0.03117
+2003011,Haringey,Outer London,Base privada,Particular,150,8.81,51.5683,-0.10754
+20993911,Barnet,Outer London,Habitación individual,Particular,45,7.88,51.56892,-0.20947
+7180348,Barnet,Outer London,Habitación individual,Multipropiedad,48,7.71,51.56833,-0.2038
+37873486,Westminster,Inner London,Base privada,Multipropiedad,89,3.13,51.48833,-0.13544
+19851801,Brent,Outer London,Base privada,Multipropiedad,70,6.76,51.5371,-0.2544
+32659015,Kensington and Chelsea,Inner London,Hotel,Profesional,195,1.31,51.49135,-0.1654
+30248262,Newham,Outer London,Base privada,Particular,130,13.96,51.50817,0.0259
+10352128,Lewisham,Inner London,Habitación individual,Multipropiedad,20,11.42,51.42829,-0.05958
+16732018,Hackney,Inner London,Base privada,Particular,90,8.4,51.54357,-0.07483
+13381921,Hammersmith and Fulham,Inner London,Habitación individual,Particular,50,2.97,51.48153,-0.2044
+19114093,Southwark,Inner London,Habitación individual,Multipropiedad,30,5.96,51.49078,-0.09101
+39438551,Lewisham,Inner London,Base privada,Particular,200,10.89,51.43871,-0.05459
+31246945,Westminster,Inner London,Base privada,Profesional,263,2.39,51.48976,-0.14644
+2729885,Westminster,Inner London,Habitación individual,Multipropiedad,110,3.17,51.50713,-0.13072
+32286606,Brent,Outer London,Habitación individual,Particular,45,6.23,51.54346,-0.23475
+20593111,Waltham Forest,Outer London,Habitación individual,Particular,45,14.24,51.57517,-0.00729
+40650984,Kensington and Chelsea,Inner London,Habitación individual,Profesional,46,2.34,51.51371,-0.20274
+9500087,Camden,Inner London,Base privada,Profesional,234,4.36,51.53255,-0.13745
+5658829,Lambeth,Inner London,Base privada,Particular,133,5.11,51.46655,-0.12717
+8229074,Brent,Outer London,Base privada,Profesional,110,4.02,51.5357,-0.19353
+3293028,Ealing,Outer London,Base privada,Particular,106,10.0,51.50149,-0.32002
+24641140,Camden,Inner London,Base privada,Multipropiedad,250,4.68,51.54297,-0.16599
+17356830,Waltham Forest,Outer London,Base privada,Multipropiedad,80,14.81,51.59565,-0.0243
+29048353,Westminster,Inner London,Base privada,Particular,150,1.64,51.51526,-0.18292
+28063778,Hammersmith and Fulham,Inner London,Base privada,Multipropiedad,135,2.21,51.48661,-0.19708
+6935007,Richmond upon Thames,Outer London,Habitación individual,Particular,90,12.12,51.44705,-0.32736
+4775374,Hackney,Inner London,Base privada,Particular,250,10.82,51.54748,-0.03781
+24416979,Brent,Outer London,Base privada,Multipropiedad,120,5.1,51.54435,-0.20094
+38426537,Westminster,Inner London,Habitación individual,Multipropiedad,70,1.27,51.51272,-0.17568
+40374116,Kensington and Chelsea,Inner London,Base privada,Profesional,89,2.68,51.51823,-0.20303
+4386827,Hammersmith and Fulham,Inner London,Base privada,Particular,150,2.7,51.48829,-0.20843
+26562402,Haringey,Outer London,Base privada,Profesional,98,12.44,51.60898,-0.12648
+27889807,Lambeth,Inner London,Habitación individual,Particular,37,6.27,51.45715,-0.11912
+27054712,Lewisham,Inner London,Habitación individual,Multipropiedad,21,13.25,51.42829,-0.02427
+38474765,Islington,Inner London,Base privada,Multipropiedad,140,7.42,51.54032,-0.08859
+31739081,Tower Hamlets,Inner London,Base privada,Multipropiedad,130,8.13,51.51676,-0.06075
+13049519,Tower Hamlets,Inner London,Base privada,Particular,150,10.82,51.51579,-0.02083
+31612083,Camden,Inner London,Hotel,Profesional,105,4.84,51.54479,-0.17507
+7339011,Westminster,Inner London,Base privada,Multipropiedad,300,2.48,51.49177,-0.14304
+28537099,Tower Hamlets,Inner London,Base privada,Profesional,100,10.91,51.49841,-0.01795
+29205613,Tower Hamlets,Inner London,Base privada,Particular,278,7.84,51.51567,-0.06464
+29323898,Tower Hamlets,Inner London,Base privada,Multipropiedad,135,12.61,51.51183,0.00595
+10924783,Richmond upon Thames,Outer London,Habitación individual,Particular,65,13.75,51.43173,-0.33962
+13508329,Lewisham,Inner London,Base privada,Multipropiedad,125,12.18,51.44731,-0.02255
+31395242,Wandsworth,Inner London,Base privada,Particular,125,5.81,51.45059,-0.19573
+29176185,Islington,Inner London,Habitación individual,Multipropiedad,23,8.11,51.56193,-0.11023
+37458593,Westminster,Inner London,Base privada,Multipropiedad,200,2.51,51.51602,-0.14808
+31235074,Newham,Outer London,Habitación individual,Particular,50,17.47,51.50648,0.07679
+39246333,Brent,Outer London,Base privada,Multipropiedad,90,4.62,51.53976,-0.20084
+27334089,Merton,Outer London,Habitación individual,Multipropiedad,26,9.75,51.41364,-0.18107
+21019340,Tower Hamlets,Inner London,Hotel,Profesional,145,7.26,51.51448,-0.07277
+21971082,Hackney,Inner London,Habitación individual,Particular,35,9.26,51.56767,-0.09454
+25078317,Islington,Inner London,Habitación individual,Particular,80,5.85,51.52659,-0.10143
+17724838,Tower Hamlets,Inner London,Habitación individual,Particular,35,8.29,51.53104,-0.06562
+18425876,Hammersmith and Fulham,Inner London,Base privada,Particular,199,3.83,51.48142,-0.22064
+7537897,Southwark,Inner London,Habitación individual,Multipropiedad,45,5.15,51.50037,-0.10115
+20616190,Camden,Inner London,Base privada,Particular,90,3.85,51.52736,-0.13878
+33635691,Redbridge,Outer London,Habitación individual,Multipropiedad,53,18.52,51.59454,0.0465
+20988026,Brent,Outer London,Habitación individual,Particular,55,4.46,51.53311,-0.21466
+37198731,Lewisham,Inner London,Base privada,Multipropiedad,130,9.05,51.47688,-0.05081
+699256,Hammersmith and Fulham,Inner London,Habitación individual,Particular,60,3.94,51.47491,-0.21342
+9002199,Newham,Outer London,Habitación individual,Multipropiedad,23,15.05,51.55066,0.02713
+16350713,Tower Hamlets,Inner London,Habitación individual,Particular,53,11.59,51.50157,-0.0081
+23533461,Hammersmith and Fulham,Inner London,Base privada,Profesional,65,2.51,51.48855,-0.20546
+29393661,City of London,Inner London,Base privada,Profesional,162,6.74,51.51263,-0.07979
+29382912,Kensington and Chelsea,Inner London,Base privada,Particular,90,1.51,51.50614,-0.19586
+36306193,Lewisham,Inner London,Habitación individual,Multipropiedad,35,14.84,51.44177,0.01625
+9820596,Ealing,Outer London,Base privada,Particular,82,10.4,51.51048,-0.32497
+32688335,Camden,Inner London,Base privada,Multipropiedad,295,4.45,51.51943,-0.11823
+7852769,Richmond upon Thames,Outer London,Habitación individual,Particular,65,12.89,51.44434,-0.33756
+29090242,Brent,Outer London,Habitación individual,Profesional,36,7.07,51.55207,-0.23712
+6773905,Ealing,Outer London,Base privada,Multipropiedad,500,8.73,51.50869,-0.30101
+502790,Lambeth,Inner London,Base privada,Particular,120,5.73,51.47531,-0.10403
+23751215,Greenwich,Inner London,Base privada,Particular,140,13.74,51.47648,0.01893
+38120752,Southwark,Inner London,Base privada,Multipropiedad,343,5.96,51.50032,-0.08935
+35559626,Harrow,Outer London,Base privada,Multipropiedad,120,15.49,51.59678,-0.33856
+12400792,Tower Hamlets,Inner London,Habitación individual,Profesional,49,11.24,51.49589,-0.01339
+20181986,Greenwich,Inner London,Base privada,Particular,70,17.29,51.48824,0.07344
+31399806,Tower Hamlets,Inner London,Habitación individual,Multipropiedad,90,10.01,51.52923,-0.03804
+29182347,Westminster,Inner London,Base privada,Profesional,105,1.65,51.51406,-0.18759
+35369691,Islington,Inner London,Base privada,Multipropiedad,125,6.19,51.53045,-0.0993
+9440753,Camden,Inner London,Base privada,Particular,450,6.28,51.55776,-0.17848
+21023287,Westminster,Inner London,Base privada,Profesional,140,2.8,51.52332,-0.15588
+12478820,Camden,Inner London,Habitación individual,Profesional,89,4.03,51.51912,-0.12487
+30757664,Camden,Inner London,Base privada,Multipropiedad,100,6.2,51.55686,-0.18365
+22022755,Southwark,Inner London,Base privada,Particular,170,5.22,51.50734,-0.10075
+4870484,Hammersmith and Fulham,Inner London,Base privada,Multipropiedad,130,2.79,51.48291,-0.20291
+11675419,Lewisham,Inner London,Habitación individual,Multipropiedad,21,10.94,51.44577,-0.04518
+35029375,Merton,Outer London,Base privada,Particular,110,8.93,51.42333,-0.20617
+33338587,Hammersmith and Fulham,Inner London,Base privada,Multipropiedad,160,2.46,51.48966,-0.20569
+28475773,Camden,Inner London,Base privada,Multipropiedad,476,3.97,51.51806,-0.12483
+36529101,Newham,Outer London,Habitación individual,Multipropiedad,30,12.48,51.54929,-0.01236
+39318986,Tower Hamlets,Inner London,Base privada,Multipropiedad,119,8.93,51.5201,-0.04998
+4068010,Camden,Inner London,Base privada,Profesional,209,4.46,51.52635,-0.12514
+21294054,Greenwich,Inner London,Habitación individual,Multipropiedad,24,20.21,51.501689999999996,0.11643
+26182898,Camden,Inner London,Base privada,Profesional,79,4.46,51.54128,-0.18149
+36205477,Newham,Outer London,Habitación individual,Multipropiedad,27,13.57,51.53433,0.01323
+34168522,Islington,Inner London,Base privada,Multipropiedad,200,6.64,51.53985,-0.10224
+26037776,Barking and Dagenham,Outer London,Habitación individual,Particular,28,18.02,51.5438,0.07589
+39429085,Westminster,Inner London,Base privada,Multipropiedad,99,1.87,51.51637,-0.16367
+22160400,Tower Hamlets,Inner London,Habitación individual,Profesional,20,9.73,51.51857,-0.03774
+27835051,Waltham Forest,Outer London,Base privada,Particular,65,14.21,51.55512,0.01084
+17161734,Camden,Inner London,Base privada,Multipropiedad,200,4.65,51.54082,-0.15374
+33130631,Wandsworth,Inner London,Base privada,Particular,85,5.53,51.46442,-0.22902
+19345266,Tower Hamlets,Inner London,Habitación individual,Particular,99,7.41,51.51144,-0.06974
+482178,City of London,Inner London,Base privada,Particular,140,5.8,51.51578,-0.09496
+20076749,Tower Hamlets,Inner London,Base privada,Profesional,60,7.68,51.52384,-0.07054
+36391397,Redbridge,Outer London,Habitación individual,Profesional,54,21.24,51.57111,0.11035
+17314564,Ealing,Outer London,Habitación individual,Profesional,50,5.98,51.51459,-0.25929
+32394343,Ealing,Outer London,Habitación individual,Multipropiedad,42,6.99,51.50288,-0.2764
+17637693,Camden,Inner London,Base privada,Profesional,89,4.56,51.52113,-0.11775
+4407523,Camden,Inner London,Base privada,Particular,89,5.17,51.54636,-0.19401
+31796250,Westminster,Inner London,Base privada,Profesional,95,3.4,51.51439,-0.13108
+13969576,Newham,Outer London,Habitación individual,Multipropiedad,75,15.39,51.5527,0.03098
+20141691,Camden,Inner London,Base privada,Particular,100,6.05,51.55171,-0.2083
+24277874,Westminster,Inner London,Base privada,Multipropiedad,249,3.28,51.514920000000004,-0.13343
+27186515,Brent,Outer London,Hotel,Profesional,70,6.58,51.53805,-0.25007
+30777325,Westminster,Inner London,Base privada,Multipropiedad,292,1.78,51.51658,-0.18322
+37647552,Tower Hamlets,Inner London,Habitación individual,Profesional,29,10.15,51.52324,-0.03309
+30660142,Haringey,Outer London,Habitación individual,Particular,62,13.94,51.60402,-0.05985
+38712848,Westminster,Inner London,Base privada,Particular,110,2.26,51.51626,-0.19753
+25783658,Tower Hamlets,Inner London,Habitación individual,Profesional,29,7.94,51.5211,-0.06519
+28998563,Brent,Outer London,Base privada,Particular,500,6.59,51.55242,-0.2237
+14840391,Hammersmith and Fulham,Inner London,Base privada,Particular,85,3.42,51.47602,-0.20373
+33008409,Tower Hamlets,Inner London,Habitación individual,Particular,35,11.41,51.52252,-0.01418
+39740370,Camden,Inner London,Base privada,Multipropiedad,190,5.68,51.55018,-0.15189
+18629539,Greenwich,Inner London,Base privada,Particular,60,13.77,51.47842,0.01998
+20405481,Kensington and Chelsea,Inner London,Hotel,Profesional,135,1.33,51.4913,-0.16505
+38944973,Westminster,Inner London,Base privada,Multipropiedad,133,1.87,51.51589,-0.18892
+5075266,Hammersmith and Fulham,Inner London,Base privada,Multipropiedad,120,2.31,51.48587,-0.19782
+17808694,Kensington and Chelsea,Inner London,Base privada,Profesional,91,3.27,51.51866,-0.21355
+16597889,Hillingdon,Outer London,Habitación individual,Multipropiedad,29,19.91,51.50402,-0.46317
+20899090,Tower Hamlets,Inner London,Habitación individual,Profesional,30,9.9,51.51523,-0.03425
+25771879,Wandsworth,Inner London,Base privada,Particular,65,7.27,51.43673,-0.15858
+32161275,Camden,Inner London,Habitación individual,Particular,45,6.03,51.55485,-0.16138
+30333054,Camden,Inner London,Base privada,Multipropiedad,371,4.83,51.52163,-0.1138
+15142942,Hackney,Inner London,Base privada,Multipropiedad,120,8.73,51.53592,-0.06227
+29649169,Camden,Inner London,Base privada,Profesional,60,4.97,51.54198,-0.14561
+26766906,Brent,Outer London,Base privada,Profesional,69,6.41,51.55216,-0.21907
+8279354,Richmond upon Thames,Outer London,Habitación individual,Particular,30,13.6,51.45485,-0.35712
+34133919,Brent,Outer London,Base privada,Profesional,105,7.29,51.55452,-0.23713
+30434170,Havering,Outer London,Habitación individual,Particular,45,25.44,51.58004,0.16995
+22224224,Westminster,Inner London,Base privada,Multipropiedad,250,3.48,51.51262,-0.12856
+29252231,Tower Hamlets,Inner London,Base privada,Particular,60,11.15,51.52663,-0.01958
+24951115,Camden,Inner London,Base privada,Multipropiedad,169,3.63,51.51585,-0.12862
+21591470,City of London,Inner London,Base privada,Multipropiedad,99,5.84,51.52064,-0.09704
+32008272,Westminster,Inner London,Habitación individual,Multipropiedad,60,3.07,51.5123,-0.13482
+28151042,Hammersmith and Fulham,Inner London,Habitación individual,Particular,100,3.14,51.47619,-0.19629
+13128956,Richmond upon Thames,Outer London,Base privada,Particular,160,8.25,51.47431,-0.28647
+18544489,Kensington and Chelsea,Inner London,Base privada,Particular,140,1.7,51.510040000000004,-0.19561
+3838369,Islington,Inner London,Base privada,Particular,285,6.58,51.52395,-0.08768
+16879324,Camden,Inner London,Base privada,Profesional,109,4.4,51.51885,-0.11853
+23386785,Lambeth,Inner London,Habitación individual,Multipropiedad,56,4.29,51.49381,-0.11466
+32214675,Camden,Inner London,Base privada,Multipropiedad,142,5.69,51.55247,-0.17766
+3916076,Croydon,Outer London,Habitación individual,Multipropiedad,40,10.08,51.42186,-0.10529
+39455059,Hammersmith and Fulham,Inner London,Habitación individual,Profesional,65,3.38,51.49967,-0.22429
+584971,Wandsworth,Inner London,Habitación individual,Multipropiedad,27,6.47,51.44558,-0.14839
+15022955,Croydon,Outer London,Habitación individual,Multipropiedad,25,12.36,51.40615,-0.08332
+11946740,Merton,Outer London,Habitación individual,Particular,30,8.43,51.42597,-0.18977
+957861,Haringey,Outer London,Habitación individual,Particular,55,10.24,51.58791,-0.12498
+37924850,Kensington and Chelsea,Inner London,Habitación individual,Profesional,42,2.56,51.50278,-0.21248
+34620400,Camden,Inner London,Base privada,Profesional,100,4.03,51.52986,-0.13965
+14518189,Westminster,Inner London,Habitación individual,Particular,19,2.84,51.49065,-0.13824
+15921696,Islington,Inner London,Base privada,Particular,120,6.16,51.52731,-0.09697
+625296,Kensington and Chelsea,Inner London,Habitación individual,Multipropiedad,37,4.15,51.52192,-0.22557
+28326002,Brent,Outer London,Base privada,Profesional,49,6.53,51.54921,-0.23006
+13766921,Lambeth,Inner London,Habitación individual,Multipropiedad,52,6.18,51.45815,-0.11923
+36873448,Westminster,Inner London,Base privada,Profesional,150,2.8,51.52463,-0.19086
+22580241,Brent,Outer London,Base privada,Multipropiedad,95,5.95,51.54577,-0.22328
+14760568,Tower Hamlets,Inner London,Base privada,Multipropiedad,150,7.4,51.5206,-0.07311
+13724380,Southwark,Inner London,Habitación individual,Particular,90,5.06,51.49851,-0.10254
+32313956,Westminster,Inner London,Base privada,Multipropiedad,200,3.07,51.51087,-0.13392
+27231759,Ealing,Outer London,Compartido,Particular,17,6.51,51.51594,-0.26654
+6097361,Westminster,Inner London,Habitación individual,Multipropiedad,32,3.83,51.53055,-0.20479
+38951707,Camden,Inner London,Base privada,Multipropiedad,200,4.42,51.52961,-0.13064
+29588677,Wandsworth,Inner London,Habitación individual,Multipropiedad,60,7.25,51.43885,-0.1453
+28455565,Brent,Outer London,Base privada,Multipropiedad,80,5.66,51.54631,-0.21365
+1486344,Westminster,Inner London,Base privada,Particular,125,2.36,51.52156,-0.16511
+21889979,Kensington and Chelsea,Inner London,Base privada,Multipropiedad,210,3.37,51.52383,-0.20802
+25240758,Hackney,Inner London,Habitación individual,Particular,50,10.16,51.55186,-0.0532
+35430972,Islington,Inner London,Base privada,Multipropiedad,100,7.52,51.55476,-0.10886
+22874930,Camden,Inner London,Base privada,Profesional,125,3.44,51.52325,-0.14053
+7281936,Ealing,Outer London,Base privada,Particular,119,9.64,51.49652,-0.31456
+29058059,Camden,Inner London,Habitación individual,Profesional,55,3.8,51.52647,-0.13825
+31940211,Brent,Outer London,Base privada,Particular,110,10.08,51.55163,-0.29671
+705526,Hammersmith and Fulham,Inner London,Habitación individual,Multipropiedad,50,4.03,51.47943,-0.22196
+28298926,Westminster,Inner London,Base privada,Profesional,275,3.16,51.512950000000004,-0.1339
+22622740,Hammersmith and Fulham,Inner London,Base privada,Profesional,104,3.19,51.47983,-0.20615
+11988123,Lambeth,Inner London,Base privada,Particular,99,4.14,51.49406,-0.11683
+29869629,Westminster,Inner London,Base privada,Multipropiedad,350,1.59,51.51097,-0.19233
+33681737,Hackney,Inner London,Base privada,Particular,180,7.09,51.5347,-0.08825
+2456463,Croydon,Outer London,Habitación individual,Multipropiedad,22,17.55,51.37281,-0.02858
+26160870,Westminster,Inner London,Base privada,Profesional,195,3.8,51.50846,-0.12182
+39218992,Hammersmith and Fulham,Inner London,Hotel,Multipropiedad,1000,3.5,51.49335,-0.22449
+30753299,Brent,Outer London,Base privada,Profesional,59,5.84,51.53426,-0.24128
+25471889,Newham,Outer London,Base privada,Multipropiedad,90,14.21,51.51173,0.02911
+31144517,Kingston upon Thames,Outer London,Habitación individual,Particular,30,12.7,51.39905,-0.25705
+10899042,Lambeth,Inner London,Base privada,Particular,250,6.0,51.46103,-0.11776
+24025201,Brent,Outer London,Habitación individual,Profesional,160,4.16,51.53515,-0.20119
+31220664,Kensington and Chelsea,Inner London,Base privada,Multipropiedad,150,1.56,51.5065,-0.19651
+30176448,Hillingdon,Outer London,Base privada,Multipropiedad,60,20.08,51.53167,-0.4616
+20465166,Greenwich,Inner London,Base privada,Multipropiedad,81,20.41,51.49757,0.11928
+25245527,Barnet,Outer London,Habitación individual,Multipropiedad,35,10.02,51.59076,-0.19275
+18610982,Merton,Outer London,Habitación individual,Multipropiedad,175,8.88,51.42381,-0.20637
+8780147,Tower Hamlets,Inner London,Habitación individual,Multipropiedad,40,8.71,51.52674,-0.05649
+13012318,Islington,Inner London,Base privada,Multipropiedad,260,5.57,51.53135,-0.11116
+28768745,Camden,Inner London,Base privada,Profesional,85,4.42,51.53323,-0.1375
+29016869,Greenwich,Inner London,Habitación individual,Multipropiedad,31,11.5,51.47272,-0.01595
+13051806,Wandsworth,Inner London,Base privada,Particular,199,3.68,51.4816,-0.13275
+26268360,Ealing,Outer London,Habitación individual,Particular,50,9.72,51.50624,-0.31577
+14249289,Kensington and Chelsea,Inner London,Base privada,Particular,89,2.56,51.49998,-0.2124
+11405398,Westminster,Inner London,Base privada,Profesional,186,3.19,51.51204,-0.13271
+40490564,Camden,Inner London,Habitación individual,Multipropiedad,50,5.1,51.54088,-0.13831
+33929013,Kensington and Chelsea,Inner London,Base privada,Multipropiedad,170,0.78,51.49625,-0.16758
+22895122,Islington,Inner London,Base privada,Particular,180,5.58,51.52455,-0.10406
+22467750,Westminster,Inner London,Base privada,Profesional,92,1.53,51.51489,-0.17212
+33327444,Tower Hamlets,Inner London,Base privada,Profesional,199,7.93,51.52466,-0.06719
+19993351,Islington,Inner London,Base privada,Profesional,154,6.08,51.52656,-0.09758
+21814704,Hackney,Inner London,Base privada,Particular,75,8.8,51.54047,-0.06497
+8622409,Hackney,Inner London,Habitación individual,Multipropiedad,115,7.03,51.52951,-0.08453
+20135563,Tower Hamlets,Inner London,Habitación individual,Multipropiedad,55,7.47,51.52047,-0.07206
+20499932,Ealing,Outer London,Habitación individual,Particular,25,7.06,51.50328,-0.27746
+21192360,Wandsworth,Inner London,Habitación individual,Particular,65,3.38,51.47462,-0.15213
+18670770,Haringey,Outer London,Habitación individual,Particular,55,12.17,51.58558,-0.06318
+31561336,Camden,Inner London,Base privada,Profesional,163,3.82,51.51622,-0.12581
+22750469,Tower Hamlets,Inner London,Base privada,Profesional,150,11.29,51.48694,-0.0141
+21213160,Lambeth,Inner London,Habitación individual,Multipropiedad,50,4.38,51.49899,-0.11239
+14182630,Camden,Inner London,Base privada,Particular,185,6.09,51.55511,-0.15893
+33566525,Westminster,Inner London,Base privada,Profesional,201,2.54,51.52316,-0.16498
+14403716,Southwark,Inner London,Base privada,Multipropiedad,250,6.24,51.50006,-0.08543
+39789353,Tower Hamlets,Inner London,Habitación individual,Particular,59,7.56,51.51623,-0.06887
+30761282,Westminster,Inner London,Habitación individual,Particular,85,2.89,51.52732,-0.17541
+13133254,Hackney,Inner London,Habitación individual,Particular,33,11.44,51.55173,-0.03137
+9859401,Tower Hamlets,Inner London,Base privada,Multipropiedad,120,9.76,51.51837,-0.03716
+27504883,Lewisham,Inner London,Habitación individual,Particular,27,13.49,51.42443,-0.02489
+37631562,Tower Hamlets,Inner London,Base privada,Multipropiedad,105,11.43,51.50855,-0.01082
+27459735,Newham,Outer London,Habitación individual,Multipropiedad,25,14.63,51.54501,0.02392
+20055664,Kensington and Chelsea,Inner London,Base privada,Multipropiedad,200,3.56,51.52286,-0.21356
+32910501,Lewisham,Inner London,Habitación individual,Multipropiedad,38,13.81,51.44274,0.0004
+15544357,Kingston upon Thames,Outer London,Base privada,Particular,110,13.68,51.41,-0.30781
+17598940,Croydon,Outer London,Habitación individual,Particular,45,10.11,51.41718,-0.11996
+39463554,Newham,Outer London,Base privada,Particular,250,12.65,51.54817,-0.00882
+31940329,Camden,Inner London,Hotel,Multipropiedad,1000,4.59,51.53602,-0.13964
+35128263,Southwark,Inner London,Base privada,Profesional,97,7.82,51.48679,-0.06494
+32861441,Westminster,Inner London,Base privada,Profesional,145,1.87,51.51744,-0.16813
+5107051,Southwark,Inner London,Habitación individual,Profesional,54,4.96,51.50113,-0.10388
+38041482,Kensington and Chelsea,Inner London,Base privada,Multipropiedad,201,1.2,51.49449,-0.18887
+24169862,Tower Hamlets,Inner London,Habitación individual,Profesional,20,7.89,51.51704,-0.0643
+21360884,Kensington and Chelsea,Inner London,Hotel,Profesional,135,1.2,51.49306,-0.16435
+14183707,Camden,Inner London,Base privada,Profesional,130,5.64,51.55177,-0.16808
+5148057,Camden,Inner London,Base privada,Particular,180,4.07,51.51743,-0.12267
+31373049,Kensington and Chelsea,Inner London,Base privada,Particular,240,1.53,51.49305,-0.19325
+30693568,Westminster,Inner London,Habitación individual,Particular,75,2.98,51.50009,-0.13248
+21778952,Hammersmith and Fulham,Inner London,Base privada,Particular,160,2.63,51.47959,-0.19051
+24769215,Hackney,Inner London,Habitación individual,Multipropiedad,80,8.85,51.55631,-0.08298
+20816357,Tower Hamlets,Inner London,Base privada,Particular,120,10.46,51.51382,-0.02569
+38684293,Islington,Inner London,Base privada,Particular,190,8.51,51.56067,-0.09788
+19495033,Redbridge,Outer London,Habitación individual,Multipropiedad,50,17.74,51.59333,0.03406
+17380760,Westminster,Inner London,Base privada,Particular,165,3.18,51.52773,-0.19303
+13316385,Westminster,Inner London,Base privada,Profesional,150,2.92,51.48892,-0.13832
+18117592,Westminster,Inner London,Base privada,Multipropiedad,280,3.24,51.51338,-0.13282
+28219082,Southwark,Inner London,Habitación individual,Particular,32,6.0,51.48722,-0.09182
+4413398,Hackney,Inner London,Habitación individual,Multipropiedad,52,9.25,51.54783,-0.06469
+26425655,Newham,Outer London,Habitación individual,Multipropiedad,65,13.55,51.50682,0.02002
+36005227,Islington,Inner London,Base privada,Profesional,147,5.88,51.54181,-0.12094
+21436250,Westminster,Inner London,Base privada,Profesional,100,3.63,51.53387,-0.17856
+3466532,Hackney,Inner London,Base privada,Particular,150,10.08,51.56974,-0.07983
+15250865,Westminster,Inner London,Habitación individual,Profesional,95,4.07,51.51122,-0.11883
+8988809,Kensington and Chelsea,Inner London,Base privada,Multipropiedad,89,1.27,51.49149,-0.1662
+26395794,Lambeth,Inner London,Base privada,Particular,75,4.25,51.48379,-0.12099
+21235573,Tower Hamlets,Inner London,Habitación individual,Multipropiedad,36,7.34,51.52126,-0.07438
+7263156,Kingston upon Thames,Outer London,Habitación individual,Particular,55,12.02,51.42809,-0.30313
+9410201,Ealing,Outer London,Habitación individual,Multipropiedad,30,6.52,51.51973,-0.26493
+351727,Lambeth,Inner London,Habitación individual,Particular,32,6.91,51.45511,-0.10869
+528001,Haringey,Outer London,Base privada,Particular,105,9.47,51.57752,-0.11452
+20932450,Lambeth,Inner London,Habitación individual,Multipropiedad,50,7.72,51.43903,-0.12614
+16111387,Hounslow,Outer London,Habitación individual,Multipropiedad,49,11.47,51.48612,-0.33932
+34774586,Wandsworth,Inner London,Habitación individual,Particular,50,4.97,51.46955,-0.22611
+19158945,Westminster,Inner London,Base privada,Profesional,260,3.06,51.51833,-0.14075
+20842046,Camden,Inner London,Base privada,Profesional,249,5.41,51.54495,-0.14104
+1532025,Camden,Inner London,Base privada,Multipropiedad,95,5.3,51.54863,-0.16603
+41563618,Camden,Inner London,Base privada,Multipropiedad,199,4.87,51.53004,-0.12243
+38038767,Westminster,Inner London,Base privada,Profesional,400,3.78,51.51287,-0.12414
+34136278,Wandsworth,Inner London,Habitación individual,Multipropiedad,55,3.08,51.47366,-0.17399
+7605914,Harrow,Outer London,Habitación individual,Particular,30,14.29,51.57771,-0.34165
+18208847,Redbridge,Outer London,Habitación individual,Multipropiedad,20,20.79,51.56717,0.10578
+35409427,Kensington and Chelsea,Inner London,Base privada,Profesional,120,1.07,51.49406,-0.18568
+11994759,Haringey,Outer London,Habitación individual,Multipropiedad,27,9.86,51.58912,-0.15557
+22241379,Tower Hamlets,Inner London,Base privada,Multipropiedad,250,9.24,51.52965,-0.04992
+6474667,Hammersmith and Fulham,Inner London,Habitación individual,Profesional,69,3.19,51.48108,-0.20813
+1532924,Hounslow,Outer London,Habitación individual,Multipropiedad,75,5.82,51.49187,-0.25821
+11571997,Kensington and Chelsea,Inner London,Base privada,Particular,120,3.87,51.5262,-0.21459
+16856287,Camden,Inner London,Habitación individual,Multipropiedad,120,5.03,51.54029,-0.13867
+25480696,Camden,Inner London,Base privada,Multipropiedad,129,5.62,51.55065,-0.19279
+36165241,Brent,Outer London,Compartido,Profesional,17,5.85,51.54652,-0.21877
+17525289,Kensington and Chelsea,Inner London,Base privada,Profesional,445,0.66,51.49588,-0.17936
+24676938,Hackney,Inner London,Habitación individual,Multipropiedad,40,7.55,51.5387,-0.0845
+13881911,Hackney,Inner London,Base privada,Particular,80,10.51,51.54699,-0.04258
+33451860,Ealing,Outer London,Base privada,Multipropiedad,75,6.43,51.51116,-0.26708
+27717589,Kensington and Chelsea,Inner London,Base privada,Particular,225,1.99,51.51372,-0.19611
+30167413,Kensington and Chelsea,Inner London,Base privada,Profesional,350,1.44,51.49515,-0.19378
+38303080,Richmond upon Thames,Outer London,Base privada,Multipropiedad,70,12.65,51.44452,-0.33376
+14939248,Brent,Outer London,Habitación individual,Profesional,38,6.31,51.54856,-0.22598
+13312199,Barnet,Outer London,Base privada,Particular,100,12.3,51.61146,-0.15973
+20561219,Hammersmith and Fulham,Inner London,Habitación individual,Particular,34,5.4,51.518,-0.24871
+21131721,Kensington and Chelsea,Inner London,Habitación individual,Multipropiedad,77,1.55,51.49906,-0.19756
+37703607,Tower Hamlets,Inner London,Habitación individual,Profesional,43,11.46,51.4984,-0.01007
+34032785,Westminster,Inner London,Base privada,Multipropiedad,264,1.77,51.50824,-0.15241
+30349658,Westminster,Inner London,Base privada,Profesional,228,3.01,51.5192,-0.14293
+8385207,Waltham Forest,Outer London,Habitación individual,Particular,55,18.7,51.62786,0.00274
+19474702,Brent,Outer London,Habitación individual,Multipropiedad,40,11.81,51.55795,-0.31984
+28145940,Westminster,Inner London,Base privada,Multipropiedad,99,1.48,51.51333,-0.18452
+3645778,Kensington and Chelsea,Inner London,Base privada,Particular,160,2.54,51.51588,-0.20368
+37585432,Greenwich,Inner London,Base privada,Multipropiedad,85,12.48,51.48531,0.00295
+33928571,Camden,Inner London,Habitación individual,Particular,50,5.39,51.54855,-0.15818
+33921531,Sutton,Outer London,Habitación individual,Particular,55,16.87,51.35007,-0.15532
+16202628,Brent,Outer London,Habitación individual,Multipropiedad,59,4.76,51.53395,-0.22
+3654351,Hackney,Inner London,Base privada,Particular,115,7.5,51.53851,-0.08509
+28398991,Tower Hamlets,Inner London,Habitación individual,Profesional,35,7.84,51.5258,-0.0693
+3519290,Islington,Inner London,Base privada,Particular,109,7.79,51.56044,-0.11518
+558664,Camden,Inner London,Habitación individual,Particular,48,5.1,51.52177,-0.10959
+33128545,Southwark,Inner London,Habitación individual,Multipropiedad,41,6.03,51.48759,-0.09117
+5986255,Hammersmith and Fulham,Inner London,Habitación individual,Multipropiedad,46,2.97,51.47871,-0.19847
+32657674,Kensington and Chelsea,Inner London,Hotel,Profesional,165,1.18,51.4933,-0.16428
+28907307,Greenwich,Inner London,Base privada,Particular,249,12.68,51.48677,0.00614
+3357790,Lambeth,Inner London,Habitación individual,Multipropiedad,60,4.72,51.48063,-0.11592
+7960921,Wandsworth,Inner London,Base privada,Particular,110,5.31,51.46011,-0.21423
+5693435,Hackney,Inner London,Base privada,Particular,150,11.44,51.54508,-0.02583
+13792904,Hackney,Inner London,Habitación individual,Multipropiedad,99,7.89,51.53609,-0.07609
+36384725,Camden,Inner London,Habitación individual,Particular,69,5.84,51.55359,-0.16759
+36897818,Hounslow,Outer London,Base privada,Particular,100,7.35,51.49212,-0.28062
+6721584,City of London,Inner London,Base privada,Multipropiedad,240,6.83,51.51138,-0.07821
+35681904,Camden,Inner London,Habitación individual,Multipropiedad,35,4.77,51.5344,-0.13159
+24418585,Southwark,Inner London,Habitación individual,Multipropiedad,65,6.66,51.49589,-0.07962
+38226191,Westminster,Inner London,Base privada,Multipropiedad,200,2.97,51.52119,-0.14696
+29986690,Bromley,Outer London,Habitación individual,Particular,32,12.53,51.41926,-0.0516
+20565709,Westminster,Inner London,Base privada,Multipropiedad,190,3.77,51.50805,-0.12208
+15995420,Lambeth,Inner London,Base privada,Particular,109,4.5,51.49971,-0.11051
+36202049,Kingston upon Thames,Outer London,Habitación individual,Multipropiedad,36,18.46,51.35852,-0.3113
+39128125,Newham,Outer London,Habitación individual,Profesional,42,13.16,51.53592,0.00635
+36932693,Kensington and Chelsea,Inner London,Base privada,Multipropiedad,500,3.51,51.51523,-0.22101
+31823006,Haringey,Outer London,Habitación individual,Particular,30,13.92,51.60169,-0.05534
+7098712,Haringey,Outer London,Base privada,Particular,120,12.74,51.60691,-0.10388
+32038319,Haringey,Outer London,Habitación individual,Particular,90,9.78,51.57899,-0.10932
+31492626,Waltham Forest,Outer London,Base privada,Particular,90,14.89,51.59745,-0.02556
+27802329,Tower Hamlets,Inner London,Habitación individual,Particular,40,10.97,51.52026,-0.02001
+40141075,Camden,Inner London,Habitación individual,Multipropiedad,40,4.07,51.53731,-0.18589
+40108359,Kensington and Chelsea,Inner London,Base privada,Multipropiedad,249,0.53,51.49915,-0.1824
+17710286,Camden,Inner London,Base privada,Multipropiedad,72,5.38,51.5495,-0.18301
+7378805,Lambeth,Inner London,Base privada,Particular,80,9.05,51.42427,-0.13324
+17323307,Richmond upon Thames,Outer London,Base privada,Particular,158,11.98,51.43413,-0.31074
+31930868,Wandsworth,Inner London,Habitación individual,Profesional,45,2.54,51.47876,-0.16941
+32070591,Newham,Outer London,Habitación individual,Multipropiedad,24,14.52,51.51535,0.03309
+34933535,Camden,Inner London,Habitación individual,Profesional,46,4.23,51.5194,-0.12168
+5736974,Lambeth,Inner London,Base privada,Particular,75,9.93,51.42317,-0.10617
+27717783,Wandsworth,Inner London,Base privada,Profesional,89,3.92,51.47013,-0.14908
+29282116,Wandsworth,Inner London,Habitación individual,Particular,90,3.96,51.47771,-0.13271
+13073158,Tower Hamlets,Inner London,Habitación individual,Profesional,25,8.9,51.517830000000004,-0.04969
+38891070,Haringey,Outer London,Habitación individual,Particular,25,12.3,51.59359,-0.07738
+11634511,Lambeth,Inner London,Habitación individual,Multipropiedad,30,4.2,51.49197,-0.11678
+7434726,Camden,Inner London,Base privada,Particular,80,5.42,51.54975,-0.18431
+31123783,Tower Hamlets,Inner London,Base privada,Multipropiedad,85,10.17,51.52373,-0.03309
+7378630,Islington,Inner London,Base privada,Particular,450,6.28,51.53205,-0.09945
+23889692,Tower Hamlets,Inner London,Habitación individual,Profesional,20,8.47,51.51048,-0.05408
+972717,Camden,Inner London,Base privada,Multipropiedad,90,5.25,51.54205,-0.13723
+15878525,Barnet,Outer London,Base privada,Multipropiedad,60,13.75,51.61528,-0.25258
+28801809,Lambeth,Inner London,Base privada,Profesional,117,5.85,51.46193,-0.1195
+22222312,City of London,Inner London,Base privada,Profesional,113,5.69,51.51873,-0.09823
+37044507,Westminster,Inner London,Habitación individual,Multipropiedad,43,3.7,51.53431,-0.16903
+32982572,Islington,Inner London,Base privada,Profesional,80,6.41,51.53166,-0.09671
+4361131,Tower Hamlets,Inner London,Base privada,Multipropiedad,76,8.43,51.5288,-0.06204
+5519383,Lambeth,Inner London,Habitación individual,Particular,78,4.43,51.49337,-0.11276
+29378481,Tower Hamlets,Inner London,Base privada,Profesional,150,7.3,51.51562,-0.07256
+36238025,Westminster,Inner London,Habitación individual,Particular,80,2.05,51.51904,-0.1838
+17618552,Tower Hamlets,Inner London,Habitación individual,Multipropiedad,45,8.42,51.51736,-0.05662
+20146692,Waltham Forest,Outer London,Habitación individual,Particular,35,12.74,51.56989,-0.02787
+18221679,Kensington and Chelsea,Inner London,Base privada,Multipropiedad,390,2.59,51.47852,-0.18341
+30389882,Tower Hamlets,Inner London,Base privada,Profesional,150,11.37,51.48671,-0.01298
+5700208,Tower Hamlets,Inner London,Habitación individual,Profesional,49,11.41,51.51217,-0.01157
+12218298,Hammersmith and Fulham,Inner London,Habitación individual,Particular,80,3.41,51.47444,-0.19934
+35308621,Kensington and Chelsea,Inner London,Base privada,Particular,298,2.07,51.51208,-0.19985
+9447772,Camden,Inner London,Base privada,Particular,90,6.79,51.5587,-0.1421
+473145,Southwark,Inner London,Base privada,Multipropiedad,199,5.16,51.49228,-0.10245
+21587350,Lambeth,Inner London,Base privada,Multipropiedad,130,3.98,51.48551,-0.12388
+37590641,Islington,Inner London,Base privada,Profesional,102,5.54,51.52253,-0.10304
+25147421,Hounslow,Outer London,Habitación individual,Particular,45,13.51,51.46113,-0.3596
+22199805,Tower Hamlets,Inner London,Base privada,Profesional,153,7.59,51.52456,-0.0724
+24224139,Hammersmith and Fulham,Inner London,Habitación individual,Profesional,20,3.37,51.48585,-0.21736
+12581481,Harrow,Outer London,Base privada,Particular,120,13.51,51.56453,-0.34233
+27507525,Kensington and Chelsea,Inner London,Base privada,Multipropiedad,299,1.0,51.49355,-0.16824
+29669771,Lambeth,Inner London,Base privada,Particular,250,4.6,51.48229,-0.11649
+31353680,Westminster,Inner London,Base privada,Profesional,120,3.11,51.48904,-0.13506
+14308901,Camden,Inner London,Base privada,Multipropiedad,277,4.66,51.51588,-0.11234
+26772639,Hammersmith and Fulham,Inner London,Base privada,Profesional,150,2.89,51.48166,-0.20288
+25400053,Tower Hamlets,Inner London,Base privada,Profesional,90,8.65,51.52038,-0.05428
+13941134,Harrow,Outer London,Habitación individual,Multipropiedad,27,17.77,51.60969,-0.36446
+14752819,Richmond upon Thames,Outer London,Base privada,Particular,100,9.81,51.45656,-0.29755
+38144608,Kingston upon Thames,Outer London,Habitación individual,Multipropiedad,35,15.56,51.37982,-0.28702
+34648653,Islington,Inner London,Habitación individual,Multipropiedad,200,5.4,51.52185,-0.10476
+13968241,Hackney,Inner London,Habitación individual,Particular,55,9.35,51.5627,-0.08308
+7119847,Kensington and Chelsea,Inner London,Base privada,Multipropiedad,106,3.67,51.52548,-0.2117
+28648400,Westminster,Inner London,Base privada,Particular,90,3.04,51.5286,-0.17752
+27271387,Islington,Inner London,Base privada,Multipropiedad,225,5.09,51.52354,-0.11114
+39940545,Southwark,Inner London,Base privada,Particular,260,5.88,51.49141,-0.09201
+22151243,Ealing,Outer London,Habitación individual,Multipropiedad,35,6.11,51.53203,-0.24877
+22661469,Westminster,Inner London,Base privada,Particular,135,1.98,51.51782,-0.18601
+39906066,Camden,Inner London,Base privada,Profesional,230,4.49,51.51937,-0.11754
+38672387,Tower Hamlets,Inner London,Habitación individual,Multipropiedad,23,10.93,51.50924,-0.01804
+32755347,Westminster,Inner London,Base privada,Profesional,75,2.09,51.50644,-0.14647
+38700168,Wandsworth,Inner London,Habitación individual,Multipropiedad,50,7.55,51.43563,-0.1477
+33625757,Tower Hamlets,Inner London,Habitación individual,Particular,90,7.42,51.51671,-0.07118
+3664786,Westminster,Inner London,Habitación individual,Particular,170,2.42,51.51208,-0.14514
+38451743,Kensington and Chelsea,Inner London,Base privada,Particular,150,0.86,51.49562,-0.16707
+33994202,Westminster,Inner London,Base privada,Multipropiedad,205,1.81,51.51508,-0.18936
+40437234,Southwark,Inner London,Habitación individual,Particular,50,7.47,51.4882,-0.06969
+28252200,Southwark,Inner London,Base privada,Particular,199,7.16,51.49749,-0.07224
+29484842,Richmond upon Thames,Outer London,Habitación individual,Multipropiedad,95,8.99,51.46667,-0.29275
+31470760,Camden,Inner London,Habitación individual,Multipropiedad,37,4.6,51.53166,-0.13031
+22029278,Camden,Inner London,Base privada,Multipropiedad,77,3.64,51.52449,-0.13831
+42010,Barnet,Outer London,Habitación individual,Multipropiedad,45,9.47,51.58611,-0.16272
+6425475,Lambeth,Inner London,Habitación individual,Profesional,63,4.38,51.49592,-0.11275
+3943758,Lambeth,Inner London,Habitación individual,Multipropiedad,47,6.88,51.45351,-0.11236
+1935885,Tower Hamlets,Inner London,Base privada,Multipropiedad,150,7.81,51.52416,-0.0688
+31957725,Wandsworth,Inner London,Base privada,Multipropiedad,65,6.04,51.44986,-0.14728
+16478270,Brent,Outer London,Habitación individual,Multipropiedad,45,4.82,51.53446,-0.22032
+35731963,Southwark,Inner London,Base privada,Particular,150,9.23,51.49358,-0.04281
+18076542,Westminster,Inner London,Base privada,Multipropiedad,99,1.71,51.51523,-0.165
+21862328,Southwark,Inner London,Habitación individual,Multipropiedad,64,6.68,51.50049,-0.07901
+31069276,Westminster,Inner London,Habitación individual,Particular,35,3.3,51.52618,-0.20154
+1079410,Merton,Outer London,Habitación individual,Multipropiedad,40,10.67,51.40786,-0.21048
+30414332,Westminster,Inner London,Base privada,Profesional,150,2.1,51.49693,-0.14599
+9703053,Lewisham,Inner London,Habitación individual,Particular,50,9.06,51.48051,-0.04891
+32852878,Westminster,Inner London,Base privada,Profesional,140,3.28,51.51062,-0.13053
+22626244,Hammersmith and Fulham,Inner London,Habitación individual,Multipropiedad,39,3.83,51.46799,-0.18944
+15702273,Redbridge,Outer London,Habitación individual,Multipropiedad,70,17.45,51.59074,0.03183
+4268755,Tower Hamlets,Inner London,Base privada,Multipropiedad,160,10.77,51.49888,-0.02
+35187786,Hackney,Inner London,Base privada,Multipropiedad,90,8.58,51.54605,-0.07449
+25258626,Tower Hamlets,Inner London,Base privada,Multipropiedad,136,7.46,51.52126,-0.07258
+38189619,Westminster,Inner London,Base privada,Particular,220,2.04,51.51957,-0.17875
+24713009,Tower Hamlets,Inner London,Base privada,Profesional,67,7.6,51.5244,-0.07215
+6275466,Tower Hamlets,Inner London,Habitación individual,Profesional,45,11.49,51.51279,-0.01048
+16825123,Lewisham,Inner London,Base privada,Particular,70,9.84,51.46821,-0.04373
+16754816,Merton,Outer London,Base privada,Particular,120,9.8,51.41889,-0.22551
+19655955,Wandsworth,Inner London,Habitación individual,Particular,45,6.46,51.4472,-0.20941
+6304811,Tower Hamlets,Inner London,Base privada,Multipropiedad,275,7.34,51.50999,-0.07032
+19117797,Newham,Outer London,Habitación individual,Multipropiedad,75,15.2,51.55216,0.02852
+27189549,Hounslow,Outer London,Habitación individual,Multipropiedad,59,7.18,51.49137,-0.27795
+31930062,Tower Hamlets,Inner London,Base privada,Particular,106,11.31,51.52648,-0.0171
+10846111,Hammersmith and Fulham,Inner London,Base privada,Profesional,135,2.58,51.49704,-0.21213
+12511820,Hackney,Inner London,Base privada,Particular,125,9.39,51.55803,-0.07487
+23429784,Redbridge,Outer London,Habitación individual,Multipropiedad,32,16.01,51.57516,0.02322
+30342850,Westminster,Inner London,Base privada,Profesional,216,3.74,51.51214,-0.12432
+9178278,Hammersmith and Fulham,Inner London,Base privada,Particular,310,3.64,51.476820000000004,-0.21051
+21025540,Barnet,Outer London,Habitación individual,Multipropiedad,25,11.49,51.60288,-0.14468
+38369064,Westminster,Inner London,Base privada,Profesional,300,1.91,51.50564,-0.14875
+9873331,Westminster,Inner London,Base privada,Multipropiedad,195,1.91,51.51225,-0.15425
+25563067,Westminster,Inner London,Base privada,Multipropiedad,200,1.72,51.51536,-0.16508
+13330375,Hackney,Inner London,Habitación individual,Particular,56,10.7,51.55029,-0.04231
+13528709,Brent,Outer London,Habitación individual,Particular,105,7.41,51.54181,-0.26058
+18006846,Westminster,Inner London,Habitación individual,Multipropiedad,130,2.34,51.51952,-0.15872
+35140714,Enfield,Outer London,Base privada,Multipropiedad,143,15.11,51.61507,-0.05609
+39520008,Newham,Outer London,Base privada,Multipropiedad,97,15.79,51.54447,0.04186
+9376593,Westminster,Inner London,Base privada,Particular,124,3.07,51.48744,-0.13714
+33964293,Westminster,Inner London,Base privada,Multipropiedad,700,2.29,51.52189,-0.17523
+3173050,Hounslow,Outer London,Base privada,Multipropiedad,220,6.41,51.48229,-0.26286
+38592214,Islington,Inner London,Base privada,Multipropiedad,95,7.1,51.56035,-0.13649
+19458926,Barnet,Outer London,Habitación individual,Multipropiedad,59,11.92,51.60825,-0.18696
+14666914,Brent,Outer London,Habitación individual,Profesional,36,7.48,51.55401,-0.24277
+10986800,Islington,Inner London,Habitación individual,Profesional,31,7.6,51.55654,-0.11075
+39075598,Hillingdon,Outer London,Habitación individual,Profesional,45,20.87,51.48111,-0.47513
+33661927,Islington,Inner London,Habitación individual,Particular,45,6.59,51.55127,-0.12415
+27108756,Tower Hamlets,Inner London,Habitación individual,Multipropiedad,45,7.64,51.51362,-0.06684
+36447993,Islington,Inner London,Habitación individual,Multipropiedad,59,7.12,51.55402,-0.11715
+23424314,Hillingdon,Outer London,Habitación individual,Profesional,50,17.34,51.48025,-0.42371
+34953217,Merton,Outer London,Habitación individual,Particular,35,9.08,51.42379,-0.21697
+14718140,Richmond upon Thames,Outer London,Base privada,Particular,330,12.53,51.44701,-0.3341
+16462880,Westminster,Inner London,Hotel,Profesional,440,3.23,51.51296,-0.13277
+33151678,Lambeth,Inner London,Base privada,Particular,150,6.24,51.46127,-0.11242
+18893709,Tower Hamlets,Inner London,Habitación individual,Particular,59,7.28,51.51066,-0.07144
+18323446,Islington,Inner London,Habitación individual,Multipropiedad,35,5.78,51.52621,-0.10226
+19766595,Westminster,Inner London,Base privada,Multipropiedad,130,2.72,51.52099,-0.19879
+40131814,Camden,Inner London,Base privada,Profesional,105,4.4,51.53933,-0.15795

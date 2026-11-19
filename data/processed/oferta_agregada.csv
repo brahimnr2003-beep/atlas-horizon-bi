@@ -1,332 +1,332 @@
 barrio,zona,lat_centro,lon_centro,segmento_atlas,tipo_proveedor,alojamientos,homologables,precios_atipicos,homologables_5km,suma_precio_homologables,suma_dias_homologables
-Kensington and Chelsea,Inner London,51.49878,-0.18922,Base privada,Particular,1686,442.0,16.0,442.0,78382.0,78156.0
-Tower Hamlets,Inner London,51.51801,-0.04765,Habitación individual,Profesional,1022,599.0,0.0,0.0,22683.0,153374.0
-Greenwich,Inner London,51.48284,0.03998,Base privada,Particular,485,113.0,1.0,0.0,14256.0,20025.0
-Sutton,Outer London,51.36645,-0.18352,Habitación individual,Particular,122,37.0,2.0,0.0,1357.0,6536.0
-Kensington and Chelsea,Inner London,51.49878,-0.18922,Base privada,Profesional,2043,612.0,85.0,612.0,121483.0,139535.0
-Islington,Inner London,51.544,-0.108,Base privada,Profesional,580,173.0,6.0,1.0,24620.0,37082.0
-Ealing,Outer London,51.51406,-0.29755,Base privada,Particular,448,90.0,1.0,2.0,11438.0,14868.0
-Croydon,Outer London,51.38263,-0.0963,Base privada,Particular,245,52.0,0.0,0.0,4323.0,9177.0
-Lambeth,Inner London,51.46459,-0.11949,Habitación individual,Particular,1328,307.0,5.0,98.0,15012.0,51443.0
-Kensington and Chelsea,Inner London,51.49878,-0.18922,Habitación individual,Multipropiedad,417,150.0,6.0,150.0,12075.0,30865.0
-Islington,Inner London,51.544,-0.108,Base privada,Particular,1753,294.0,4.0,0.0,42639.0,48380.0
-Bromley,Outer London,51.40272,0.00275,Base privada,Particular,174,35.0,0.0,0.0,3236.0,6356.0
-Enfield,Outer London,51.63472,-0.08526,Habitación individual,Particular,247,56.0,0.0,0.0,1975.0,10349.0
-Hillingdon,Outer London,51.52532,-0.44238,Base privada,Particular,100,32.0,0.0,0.0,2833.0,5206.0
-Ealing,Outer London,51.51406,-0.29755,Habitación individual,Multipropiedad,497,196.0,13.0,0.0,7759.0,40852.0
-Wandsworth,Inner London,51.45625,-0.17817,Habitación individual,Multipropiedad,723,267.0,4.0,116.0,14089.0,53112.0
-Tower Hamlets,Inner London,51.51801,-0.04765,Habitación individual,Particular,1963,281.0,15.0,0.0,15566.0,45331.0
-Camden,Inner London,51.53694,-0.14659,Habitación individual,Particular,920,217.0,6.0,85.0,13584.0,34493.0
-Brent,Outer London,51.54654,-0.23631,Base privada,Profesional,281,115.0,0.0,17.0,10407.0,28959.0
-Southwark,Inner London,51.48637,-0.07904,Base privada,Particular,1582,312.0,3.0,12.0,42703.0,50628.0
-Hackney,Inner London,51.54565,-0.06891,Base privada,Multipropiedad,804,277.0,3.0,0.0,39602.0,48234.0
-Tower Hamlets,Inner London,51.51801,-0.04765,Base privada,Particular,1862,333.0,3.0,0.0,43161.0,52154.0
-Haringey,Outer London,51.58695,-0.10342,Base privada,Particular,637,114.0,2.0,0.0,14372.0,18434.0
-Hackney,Inner London,51.54565,-0.06891,Habitación individual,Multipropiedad,859,270.0,10.0,0.0,13795.0,51927.0
-Westminster,Inner London,51.51348,-0.16258,Base privada,Multipropiedad,2240,1001.0,30.0,1001.0,193838.0,189405.0
-Richmond upon Thames,Outer London,51.45426,-0.30672,Base privada,Multipropiedad,131,52.0,0.0,4.0,8518.0,10723.0
-Newham,Outer London,51.52906,0.02096,Base privada,Multipropiedad,281,121.0,0.0,0.0,20133.0,24270.0
-Hammersmith and Fulham,Inner London,51.48993,-0.21473,Base privada,Particular,1280,292.0,1.0,285.0,42748.0,47895.0
-Hammersmith and Fulham,Inner London,51.48993,-0.21473,Habitación individual,Particular,743,179.0,4.0,172.0,9946.0,32733.0
-Bromley,Outer London,51.40272,0.00275,Habitación individual,Multipropiedad,146,49.0,1.0,0.0,1638.0,10693.0
-Harrow,Outer London,51.5883,-0.33784,Base privada,Multipropiedad,51,21.0,1.0,0.0,2441.0,5090.0
-Camden,Inner London,51.53694,-0.14659,Base privada,Multipropiedad,1217,530.0,9.0,347.0,88776.0,102907.0
-Lambeth,Inner London,51.46459,-0.11949,Base privada,Particular,1593,281.0,2.0,126.0,38434.0,45767.0
-Lewisham,Inner London,51.45826,-0.02687,Habitación individual,Multipropiedad,525,175.0,1.0,0.0,6419.0,36218.0
-Tower Hamlets,Inner London,51.51801,-0.04765,Base privada,Profesional,1082,349.0,6.0,0.0,46234.0,74462.0
-Southwark,Inner London,51.48637,-0.07904,Habitación individual,Multipropiedad,847,336.0,17.0,17.0,16563.0,65678.0
-Waltham Forest,Outer London,51.57776,-0.01213,Habitación individual,Multipropiedad,312,94.0,1.0,0.0,3445.0,18857.0
-Wandsworth,Inner London,51.45625,-0.17817,Base privada,Multipropiedad,484,145.0,2.0,82.0,22603.0,25674.0
-City of London,Inner London,51.51462,-0.09198,Base privada,Multipropiedad,143,61.0,3.0,16.0,9030.0,12409.0
-Brent,Outer London,51.54654,-0.23631,Base privada,Particular,624,114.0,1.0,41.0,16090.0,19554.0
-Greenwich,Inner London,51.48284,0.03998,Habitación individual,Multipropiedad,361,124.0,0.0,0.0,4644.0,23313.0
-Islington,Inner London,51.544,-0.108,Habitación individual,Multipropiedad,727,293.0,1.0,1.0,17770.0,58394.0
-Harrow,Outer London,51.5883,-0.33784,Habitación individual,Particular,163,47.0,0.0,0.0,1765.0,9317.0
-Westminster,Inner London,51.51348,-0.16258,Habitación individual,Multipropiedad,942,403.0,53.0,403.0,29523.0,73786.0
-Barnet,Outer London,51.59746,-0.20552,Base privada,Particular,414,87.0,0.0,0.0,9412.0,15401.0
-Haringey,Outer London,51.58695,-0.10342,Habitación individual,Multipropiedad,421,143.0,0.0,0.0,5985.0,28822.0
-Lambeth,Inner London,51.46459,-0.11949,Base privada,Profesional,277,68.0,1.0,55.0,11968.0,15386.0
-Haringey,Outer London,51.58695,-0.10342,Base privada,Profesional,108,48.0,0.0,0.0,7024.0,11490.0
-Hammersmith and Fulham,Inner London,51.48993,-0.21473,Base privada,Profesional,796,249.0,16.0,247.0,38485.0,50249.0
-Barnet,Outer London,51.59746,-0.20552,Habitación individual,Multipropiedad,411,135.0,5.0,0.0,5431.0,30484.0
-Greenwich,Inner London,51.48284,0.03998,Base privada,Profesional,91,41.0,0.0,0.0,5427.0,11117.0
-Hounslow,Outer London,51.47789,-0.32404,Base privada,Multipropiedad,130,40.0,0.0,0.0,5364.0,8681.0
-Newham,Outer London,51.52906,0.02096,Habitación individual,Multipropiedad,542,215.0,4.0,0.0,9044.0,40996.0
-Bexley,Outer London,51.46892,0.13735,Base privada,Particular,43,7.0,0.0,0.0,775.0,933.0
-Croydon,Outer London,51.38263,-0.0963,Habitación individual,Particular,390,93.0,1.0,0.0,2914.0,16419.0
-Camden,Inner London,51.53694,-0.14659,Habitación individual,Profesional,316,210.0,5.0,198.0,12082.0,42317.0
-Brent,Outer London,51.54654,-0.23631,Habitación individual,Multipropiedad,572,253.0,7.0,57.0,11172.0,53267.0
-Waltham Forest,Outer London,51.57776,-0.01213,Base privada,Particular,470,83.0,2.0,0.0,8366.0,11772.0
-Barking and Dagenham,Outer London,51.54371,0.11655,Habitación individual,Particular,158,26.0,1.0,0.0,916.0,5086.0
-Merton,Outer London,51.41564,-0.1963,Habitación individual,Multipropiedad,320,109.0,0.0,0.0,4642.0,22694.0
-Richmond upon Thames,Outer London,51.45426,-0.30672,Habitación individual,Particular,316,108.0,2.0,1.0,5710.0,21542.0
-Hounslow,Outer London,51.47789,-0.32404,Habitación individual,Multipropiedad,267,96.0,6.0,3.0,4068.0,20632.0
-Bexley,Outer London,51.46892,0.13735,Compartido,Particular,3,1.0,0.0,0.0,30.0,365.0
-Redbridge,Outer London,51.57915,0.06597,Habitación individual,Particular,263,66.0,0.0,0.0,2323.0,12632.0
+Barking and Dagenham,Outer London,51.54371,0.11655,Base privada,Multipropiedad,42,13.0,0.0,0.0,1368.0,2225.0
 Barking and Dagenham,Outer London,51.54371,0.11655,Base privada,Particular,64,19.0,0.0,0.0,1721.0,3945.0
-Sutton,Outer London,51.36645,-0.18352,Base privada,Particular,69,17.0,0.0,0.0,1585.0,2686.0
-Lewisham,Inner London,51.45826,-0.02687,Compartido,Particular,16,0.0,0.0,0.0,,
-Croydon,Outer London,51.38263,-0.0963,Compartido,Multipropiedad,4,0.0,0.0,0.0,,
-Waltham Forest,Outer London,51.57776,-0.01213,Compartido,Multipropiedad,11,1.0,0.0,0.0,25.0,356.0
-Bexley,Outer London,51.46892,0.13735,Habitación individual,Particular,110,19.0,1.0,0.0,653.0,2950.0
-Kingston upon Thames,Outer London,51.40275,-0.2874,Habitación individual,Multipropiedad,126,60.0,0.0,0.0,3004.0,11177.0
-Lambeth,Inner London,51.46459,-0.11949,Hotel,Particular,4,2.0,0.0,1.0,184.0,370.0
-Islington,Inner London,51.544,-0.108,Hotel,Multipropiedad,6,0.0,0.0,0.0,,
-Redbridge,Outer London,51.57915,0.06597,Base privada,Particular,146,25.0,0.0,0.0,2436.0,5481.0
-Enfield,Outer London,51.63472,-0.08526,Base privada,Particular,135,26.0,0.0,0.0,2489.0,5045.0
 Barking and Dagenham,Outer London,51.54371,0.11655,Base privada,Profesional,8,1.0,0.0,0.0,120.0,330.0
-Barnet,Outer London,51.59746,-0.20552,Base privada,Profesional,103,21.0,3.0,0.0,2150.0,4498.0
-Bexley,Outer London,51.46892,0.13735,Base privada,Profesional,6,1.0,0.0,0.0,130.0,365.0
-Bromley,Outer London,51.40272,0.00275,Base privada,Profesional,4,2.0,0.0,0.0,162.0,704.0
-Croydon,Outer London,51.38263,-0.0963,Base privada,Profesional,80,34.0,0.0,0.0,2951.0,7064.0
-Ealing,Outer London,51.51406,-0.29755,Base privada,Profesional,87,32.0,1.0,0.0,3120.0,8282.0
-Enfield,Outer London,51.63472,-0.08526,Base privada,Profesional,29,8.0,0.0,0.0,885.0,2464.0
-Havering,Outer London,51.57497,0.1959,Base privada,Multipropiedad,28,17.0,0.0,0.0,1610.0,3427.0
-Hillingdon,Outer London,51.52532,-0.44238,Base privada,Profesional,30,10.0,0.0,0.0,1435.0,2515.0
-Kingston upon Thames,Outer London,51.40275,-0.2874,Base privada,Multipropiedad,57,24.0,1.0,0.0,2638.0,3795.0
-Lewisham,Inner London,51.45826,-0.02687,Base privada,Multipropiedad,233,57.0,1.0,0.0,7062.0,11448.0
-Merton,Outer London,51.41564,-0.1963,Base privada,Multipropiedad,108,24.0,0.0,0.0,3752.0,4953.0
-Redbridge,Outer London,51.57915,0.06597,Base privada,Profesional,25,3.0,3.0,0.0,203.0,876.0
-Southwark,Inner London,51.48637,-0.07904,Base privada,Profesional,388,128.0,23.0,7.0,20284.0,28223.0
-Sutton,Outer London,51.36645,-0.18352,Base privada,Profesional,1,0.0,0.0,0.0,,
-Waltham Forest,Outer London,51.57776,-0.01213,Base privada,Profesional,77,43.0,0.0,0.0,3598.0,11294.0
-Barking and Dagenham,Outer London,51.54371,0.11655,Hotel,Multipropiedad,1,1.0,0.0,0.0,75.0,365.0
-Barnet,Outer London,51.59746,-0.20552,Hotel,Profesional,20,9.0,0.0,0.0,740.0,1904.0
-Brent,Outer London,51.54654,-0.23631,Hotel,Multipropiedad,3,2.0,0.0,0.0,585.0,696.0
-Bromley,Outer London,51.40272,0.00275,Hotel,Particular,1,0.0,0.0,0.0,,
-Bromley,Outer London,51.40272,0.00275,Hotel,Profesional,14,5.0,0.0,0.0,314.0,1825.0
-Camden,Inner London,51.53694,-0.14659,Hotel,Particular,4,2.0,0.0,1.0,138.0,111.0
-Camden,Inner London,51.53694,-0.14659,Hotel,Profesional,56,29.0,1.0,26.0,5466.0,9566.0
-City of London,Inner London,51.51462,-0.09198,Hotel,Particular,1,0.0,0.0,0.0,,
-City of London,Inner London,51.51462,-0.09198,Hotel,Profesional,8,2.0,0.0,1.0,289.0,135.0
-Croydon,Outer London,51.38263,-0.0963,Hotel,Multipropiedad,8,1.0,0.0,0.0,295.0,295.0
-Ealing,Outer London,51.51406,-0.29755,Hotel,Multipropiedad,7,1.0,0.0,0.0,45.0,199.0
-Enfield,Outer London,51.63472,-0.08526,Hotel,Profesional,9,1.0,0.0,0.0,165.0,353.0
-Greenwich,Inner London,51.48284,0.03998,Hotel,Multipropiedad,3,2.0,0.0,0.0,2000.0,618.0
-Hackney,Inner London,51.54565,-0.06891,Hotel,Multipropiedad,3,2.0,0.0,0.0,2000.0,619.0
-Hammersmith and Fulham,Inner London,51.48993,-0.21473,Hotel,Multipropiedad,23,14.0,0.0,14.0,8405.0,3919.0
-Haringey,Outer London,51.58695,-0.10342,Hotel,Multipropiedad,2,0.0,0.0,0.0,,
-Harrow,Outer London,51.5883,-0.33784,Hotel,Multipropiedad,1,0.0,0.0,0.0,,
-Hillingdon,Outer London,51.52532,-0.44238,Hotel,Multipropiedad,8,4.0,0.0,0.0,410.0,995.0
-Hounslow,Outer London,51.47789,-0.32404,Hotel,Particular,1,1.0,0.0,0.0,140.0,338.0
-Hounslow,Outer London,51.47789,-0.32404,Hotel,Profesional,5,2.0,0.0,0.0,365.0,669.0
-Kensington and Chelsea,Inner London,51.49878,-0.18922,Hotel,Multipropiedad,23,10.0,0.0,10.0,2878.0,2026.0
-Lambeth,Inner London,51.46459,-0.11949,Hotel,Profesional,4,2.0,0.0,2.0,331.0,416.0
-Newham,Outer London,51.52906,0.02096,Hotel,Multipropiedad,1,0.0,0.0,0.0,,
-Redbridge,Outer London,51.57915,0.06597,Hotel,Multipropiedad,1,0.0,0.0,0.0,,
-Southwark,Inner London,51.48637,-0.07904,Hotel,Multipropiedad,17,13.0,0.0,0.0,12120.0,3742.0
-Tower Hamlets,Inner London,51.51801,-0.04765,Hotel,Particular,6,2.0,0.0,0.0,258.0,395.0
-Tower Hamlets,Inner London,51.51801,-0.04765,Hotel,Profesional,38,14.0,0.0,0.0,1480.0,2611.0
-Wandsworth,Inner London,51.45625,-0.17817,Hotel,Multipropiedad,4,1.0,0.0,1.0,149.0,285.0
-Westminster,Inner London,51.51348,-0.16258,Hotel,Particular,8,4.0,0.0,4.0,464.0,928.0
-Westminster,Inner London,51.51348,-0.16258,Hotel,Profesional,61,38.0,2.0,38.0,10968.0,8896.0
-Barking and Dagenham,Outer London,51.54371,0.11655,Habitación individual,Profesional,5,0.0,0.0,0.0,,
-Bexley,Outer London,51.46892,0.13735,Habitación individual,Profesional,5,0.0,0.0,0.0,,
-City of London,Inner London,51.51462,-0.09198,Habitación individual,Multipropiedad,25,6.0,2.0,2.0,891.0,1439.0
-Croydon,Outer London,51.38263,-0.0963,Habitación individual,Profesional,4,1.0,0.0,0.0,70.0,345.0
-Enfield,Outer London,51.63472,-0.08526,Habitación individual,Profesional,18,1.0,0.0,0.0,165.0,364.0
-Hammersmith and Fulham,Inner London,51.48993,-0.21473,Habitación individual,Profesional,161,77.0,1.0,76.0,3412.0,21142.0
-Harrow,Outer London,51.5883,-0.33784,Habitación individual,Profesional,1,0.0,0.0,0.0,,
-Havering,Outer London,51.57497,0.1959,Habitación individual,Particular,92,25.0,0.0,0.0,830.0,5691.0
-Hillingdon,Outer London,51.52532,-0.44238,Habitación individual,Multipropiedad,188,62.0,2.0,0.0,1974.0,11930.0
-Lambeth,Inner London,51.46459,-0.11949,Habitación individual,Profesional,97,50.0,1.0,47.0,2944.0,13544.0
-Redbridge,Outer London,51.57915,0.06597,Habitación individual,Profesional,37,15.0,0.0,0.0,466.0,3157.0
-Richmond upon Thames,Outer London,51.45426,-0.30672,Habitación individual,Profesional,3,2.0,0.0,0.0,166.0,505.0
 Barking and Dagenham,Outer London,51.54371,0.11655,Compartido,Multipropiedad,3,0.0,0.0,0.0,,
+Barking and Dagenham,Outer London,51.54371,0.11655,Compartido,Particular,2,0.0,0.0,0.0,,
+Barking and Dagenham,Outer London,51.54371,0.11655,Habitación individual,Multipropiedad,116,36.0,0.0,0.0,1158.0,7395.0
+Barking and Dagenham,Outer London,51.54371,0.11655,Habitación individual,Particular,158,26.0,1.0,0.0,916.0,5086.0
+Barking and Dagenham,Outer London,51.54371,0.11655,Habitación individual,Profesional,5,0.0,0.0,0.0,,
+Barking and Dagenham,Outer London,51.54371,0.11655,Hotel,Multipropiedad,1,1.0,0.0,0.0,75.0,365.0
+Barking and Dagenham,Outer London,51.54371,0.11655,Hotel,Profesional,1,1.0,0.0,0.0,240.0,354.0
+Barnet,Outer London,51.59746,-0.20552,Base privada,Multipropiedad,213,64.0,1.0,0.0,7755.0,13021.0
+Barnet,Outer London,51.59746,-0.20552,Base privada,Particular,414,87.0,0.0,0.0,9412.0,15401.0
+Barnet,Outer London,51.59746,-0.20552,Base privada,Profesional,103,21.0,3.0,0.0,2150.0,4498.0
 Barnet,Outer London,51.59746,-0.20552,Compartido,Multipropiedad,1,0.0,0.0,0.0,,
+Barnet,Outer London,51.59746,-0.20552,Compartido,Particular,12,0.0,0.0,0.0,,
+Barnet,Outer London,51.59746,-0.20552,Habitación individual,Multipropiedad,411,135.0,5.0,0.0,5431.0,30484.0
+Barnet,Outer London,51.59746,-0.20552,Habitación individual,Particular,501,111.0,3.0,0.0,4370.0,20768.0
+Barnet,Outer London,51.59746,-0.20552,Habitación individual,Profesional,16,8.0,0.0,0.0,296.0,2716.0
+Barnet,Outer London,51.59746,-0.20552,Hotel,Multipropiedad,8,1.0,0.0,0.0,25.0,122.0
+Barnet,Outer London,51.59746,-0.20552,Hotel,Profesional,20,9.0,0.0,0.0,740.0,1904.0
+Bexley,Outer London,51.46892,0.13735,Base privada,Multipropiedad,27,4.0,0.0,0.0,458.0,1187.0
+Bexley,Outer London,51.46892,0.13735,Base privada,Particular,43,7.0,0.0,0.0,775.0,933.0
+Bexley,Outer London,51.46892,0.13735,Base privada,Profesional,6,1.0,0.0,0.0,130.0,365.0
+Bexley,Outer London,51.46892,0.13735,Compartido,Multipropiedad,1,1.0,0.0,0.0,30.0,345.0
+Bexley,Outer London,51.46892,0.13735,Compartido,Particular,3,1.0,0.0,0.0,30.0,365.0
+Bexley,Outer London,51.46892,0.13735,Habitación individual,Multipropiedad,56,11.0,0.0,0.0,302.0,2308.0
+Bexley,Outer London,51.46892,0.13735,Habitación individual,Particular,110,19.0,1.0,0.0,653.0,2950.0
+Bexley,Outer London,51.46892,0.13735,Habitación individual,Profesional,5,0.0,0.0,0.0,,
+Bexley,Outer London,51.46892,0.13735,Hotel,Multipropiedad,2,1.0,0.0,0.0,45.0,357.0
+Brent,Outer London,51.54654,-0.23631,Base privada,Multipropiedad,324,118.0,0.0,44.0,17439.0,22857.0
+Brent,Outer London,51.54654,-0.23631,Base privada,Particular,624,114.0,1.0,41.0,16090.0,19554.0
+Brent,Outer London,51.54654,-0.23631,Base privada,Profesional,281,115.0,0.0,17.0,10407.0,28959.0
+Brent,Outer London,51.54654,-0.23631,Compartido,Multipropiedad,3,0.0,0.0,0.0,,
 Brent,Outer London,51.54654,-0.23631,Compartido,Particular,5,1.0,0.0,0.0,20.0,73.0
 Brent,Outer London,51.54654,-0.23631,Compartido,Profesional,34,27.0,0.0,0.0,427.0,8259.0
-Bromley,Outer London,51.40272,0.00275,Compartido,Multipropiedad,3,0.0,0.0,0.0,,
-Camden,Inner London,51.53694,-0.14659,Compartido,Multipropiedad,13,9.0,0.0,9.0,295.0,2797.0
-Ealing,Outer London,51.51406,-0.29755,Compartido,Particular,10,2.0,0.0,0.0,57.0,440.0
-Enfield,Outer London,51.63472,-0.08526,Compartido,Multipropiedad,2,0.0,0.0,0.0,,
-Greenwich,Inner London,51.48284,0.03998,Compartido,Multipropiedad,4,0.0,0.0,0.0,,
-Hackney,Inner London,51.54565,-0.06891,Compartido,Particular,19,1.0,0.0,0.0,25.0,274.0
-Hammersmith and Fulham,Inner London,51.48993,-0.21473,Compartido,Particular,13,1.0,0.0,1.0,46.0,318.0
-Haringey,Outer London,51.58695,-0.10342,Compartido,Multipropiedad,11,2.0,0.0,0.0,318.0,351.0
-Havering,Outer London,51.57497,0.1959,Compartido,Multipropiedad,2,1.0,0.0,0.0,50.0,86.0
-Hillingdon,Outer London,51.52532,-0.44238,Compartido,Multipropiedad,2,0.0,0.0,0.0,,
-Hounslow,Outer London,51.47789,-0.32404,Compartido,Multipropiedad,2,0.0,0.0,0.0,,
-Islington,Inner London,51.544,-0.108,Compartido,Multipropiedad,13,1.0,1.0,0.0,18.0,245.0
-Kensington and Chelsea,Inner London,51.49878,-0.18922,Compartido,Multipropiedad,18,2.0,0.0,2.0,43.0,630.0
-Kingston upon Thames,Outer London,51.40275,-0.2874,Compartido,Particular,1,0.0,0.0,0.0,,
-Lambeth,Inner London,51.46459,-0.11949,Compartido,Particular,25,3.0,1.0,2.0,83.0,360.0
-Lambeth,Inner London,51.46459,-0.11949,Compartido,Profesional,5,1.0,0.0,1.0,35.0,179.0
-Lewisham,Inner London,51.45826,-0.02687,Compartido,Profesional,1,0.0,0.0,0.0,,
-Merton,Outer London,51.41564,-0.1963,Compartido,Particular,9,1.0,0.0,0.0,90.0,89.0
-Newham,Outer London,51.52906,0.02096,Compartido,Particular,19,3.0,0.0,0.0,70.0,808.0
-Newham,Outer London,51.52906,0.02096,Compartido,Profesional,3,0.0,0.0,0.0,,
-Redbridge,Outer London,51.57915,0.06597,Compartido,Multipropiedad,2,0.0,0.0,0.0,,
-Southwark,Inner London,51.48637,-0.07904,Compartido,Particular,10,0.0,0.0,0.0,,
-Southwark,Inner London,51.48637,-0.07904,Compartido,Profesional,9,7.0,0.0,0.0,70.0,1997.0
-Tower Hamlets,Inner London,51.51801,-0.04765,Compartido,Particular,21,1.0,0.0,0.0,54.0,364.0
-Tower Hamlets,Inner London,51.51801,-0.04765,Compartido,Profesional,22,1.0,0.0,0.0,40.0,257.0
-Wandsworth,Inner London,51.45625,-0.17817,Compartido,Multipropiedad,4,4.0,0.0,2.0,188.0,857.0
-Westminster,Inner London,51.51348,-0.16258,Compartido,Multipropiedad,22,14.0,0.0,14.0,334.0,3125.0
-Lambeth,Inner London,51.46459,-0.11949,Habitación individual,Multipropiedad,994,418.0,1.0,193.0,21433.0,84386.0
-Camden,Inner London,51.53694,-0.14659,Base privada,Particular,1578,368.0,4.0,187.0,59678.0,60735.0
-Hammersmith and Fulham,Inner London,51.48993,-0.21473,Base privada,Multipropiedad,692,300.0,4.0,297.0,42350.0,59304.0
-Westminster,Inner London,51.51348,-0.16258,Base privada,Profesional,3026,1134.0,90.0,1134.0,251737.0,254788.0
-Westminster,Inner London,51.51348,-0.16258,Base privada,Particular,2112,538.0,15.0,538.0,99221.0,85927.0
-Westminster,Inner London,51.51348,-0.16258,Habitación individual,Particular,937,194.0,11.0,194.0,14928.0,30686.0
-Camden,Inner London,51.53694,-0.14659,Base privada,Profesional,1322,549.0,35.0,414.0,93412.0,122021.0
-Hackney,Inner London,51.54565,-0.06891,Habitación individual,Particular,1894,268.0,5.0,0.0,13089.0,45996.0
-Hackney,Inner London,51.54565,-0.06891,Base privada,Profesional,384,98.0,4.0,0.0,15565.0,24253.0
-Tower Hamlets,Inner London,51.51801,-0.04765,Habitación individual,Multipropiedad,1284,411.0,11.0,0.0,21131.0,79078.0
-Waltham Forest,Outer London,51.57776,-0.01213,Habitación individual,Particular,446,94.0,3.0,0.0,3429.0,16841.0
-Brent,Outer London,51.54654,-0.23631,Base privada,Multipropiedad,324,118.0,0.0,44.0,17439.0,22857.0
-Lewisham,Inner London,51.45826,-0.02687,Base privada,Particular,721,110.0,2.0,0.0,10695.0,15923.0
-Haringey,Outer London,51.58695,-0.10342,Habitación individual,Particular,794,147.0,5.0,0.0,6374.0,26861.0
-Kensington and Chelsea,Inner London,51.49878,-0.18922,Base privada,Multipropiedad,1194,506.0,23.0,506.0,96190.0,90221.0
-Kingston upon Thames,Outer London,51.40275,-0.2874,Base privada,Particular,171,40.0,0.0,0.0,5173.0,5396.0
-Wandsworth,Inner London,51.45625,-0.17817,Base privada,Profesional,389,77.0,4.0,48.0,13738.0,18801.0
-Islington,Inner London,51.544,-0.108,Habitación individual,Particular,1094,192.0,1.0,0.0,10701.0,32916.0
-Harrow,Outer London,51.5883,-0.33784,Base privada,Particular,90,29.0,0.0,0.0,3023.0,5360.0
-Kensington and Chelsea,Inner London,51.49878,-0.18922,Compartido,Particular,15,1.0,0.0,1.0,50.0,363.0
-Greenwich,Inner London,51.48284,0.03998,Habitación individual,Particular,540,133.0,4.0,0.0,5676.0,22437.0
-Haringey,Outer London,51.58695,-0.10342,Base privada,Multipropiedad,269,109.0,2.0,0.0,15460.0,18957.0
-Merton,Outer London,51.41564,-0.1963,Habitación individual,Particular,428,101.0,3.0,0.0,4254.0,18301.0
-Lambeth,Inner London,51.46459,-0.11949,Base privada,Multipropiedad,681,244.0,1.0,146.0,35361.0,43645.0
-Islington,Inner London,51.544,-0.108,Base privada,Multipropiedad,848,367.0,7.0,1.0,50335.0,71329.0
-Tower Hamlets,Inner London,51.51801,-0.04765,Base privada,Multipropiedad,1274,466.0,6.0,0.0,66160.0,90381.0
-Havering,Outer London,51.57497,0.1959,Base privada,Particular,44,7.0,0.0,0.0,1403.0,1355.0
-Ealing,Outer London,51.51406,-0.29755,Habitación individual,Particular,531,139.0,2.0,1.0,6129.0,24084.0
-Southwark,Inner London,51.48637,-0.07904,Habitación individual,Particular,1313,275.0,7.0,8.0,13930.0,42896.0
-Enfield,Outer London,51.63472,-0.08526,Habitación individual,Multipropiedad,187,61.0,1.0,0.0,1933.0,12473.0
-Wandsworth,Inner London,51.45625,-0.17817,Base privada,Particular,1567,268.0,3.0,128.0,40043.0,41990.0
-Bromley,Outer London,51.40272,0.00275,Habitación individual,Particular,253,79.0,1.0,0.0,2782.0,15377.0
-Hounslow,Outer London,51.47789,-0.32404,Habitación individual,Particular,302,98.0,3.0,1.0,4074.0,18195.0
-Hackney,Inner London,51.54565,-0.06891,Base privada,Particular,2217,355.0,7.0,0.0,43366.0,54776.0
-Hillingdon,Outer London,51.52532,-0.44238,Base privada,Multipropiedad,69,24.0,0.0,0.0,3080.0,7229.0
-Kensington and Chelsea,Inner London,51.49878,-0.18922,Habitación individual,Particular,493,114.0,5.0,114.0,8840.0,18774.0
-Newham,Outer London,51.52906,0.02096,Base privada,Particular,442,106.0,2.0,0.0,11490.0,18481.0
+Brent,Outer London,51.54654,-0.23631,Habitación individual,Multipropiedad,572,253.0,7.0,57.0,11172.0,53267.0
 Brent,Outer London,51.54654,-0.23631,Habitación individual,Particular,606,155.0,4.0,43.0,7133.0,28506.0
-Hounslow,Outer London,51.47789,-0.32404,Base privada,Particular,265,65.0,0.0,2.0,8253.0,10790.0
-Wandsworth,Inner London,51.45625,-0.17817,Habitación individual,Particular,1071,268.0,4.0,105.0,13748.0,45012.0
-Newham,Outer London,51.52906,0.02096,Habitación individual,Particular,643,152.0,4.0,0.0,6758.0,25836.0
-Lewisham,Inner London,51.45826,-0.02687,Compartido,Multipropiedad,16,12.0,0.0,0.0,176.0,4110.0
-Greenwich,Inner London,51.48284,0.03998,Base privada,Multipropiedad,261,105.0,1.0,0.0,14798.0,22095.0
-City of London,Inner London,51.51462,-0.09198,Base privada,Particular,84,17.0,0.0,3.0,2457.0,2914.0
-Barnet,Outer London,51.59746,-0.20552,Base privada,Multipropiedad,213,64.0,1.0,0.0,7755.0,13021.0
-Waltham Forest,Outer London,51.57776,-0.01213,Habitación individual,Profesional,17,6.0,0.0,0.0,172.0,494.0
-Camden,Inner London,51.53694,-0.14659,Habitación individual,Multipropiedad,804,335.0,43.0,187.0,21180.0,62582.0
-Southwark,Inner London,51.48637,-0.07904,Base privada,Multipropiedad,726,293.0,8.0,9.0,44125.0,56622.0
-Merton,Outer London,51.41564,-0.1963,Base privada,Particular,410,68.0,1.0,0.0,9794.0,11828.0
-Lewisham,Inner London,51.45826,-0.02687,Habitación individual,Particular,770,194.0,1.0,0.0,7386.0,36546.0
-Richmond upon Thames,Outer London,51.45426,-0.30672,Base privada,Profesional,89,12.0,2.0,1.0,1820.0,3203.0
-Westminster,Inner London,51.51348,-0.16258,Habitación individual,Profesional,459,227.0,33.0,227.0,16833.0,47099.0
-Redbridge,Outer London,51.57915,0.06597,Habitación individual,Multipropiedad,211,82.0,4.0,0.0,3049.0,18671.0
-Kensington and Chelsea,Inner London,51.49878,-0.18922,Hotel,Profesional,167,66.0,0.0,66.0,11579.0,18722.0
-Newham,Outer London,51.52906,0.02096,Base privada,Profesional,86,28.0,0.0,0.0,3539.0,6317.0
-Camden,Inner London,51.53694,-0.14659,Hotel,Multipropiedad,34,14.0,0.0,12.0,5469.0,4328.0
-Richmond upon Thames,Outer London,51.45426,-0.30672,Base privada,Particular,471,119.0,2.0,2.0,15920.0,20314.0
-Ealing,Outer London,51.51406,-0.29755,Base privada,Multipropiedad,192,63.0,1.0,1.0,8504.0,13769.0
-Hammersmith and Fulham,Inner London,51.48993,-0.21473,Habitación individual,Multipropiedad,562,230.0,18.0,226.0,13236.0,48075.0
-Newham,Outer London,51.52906,0.02096,Habitación individual,Profesional,56,26.0,0.0,0.0,1033.0,6800.0
-Barnet,Outer London,51.59746,-0.20552,Habitación individual,Particular,501,111.0,3.0,0.0,4370.0,20768.0
-Newham,Outer London,51.52906,0.02096,Hotel,Particular,3,2.0,0.0,0.0,250.0,346.0
-Harrow,Outer London,51.5883,-0.33784,Base privada,Profesional,28,8.0,7.0,0.0,765.0,2528.0
-Croydon,Outer London,51.38263,-0.0963,Base privada,Multipropiedad,96,44.0,0.0,0.0,3909.0,8297.0
-Bromley,Outer London,51.40272,0.00275,Base privada,Multipropiedad,64,17.0,0.0,0.0,2033.0,3631.0
-Southwark,Inner London,51.48637,-0.07904,Compartido,Multipropiedad,14,4.0,5.0,0.0,129.0,851.0
-Redbridge,Outer London,51.57915,0.06597,Base privada,Multipropiedad,51,22.0,0.0,0.0,1984.0,3858.0
-Havering,Outer London,51.57497,0.1959,Base privada,Profesional,21,1.0,0.0,0.0,126.0,365.0
-Kingston upon Thames,Outer London,51.40275,-0.2874,Habitación individual,Particular,187,53.0,1.0,0.0,2426.0,10433.0
-City of London,Inner London,51.51462,-0.09198,Base privada,Profesional,184,64.0,4.0,18.0,11024.0,17239.0
-Croydon,Outer London,51.38263,-0.0963,Habitación individual,Multipropiedad,284,105.0,0.0,0.0,3336.0,22281.0
-Waltham Forest,Outer London,51.57776,-0.01213,Base privada,Multipropiedad,132,45.0,1.0,0.0,5164.0,8735.0
-Lewisham,Inner London,51.45826,-0.02687,Base privada,Profesional,39,15.0,0.0,0.0,1809.0,3536.0
-Westminster,Inner London,51.51348,-0.16258,Hotel,Multipropiedad,52,13.0,3.0,13.0,1639.0,4170.0
-Greenwich,Inner London,51.48284,0.03998,Compartido,Particular,11,1.0,0.0,0.0,68.0,179.0
-Merton,Outer London,51.41564,-0.1963,Base privada,Profesional,90,12.0,3.0,0.0,1933.0,3480.0
-Hackney,Inner London,51.54565,-0.06891,Habitación individual,Profesional,81,28.0,0.0,0.0,854.0,5956.0
-Hillingdon,Outer London,51.52532,-0.44238,Habitación individual,Particular,210,63.0,1.0,0.0,2506.0,13198.0
-Camden,Inner London,51.53694,-0.14659,Compartido,Particular,20,2.0,0.0,2.0,54.0,202.0
 Brent,Outer London,51.54654,-0.23631,Habitación individual,Profesional,154,71.0,1.0,15.0,3301.0,19865.0
-Islington,Inner London,51.544,-0.108,Habitación individual,Profesional,59,19.0,10.0,0.0,869.0,4725.0
-Barking and Dagenham,Outer London,51.54371,0.11655,Base privada,Multipropiedad,42,13.0,0.0,0.0,1368.0,2225.0
-Bexley,Outer London,51.46892,0.13735,Base privada,Multipropiedad,27,4.0,0.0,0.0,458.0,1187.0
-Enfield,Outer London,51.63472,-0.08526,Base privada,Multipropiedad,76,30.0,0.0,0.0,3550.0,6736.0
-Hounslow,Outer London,51.47789,-0.32404,Base privada,Profesional,121,24.0,0.0,0.0,3218.0,6864.0
-Kingston upon Thames,Outer London,51.40275,-0.2874,Base privada,Profesional,4,0.0,0.0,0.0,,
-Sutton,Outer London,51.36645,-0.18352,Base privada,Multipropiedad,27,9.0,0.0,0.0,656.0,1353.0
-Barking and Dagenham,Outer London,51.54371,0.11655,Hotel,Profesional,1,1.0,0.0,0.0,240.0,354.0
-Barnet,Outer London,51.59746,-0.20552,Hotel,Multipropiedad,8,1.0,0.0,0.0,25.0,122.0
-Bexley,Outer London,51.46892,0.13735,Hotel,Multipropiedad,2,1.0,0.0,0.0,45.0,357.0
+Brent,Outer London,51.54654,-0.23631,Hotel,Multipropiedad,3,2.0,0.0,0.0,585.0,696.0
 Brent,Outer London,51.54654,-0.23631,Hotel,Particular,1,0.0,0.0,0.0,,
 Brent,Outer London,51.54654,-0.23631,Hotel,Profesional,18,6.0,0.0,0.0,274.0,1730.0
-City of London,Inner London,51.51462,-0.09198,Hotel,Multipropiedad,2,0.0,0.0,0.0,,
-Croydon,Outer London,51.38263,-0.0963,Hotel,Profesional,9,3.0,0.0,0.0,265.0,1057.0
-Ealing,Outer London,51.51406,-0.29755,Hotel,Profesional,20,0.0,0.0,0.0,,
-Enfield,Outer London,51.63472,-0.08526,Hotel,Multipropiedad,18,5.0,0.0,0.0,464.0,1147.0
-Greenwich,Inner London,51.48284,0.03998,Hotel,Particular,2,1.0,0.0,0.0,57.0,281.0
-Hackney,Inner London,51.54565,-0.06891,Hotel,Particular,4,1.0,0.0,0.0,50.0,228.0
-Hackney,Inner London,51.54565,-0.06891,Hotel,Profesional,1,1.0,0.0,0.0,199.0,128.0
-Hammersmith and Fulham,Inner London,51.48993,-0.21473,Hotel,Particular,1,0.0,0.0,0.0,,
-Hammersmith and Fulham,Inner London,51.48993,-0.21473,Hotel,Profesional,13,9.0,0.0,9.0,1320.0,2361.0
-Haringey,Outer London,51.58695,-0.10342,Hotel,Particular,1,1.0,0.0,0.0,49.0,158.0
-Haringey,Outer London,51.58695,-0.10342,Hotel,Profesional,1,1.0,0.0,0.0,123.0,289.0
-Hounslow,Outer London,51.47789,-0.32404,Hotel,Multipropiedad,3,0.0,0.0,0.0,,
-Islington,Inner London,51.544,-0.108,Hotel,Particular,2,0.0,0.0,0.0,,
-Islington,Inner London,51.544,-0.108,Hotel,Profesional,30,12.0,0.0,0.0,642.0,3271.0
-Kensington and Chelsea,Inner London,51.49878,-0.18922,Hotel,Particular,4,2.0,0.0,2.0,400.0,621.0
-Lambeth,Inner London,51.46459,-0.11949,Hotel,Multipropiedad,5,2.0,0.0,1.0,280.0,690.0
-Lewisham,Inner London,51.45826,-0.02687,Hotel,Multipropiedad,2,1.0,0.0,0.0,180.0,157.0
-Merton,Outer London,51.41564,-0.1963,Hotel,Profesional,1,1.0,0.0,0.0,76.0,351.0
-Newham,Outer London,51.52906,0.02096,Hotel,Profesional,3,3.0,0.0,0.0,378.0,933.0
-Richmond upon Thames,Outer London,51.45426,-0.30672,Hotel,Multipropiedad,6,2.0,0.0,0.0,239.0,635.0
-Southwark,Inner London,51.48637,-0.07904,Hotel,Particular,4,0.0,0.0,0.0,,
-Southwark,Inner London,51.48637,-0.07904,Hotel,Profesional,1,0.0,0.0,0.0,,
-Tower Hamlets,Inner London,51.51801,-0.04765,Hotel,Multipropiedad,17,11.0,0.0,0.0,1571.0,2343.0
-Waltham Forest,Outer London,51.57776,-0.01213,Hotel,Multipropiedad,4,2.0,0.0,0.0,160.0,704.0
-Wandsworth,Inner London,51.45625,-0.17817,Hotel,Profesional,30,20.0,0.0,7.0,1683.0,5852.0
-Barking and Dagenham,Outer London,51.54371,0.11655,Habitación individual,Multipropiedad,116,36.0,0.0,0.0,1158.0,7395.0
-Barnet,Outer London,51.59746,-0.20552,Habitación individual,Profesional,16,8.0,0.0,0.0,296.0,2716.0
-Bexley,Outer London,51.46892,0.13735,Habitación individual,Multipropiedad,56,11.0,0.0,0.0,302.0,2308.0
+Bromley,Outer London,51.40272,0.00275,Base privada,Multipropiedad,64,17.0,0.0,0.0,2033.0,3631.0
+Bromley,Outer London,51.40272,0.00275,Base privada,Particular,174,35.0,0.0,0.0,3236.0,6356.0
+Bromley,Outer London,51.40272,0.00275,Base privada,Profesional,4,2.0,0.0,0.0,162.0,704.0
+Bromley,Outer London,51.40272,0.00275,Compartido,Multipropiedad,3,0.0,0.0,0.0,,
+Bromley,Outer London,51.40272,0.00275,Compartido,Particular,3,0.0,0.0,0.0,,
+Bromley,Outer London,51.40272,0.00275,Habitación individual,Multipropiedad,146,49.0,1.0,0.0,1638.0,10693.0
+Bromley,Outer London,51.40272,0.00275,Habitación individual,Particular,253,79.0,1.0,0.0,2782.0,15377.0
+Bromley,Outer London,51.40272,0.00275,Hotel,Particular,1,0.0,0.0,0.0,,
+Bromley,Outer London,51.40272,0.00275,Hotel,Profesional,14,5.0,0.0,0.0,314.0,1825.0
+Camden,Inner London,51.53694,-0.14659,Base privada,Multipropiedad,1217,530.0,9.0,347.0,88776.0,102907.0
+Camden,Inner London,51.53694,-0.14659,Base privada,Particular,1578,368.0,4.0,187.0,59678.0,60735.0
+Camden,Inner London,51.53694,-0.14659,Base privada,Profesional,1322,549.0,35.0,414.0,93412.0,122021.0
+Camden,Inner London,51.53694,-0.14659,Compartido,Multipropiedad,13,9.0,0.0,9.0,295.0,2797.0
+Camden,Inner London,51.53694,-0.14659,Compartido,Particular,20,2.0,0.0,2.0,54.0,202.0
+Camden,Inner London,51.53694,-0.14659,Compartido,Profesional,8,8.0,0.0,8.0,182.0,1121.0
+Camden,Inner London,51.53694,-0.14659,Habitación individual,Multipropiedad,804,335.0,43.0,187.0,21180.0,62582.0
+Camden,Inner London,51.53694,-0.14659,Habitación individual,Particular,920,217.0,6.0,85.0,13584.0,34493.0
+Camden,Inner London,51.53694,-0.14659,Habitación individual,Profesional,316,210.0,5.0,198.0,12082.0,42317.0
+Camden,Inner London,51.53694,-0.14659,Hotel,Multipropiedad,34,14.0,0.0,12.0,5469.0,4328.0
+Camden,Inner London,51.53694,-0.14659,Hotel,Particular,4,2.0,0.0,1.0,138.0,111.0
+Camden,Inner London,51.53694,-0.14659,Hotel,Profesional,56,29.0,1.0,26.0,5466.0,9566.0
+City of London,Inner London,51.51462,-0.09198,Base privada,Multipropiedad,143,61.0,3.0,16.0,9030.0,12409.0
+City of London,Inner London,51.51462,-0.09198,Base privada,Particular,84,17.0,0.0,3.0,2457.0,2914.0
+City of London,Inner London,51.51462,-0.09198,Base privada,Profesional,184,64.0,4.0,18.0,11024.0,17239.0
+City of London,Inner London,51.51462,-0.09198,Compartido,Particular,2,0.0,0.0,0.0,,
+City of London,Inner London,51.51462,-0.09198,Habitación individual,Multipropiedad,25,6.0,2.0,2.0,891.0,1439.0
 City of London,Inner London,51.51462,-0.09198,Habitación individual,Particular,32,5.0,0.0,1.0,418.0,332.0
 City of London,Inner London,51.51462,-0.09198,Habitación individual,Profesional,4,0.0,0.0,0.0,,
-Ealing,Outer London,51.51406,-0.29755,Habitación individual,Profesional,27,16.0,0.0,0.0,774.0,3968.0
-Greenwich,Inner London,51.48284,0.03998,Habitación individual,Profesional,14,5.0,0.0,0.0,225.0,297.0
-Haringey,Outer London,51.58695,-0.10342,Habitación individual,Profesional,14,5.0,0.0,0.0,245.0,803.0
-Harrow,Outer London,51.5883,-0.33784,Habitación individual,Multipropiedad,154,50.0,0.0,0.0,1593.0,11247.0
-Havering,Outer London,51.57497,0.1959,Habitación individual,Multipropiedad,77,31.0,0.0,0.0,947.0,7481.0
-Hillingdon,Outer London,51.52532,-0.44238,Habitación individual,Profesional,44,15.0,0.0,0.0,740.0,5161.0
-Hounslow,Outer London,51.47789,-0.32404,Habitación individual,Profesional,10,7.0,0.0,0.0,303.0,2396.0
-Kensington and Chelsea,Inner London,51.49878,-0.18922,Habitación individual,Profesional,74,28.0,8.0,28.0,1526.0,7358.0
-Lewisham,Inner London,51.45826,-0.02687,Habitación individual,Profesional,21,7.0,0.0,0.0,251.0,2260.0
-Merton,Outer London,51.41564,-0.1963,Habitación individual,Profesional,5,4.0,0.0,0.0,240.0,1400.0
-Richmond upon Thames,Outer London,51.45426,-0.30672,Habitación individual,Multipropiedad,217,94.0,2.0,0.0,5585.0,20234.0
-Southwark,Inner London,51.48637,-0.07904,Habitación individual,Profesional,115,74.0,0.0,15.0,3756.0,17114.0
-Sutton,Outer London,51.36645,-0.18352,Habitación individual,Multipropiedad,96,23.0,4.0,0.0,873.0,5725.0
-Wandsworth,Inner London,51.45625,-0.17817,Habitación individual,Profesional,57,26.0,1.0,22.0,1188.0,6348.0
-Barking and Dagenham,Outer London,51.54371,0.11655,Compartido,Particular,2,0.0,0.0,0.0,,
-Barnet,Outer London,51.59746,-0.20552,Compartido,Particular,12,0.0,0.0,0.0,,
-Bexley,Outer London,51.46892,0.13735,Compartido,Multipropiedad,1,1.0,0.0,0.0,30.0,345.0
-Brent,Outer London,51.54654,-0.23631,Compartido,Multipropiedad,3,0.0,0.0,0.0,,
-Bromley,Outer London,51.40272,0.00275,Compartido,Particular,3,0.0,0.0,0.0,,
-Camden,Inner London,51.53694,-0.14659,Compartido,Profesional,8,8.0,0.0,8.0,182.0,1121.0
-City of London,Inner London,51.51462,-0.09198,Compartido,Particular,2,0.0,0.0,0.0,,
+City of London,Inner London,51.51462,-0.09198,Hotel,Multipropiedad,2,0.0,0.0,0.0,,
+City of London,Inner London,51.51462,-0.09198,Hotel,Particular,1,0.0,0.0,0.0,,
+City of London,Inner London,51.51462,-0.09198,Hotel,Profesional,8,2.0,0.0,1.0,289.0,135.0
+Croydon,Outer London,51.38263,-0.0963,Base privada,Multipropiedad,96,44.0,0.0,0.0,3909.0,8297.0
+Croydon,Outer London,51.38263,-0.0963,Base privada,Particular,245,52.0,0.0,0.0,4323.0,9177.0
+Croydon,Outer London,51.38263,-0.0963,Base privada,Profesional,80,34.0,0.0,0.0,2951.0,7064.0
+Croydon,Outer London,51.38263,-0.0963,Compartido,Multipropiedad,4,0.0,0.0,0.0,,
 Croydon,Outer London,51.38263,-0.0963,Compartido,Particular,7,1.0,0.0,0.0,35.0,348.0
+Croydon,Outer London,51.38263,-0.0963,Habitación individual,Multipropiedad,284,105.0,0.0,0.0,3336.0,22281.0
+Croydon,Outer London,51.38263,-0.0963,Habitación individual,Particular,390,93.0,1.0,0.0,2914.0,16419.0
+Croydon,Outer London,51.38263,-0.0963,Habitación individual,Profesional,4,1.0,0.0,0.0,70.0,345.0
+Croydon,Outer London,51.38263,-0.0963,Hotel,Multipropiedad,8,1.0,0.0,0.0,295.0,295.0
+Croydon,Outer London,51.38263,-0.0963,Hotel,Profesional,9,3.0,0.0,0.0,265.0,1057.0
+Ealing,Outer London,51.51406,-0.29755,Base privada,Multipropiedad,192,63.0,1.0,1.0,8504.0,13769.0
+Ealing,Outer London,51.51406,-0.29755,Base privada,Particular,448,90.0,1.0,2.0,11438.0,14868.0
+Ealing,Outer London,51.51406,-0.29755,Base privada,Profesional,87,32.0,1.0,0.0,3120.0,8282.0
 Ealing,Outer London,51.51406,-0.29755,Compartido,Multipropiedad,3,1.0,0.0,0.0,60.0,78.0
+Ealing,Outer London,51.51406,-0.29755,Compartido,Particular,10,2.0,0.0,0.0,57.0,440.0
+Ealing,Outer London,51.51406,-0.29755,Habitación individual,Multipropiedad,497,196.0,13.0,0.0,7759.0,40852.0
+Ealing,Outer London,51.51406,-0.29755,Habitación individual,Particular,531,139.0,2.0,1.0,6129.0,24084.0
+Ealing,Outer London,51.51406,-0.29755,Habitación individual,Profesional,27,16.0,0.0,0.0,774.0,3968.0
+Ealing,Outer London,51.51406,-0.29755,Hotel,Multipropiedad,7,1.0,0.0,0.0,45.0,199.0
+Ealing,Outer London,51.51406,-0.29755,Hotel,Profesional,20,0.0,0.0,0.0,,
+Enfield,Outer London,51.63472,-0.08526,Base privada,Multipropiedad,76,30.0,0.0,0.0,3550.0,6736.0
+Enfield,Outer London,51.63472,-0.08526,Base privada,Particular,135,26.0,0.0,0.0,2489.0,5045.0
+Enfield,Outer London,51.63472,-0.08526,Base privada,Profesional,29,8.0,0.0,0.0,885.0,2464.0
+Enfield,Outer London,51.63472,-0.08526,Compartido,Multipropiedad,2,0.0,0.0,0.0,,
 Enfield,Outer London,51.63472,-0.08526,Compartido,Particular,4,0.0,0.0,0.0,,
+Enfield,Outer London,51.63472,-0.08526,Habitación individual,Multipropiedad,187,61.0,1.0,0.0,1933.0,12473.0
+Enfield,Outer London,51.63472,-0.08526,Habitación individual,Particular,247,56.0,0.0,0.0,1975.0,10349.0
+Enfield,Outer London,51.63472,-0.08526,Habitación individual,Profesional,18,1.0,0.0,0.0,165.0,364.0
+Enfield,Outer London,51.63472,-0.08526,Hotel,Multipropiedad,18,5.0,0.0,0.0,464.0,1147.0
+Enfield,Outer London,51.63472,-0.08526,Hotel,Profesional,9,1.0,0.0,0.0,165.0,353.0
+Greenwich,Inner London,51.48284,0.03998,Base privada,Multipropiedad,261,105.0,1.0,0.0,14798.0,22095.0
+Greenwich,Inner London,51.48284,0.03998,Base privada,Particular,485,113.0,1.0,0.0,14256.0,20025.0
+Greenwich,Inner London,51.48284,0.03998,Base privada,Profesional,91,41.0,0.0,0.0,5427.0,11117.0
+Greenwich,Inner London,51.48284,0.03998,Compartido,Multipropiedad,4,0.0,0.0,0.0,,
+Greenwich,Inner London,51.48284,0.03998,Compartido,Particular,11,1.0,0.0,0.0,68.0,179.0
+Greenwich,Inner London,51.48284,0.03998,Habitación individual,Multipropiedad,361,124.0,0.0,0.0,4644.0,23313.0
+Greenwich,Inner London,51.48284,0.03998,Habitación individual,Particular,540,133.0,4.0,0.0,5676.0,22437.0
+Greenwich,Inner London,51.48284,0.03998,Habitación individual,Profesional,14,5.0,0.0,0.0,225.0,297.0
+Greenwich,Inner London,51.48284,0.03998,Hotel,Multipropiedad,3,2.0,0.0,0.0,2000.0,618.0
+Greenwich,Inner London,51.48284,0.03998,Hotel,Particular,2,1.0,0.0,0.0,57.0,281.0
+Hackney,Inner London,51.54565,-0.06891,Base privada,Multipropiedad,804,277.0,3.0,0.0,39602.0,48234.0
+Hackney,Inner London,51.54565,-0.06891,Base privada,Particular,2217,355.0,7.0,0.0,43366.0,54776.0
+Hackney,Inner London,51.54565,-0.06891,Base privada,Profesional,384,98.0,4.0,0.0,15565.0,24253.0
 Hackney,Inner London,51.54565,-0.06891,Compartido,Multipropiedad,11,4.0,0.0,0.0,115.0,1049.0
+Hackney,Inner London,51.54565,-0.06891,Compartido,Particular,19,1.0,0.0,0.0,25.0,274.0
+Hackney,Inner London,51.54565,-0.06891,Habitación individual,Multipropiedad,859,270.0,10.0,0.0,13795.0,51927.0
+Hackney,Inner London,51.54565,-0.06891,Habitación individual,Particular,1894,268.0,5.0,0.0,13089.0,45996.0
+Hackney,Inner London,51.54565,-0.06891,Habitación individual,Profesional,81,28.0,0.0,0.0,854.0,5956.0
+Hackney,Inner London,51.54565,-0.06891,Hotel,Multipropiedad,3,2.0,0.0,0.0,2000.0,619.0
+Hackney,Inner London,51.54565,-0.06891,Hotel,Particular,4,1.0,0.0,0.0,50.0,228.0
+Hackney,Inner London,51.54565,-0.06891,Hotel,Profesional,1,1.0,0.0,0.0,199.0,128.0
+Hammersmith and Fulham,Inner London,51.48993,-0.21473,Base privada,Multipropiedad,692,300.0,4.0,297.0,42350.0,59304.0
+Hammersmith and Fulham,Inner London,51.48993,-0.21473,Base privada,Particular,1280,292.0,1.0,285.0,42748.0,47895.0
+Hammersmith and Fulham,Inner London,51.48993,-0.21473,Base privada,Profesional,796,249.0,16.0,247.0,38485.0,50249.0
 Hammersmith and Fulham,Inner London,51.48993,-0.21473,Compartido,Multipropiedad,9,4.0,0.0,4.0,154.0,989.0
+Hammersmith and Fulham,Inner London,51.48993,-0.21473,Compartido,Particular,13,1.0,0.0,1.0,46.0,318.0
+Hammersmith and Fulham,Inner London,51.48993,-0.21473,Habitación individual,Multipropiedad,562,230.0,18.0,226.0,13236.0,48075.0
+Hammersmith and Fulham,Inner London,51.48993,-0.21473,Habitación individual,Particular,743,179.0,4.0,172.0,9946.0,32733.0
+Hammersmith and Fulham,Inner London,51.48993,-0.21473,Habitación individual,Profesional,161,77.0,1.0,76.0,3412.0,21142.0
+Hammersmith and Fulham,Inner London,51.48993,-0.21473,Hotel,Multipropiedad,23,14.0,0.0,14.0,8405.0,3919.0
+Hammersmith and Fulham,Inner London,51.48993,-0.21473,Hotel,Particular,1,0.0,0.0,0.0,,
+Hammersmith and Fulham,Inner London,51.48993,-0.21473,Hotel,Profesional,13,9.0,0.0,9.0,1320.0,2361.0
+Haringey,Outer London,51.58695,-0.10342,Base privada,Multipropiedad,269,109.0,2.0,0.0,15460.0,18957.0
+Haringey,Outer London,51.58695,-0.10342,Base privada,Particular,637,114.0,2.0,0.0,14372.0,18434.0
+Haringey,Outer London,51.58695,-0.10342,Base privada,Profesional,108,48.0,0.0,0.0,7024.0,11490.0
+Haringey,Outer London,51.58695,-0.10342,Compartido,Multipropiedad,11,2.0,0.0,0.0,318.0,351.0
 Haringey,Outer London,51.58695,-0.10342,Compartido,Particular,16,1.0,0.0,0.0,23.0,349.0
+Haringey,Outer London,51.58695,-0.10342,Habitación individual,Multipropiedad,421,143.0,0.0,0.0,5985.0,28822.0
+Haringey,Outer London,51.58695,-0.10342,Habitación individual,Particular,794,147.0,5.0,0.0,6374.0,26861.0
+Haringey,Outer London,51.58695,-0.10342,Habitación individual,Profesional,14,5.0,0.0,0.0,245.0,803.0
+Haringey,Outer London,51.58695,-0.10342,Hotel,Multipropiedad,2,0.0,0.0,0.0,,
+Haringey,Outer London,51.58695,-0.10342,Hotel,Particular,1,1.0,0.0,0.0,49.0,158.0
+Haringey,Outer London,51.58695,-0.10342,Hotel,Profesional,1,1.0,0.0,0.0,123.0,289.0
+Harrow,Outer London,51.5883,-0.33784,Base privada,Multipropiedad,51,21.0,1.0,0.0,2441.0,5090.0
+Harrow,Outer London,51.5883,-0.33784,Base privada,Particular,90,29.0,0.0,0.0,3023.0,5360.0
+Harrow,Outer London,51.5883,-0.33784,Base privada,Profesional,28,8.0,7.0,0.0,765.0,2528.0
 Harrow,Outer London,51.5883,-0.33784,Compartido,Particular,8,0.0,0.0,0.0,,
+Harrow,Outer London,51.5883,-0.33784,Habitación individual,Multipropiedad,154,50.0,0.0,0.0,1593.0,11247.0
+Harrow,Outer London,51.5883,-0.33784,Habitación individual,Particular,163,47.0,0.0,0.0,1765.0,9317.0
+Harrow,Outer London,51.5883,-0.33784,Habitación individual,Profesional,1,0.0,0.0,0.0,,
+Harrow,Outer London,51.5883,-0.33784,Hotel,Multipropiedad,1,0.0,0.0,0.0,,
+Havering,Outer London,51.57497,0.1959,Base privada,Multipropiedad,28,17.0,0.0,0.0,1610.0,3427.0
+Havering,Outer London,51.57497,0.1959,Base privada,Particular,44,7.0,0.0,0.0,1403.0,1355.0
+Havering,Outer London,51.57497,0.1959,Base privada,Profesional,21,1.0,0.0,0.0,126.0,365.0
+Havering,Outer London,51.57497,0.1959,Compartido,Multipropiedad,2,1.0,0.0,0.0,50.0,86.0
+Havering,Outer London,51.57497,0.1959,Habitación individual,Multipropiedad,77,31.0,0.0,0.0,947.0,7481.0
+Havering,Outer London,51.57497,0.1959,Habitación individual,Particular,92,25.0,0.0,0.0,830.0,5691.0
+Hillingdon,Outer London,51.52532,-0.44238,Base privada,Multipropiedad,69,24.0,0.0,0.0,3080.0,7229.0
+Hillingdon,Outer London,51.52532,-0.44238,Base privada,Particular,100,32.0,0.0,0.0,2833.0,5206.0
+Hillingdon,Outer London,51.52532,-0.44238,Base privada,Profesional,30,10.0,0.0,0.0,1435.0,2515.0
+Hillingdon,Outer London,51.52532,-0.44238,Compartido,Multipropiedad,2,0.0,0.0,0.0,,
 Hillingdon,Outer London,51.52532,-0.44238,Compartido,Particular,2,0.0,0.0,0.0,,
+Hillingdon,Outer London,51.52532,-0.44238,Habitación individual,Multipropiedad,188,62.0,2.0,0.0,1974.0,11930.0
+Hillingdon,Outer London,51.52532,-0.44238,Habitación individual,Particular,210,63.0,1.0,0.0,2506.0,13198.0
+Hillingdon,Outer London,51.52532,-0.44238,Habitación individual,Profesional,44,15.0,0.0,0.0,740.0,5161.0
+Hillingdon,Outer London,51.52532,-0.44238,Hotel,Multipropiedad,8,4.0,0.0,0.0,410.0,995.0
+Hounslow,Outer London,51.47789,-0.32404,Base privada,Multipropiedad,130,40.0,0.0,0.0,5364.0,8681.0
+Hounslow,Outer London,51.47789,-0.32404,Base privada,Particular,265,65.0,0.0,2.0,8253.0,10790.0
+Hounslow,Outer London,51.47789,-0.32404,Base privada,Profesional,121,24.0,0.0,0.0,3218.0,6864.0
+Hounslow,Outer London,51.47789,-0.32404,Compartido,Multipropiedad,2,0.0,0.0,0.0,,
 Hounslow,Outer London,51.47789,-0.32404,Compartido,Particular,6,0.0,0.0,0.0,,
+Hounslow,Outer London,51.47789,-0.32404,Habitación individual,Multipropiedad,267,96.0,6.0,3.0,4068.0,20632.0
+Hounslow,Outer London,51.47789,-0.32404,Habitación individual,Particular,302,98.0,3.0,1.0,4074.0,18195.0
+Hounslow,Outer London,51.47789,-0.32404,Habitación individual,Profesional,10,7.0,0.0,0.0,303.0,2396.0
+Hounslow,Outer London,51.47789,-0.32404,Hotel,Multipropiedad,3,0.0,0.0,0.0,,
+Hounslow,Outer London,51.47789,-0.32404,Hotel,Particular,1,1.0,0.0,0.0,140.0,338.0
+Hounslow,Outer London,51.47789,-0.32404,Hotel,Profesional,5,2.0,0.0,0.0,365.0,669.0
+Islington,Inner London,51.544,-0.108,Base privada,Multipropiedad,848,367.0,7.0,1.0,50335.0,71329.0
+Islington,Inner London,51.544,-0.108,Base privada,Particular,1753,294.0,4.0,0.0,42639.0,48380.0
+Islington,Inner London,51.544,-0.108,Base privada,Profesional,580,173.0,6.0,1.0,24620.0,37082.0
+Islington,Inner London,51.544,-0.108,Compartido,Multipropiedad,13,1.0,1.0,0.0,18.0,245.0
 Islington,Inner London,51.544,-0.108,Compartido,Particular,13,0.0,0.0,0.0,,
+Islington,Inner London,51.544,-0.108,Habitación individual,Multipropiedad,727,293.0,1.0,1.0,17770.0,58394.0
+Islington,Inner London,51.544,-0.108,Habitación individual,Particular,1094,192.0,1.0,0.0,10701.0,32916.0
+Islington,Inner London,51.544,-0.108,Habitación individual,Profesional,59,19.0,10.0,0.0,869.0,4725.0
+Islington,Inner London,51.544,-0.108,Hotel,Multipropiedad,6,0.0,0.0,0.0,,
+Islington,Inner London,51.544,-0.108,Hotel,Particular,2,0.0,0.0,0.0,,
+Islington,Inner London,51.544,-0.108,Hotel,Profesional,30,12.0,0.0,0.0,642.0,3271.0
+Kensington and Chelsea,Inner London,51.49878,-0.18922,Base privada,Multipropiedad,1194,506.0,23.0,506.0,96190.0,90221.0
+Kensington and Chelsea,Inner London,51.49878,-0.18922,Base privada,Particular,1686,442.0,16.0,442.0,78382.0,78156.0
+Kensington and Chelsea,Inner London,51.49878,-0.18922,Base privada,Profesional,2043,612.0,85.0,612.0,121483.0,139535.0
+Kensington and Chelsea,Inner London,51.49878,-0.18922,Compartido,Multipropiedad,18,2.0,0.0,2.0,43.0,630.0
+Kensington and Chelsea,Inner London,51.49878,-0.18922,Compartido,Particular,15,1.0,0.0,1.0,50.0,363.0
 Kensington and Chelsea,Inner London,51.49878,-0.18922,Compartido,Profesional,12,0.0,0.0,0.0,,
+Kensington and Chelsea,Inner London,51.49878,-0.18922,Habitación individual,Multipropiedad,417,150.0,6.0,150.0,12075.0,30865.0
+Kensington and Chelsea,Inner London,51.49878,-0.18922,Habitación individual,Particular,493,114.0,5.0,114.0,8840.0,18774.0
+Kensington and Chelsea,Inner London,51.49878,-0.18922,Habitación individual,Profesional,74,28.0,8.0,28.0,1526.0,7358.0
+Kensington and Chelsea,Inner London,51.49878,-0.18922,Hotel,Multipropiedad,23,10.0,0.0,10.0,2878.0,2026.0
+Kensington and Chelsea,Inner London,51.49878,-0.18922,Hotel,Particular,4,2.0,0.0,2.0,400.0,621.0
+Kensington and Chelsea,Inner London,51.49878,-0.18922,Hotel,Profesional,167,66.0,0.0,66.0,11579.0,18722.0
+Kingston upon Thames,Outer London,51.40275,-0.2874,Base privada,Multipropiedad,57,24.0,1.0,0.0,2638.0,3795.0
+Kingston upon Thames,Outer London,51.40275,-0.2874,Base privada,Particular,171,40.0,0.0,0.0,5173.0,5396.0
+Kingston upon Thames,Outer London,51.40275,-0.2874,Base privada,Profesional,4,0.0,0.0,0.0,,
 Kingston upon Thames,Outer London,51.40275,-0.2874,Compartido,Multipropiedad,1,1.0,0.0,0.0,40.0,41.0
+Kingston upon Thames,Outer London,51.40275,-0.2874,Compartido,Particular,1,0.0,0.0,0.0,,
+Kingston upon Thames,Outer London,51.40275,-0.2874,Habitación individual,Multipropiedad,126,60.0,0.0,0.0,3004.0,11177.0
+Kingston upon Thames,Outer London,51.40275,-0.2874,Habitación individual,Particular,187,53.0,1.0,0.0,2426.0,10433.0
+Lambeth,Inner London,51.46459,-0.11949,Base privada,Multipropiedad,681,244.0,1.0,146.0,35361.0,43645.0
+Lambeth,Inner London,51.46459,-0.11949,Base privada,Particular,1593,281.0,2.0,126.0,38434.0,45767.0
+Lambeth,Inner London,51.46459,-0.11949,Base privada,Profesional,277,68.0,1.0,55.0,11968.0,15386.0
 Lambeth,Inner London,51.46459,-0.11949,Compartido,Multipropiedad,22,10.0,0.0,7.0,219.0,2745.0
+Lambeth,Inner London,51.46459,-0.11949,Compartido,Particular,25,3.0,1.0,2.0,83.0,360.0
+Lambeth,Inner London,51.46459,-0.11949,Compartido,Profesional,5,1.0,0.0,1.0,35.0,179.0
+Lambeth,Inner London,51.46459,-0.11949,Habitación individual,Multipropiedad,994,418.0,1.0,193.0,21433.0,84386.0
+Lambeth,Inner London,51.46459,-0.11949,Habitación individual,Particular,1328,307.0,5.0,98.0,15012.0,51443.0
+Lambeth,Inner London,51.46459,-0.11949,Habitación individual,Profesional,97,50.0,1.0,47.0,2944.0,13544.0
+Lambeth,Inner London,51.46459,-0.11949,Hotel,Multipropiedad,5,2.0,0.0,1.0,280.0,690.0
+Lambeth,Inner London,51.46459,-0.11949,Hotel,Particular,4,2.0,0.0,1.0,184.0,370.0
+Lambeth,Inner London,51.46459,-0.11949,Hotel,Profesional,4,2.0,0.0,2.0,331.0,416.0
+Lewisham,Inner London,51.45826,-0.02687,Base privada,Multipropiedad,233,57.0,1.0,0.0,7062.0,11448.0
+Lewisham,Inner London,51.45826,-0.02687,Base privada,Particular,721,110.0,2.0,0.0,10695.0,15923.0
+Lewisham,Inner London,51.45826,-0.02687,Base privada,Profesional,39,15.0,0.0,0.0,1809.0,3536.0
+Lewisham,Inner London,51.45826,-0.02687,Compartido,Multipropiedad,16,12.0,0.0,0.0,176.0,4110.0
+Lewisham,Inner London,51.45826,-0.02687,Compartido,Particular,16,0.0,0.0,0.0,,
+Lewisham,Inner London,51.45826,-0.02687,Compartido,Profesional,1,0.0,0.0,0.0,,
+Lewisham,Inner London,51.45826,-0.02687,Habitación individual,Multipropiedad,525,175.0,1.0,0.0,6419.0,36218.0
+Lewisham,Inner London,51.45826,-0.02687,Habitación individual,Particular,770,194.0,1.0,0.0,7386.0,36546.0
+Lewisham,Inner London,51.45826,-0.02687,Habitación individual,Profesional,21,7.0,0.0,0.0,251.0,2260.0
+Lewisham,Inner London,51.45826,-0.02687,Hotel,Multipropiedad,2,1.0,0.0,0.0,180.0,157.0
+Merton,Outer London,51.41564,-0.1963,Base privada,Multipropiedad,108,24.0,0.0,0.0,3752.0,4953.0
+Merton,Outer London,51.41564,-0.1963,Base privada,Particular,410,68.0,1.0,0.0,9794.0,11828.0
+Merton,Outer London,51.41564,-0.1963,Base privada,Profesional,90,12.0,3.0,0.0,1933.0,3480.0
 Merton,Outer London,51.41564,-0.1963,Compartido,Multipropiedad,2,2.0,0.0,0.0,60.0,721.0
+Merton,Outer London,51.41564,-0.1963,Compartido,Particular,9,1.0,0.0,0.0,90.0,89.0
+Merton,Outer London,51.41564,-0.1963,Habitación individual,Multipropiedad,320,109.0,0.0,0.0,4642.0,22694.0
+Merton,Outer London,51.41564,-0.1963,Habitación individual,Particular,428,101.0,3.0,0.0,4254.0,18301.0
+Merton,Outer London,51.41564,-0.1963,Habitación individual,Profesional,5,4.0,0.0,0.0,240.0,1400.0
+Merton,Outer London,51.41564,-0.1963,Hotel,Profesional,1,1.0,0.0,0.0,76.0,351.0
+Newham,Outer London,51.52906,0.02096,Base privada,Multipropiedad,281,121.0,0.0,0.0,20133.0,24270.0
+Newham,Outer London,51.52906,0.02096,Base privada,Particular,442,106.0,2.0,0.0,11490.0,18481.0
+Newham,Outer London,51.52906,0.02096,Base privada,Profesional,86,28.0,0.0,0.0,3539.0,6317.0
 Newham,Outer London,51.52906,0.02096,Compartido,Multipropiedad,9,4.0,0.0,0.0,97.0,632.0
+Newham,Outer London,51.52906,0.02096,Compartido,Particular,19,3.0,0.0,0.0,70.0,808.0
+Newham,Outer London,51.52906,0.02096,Compartido,Profesional,3,0.0,0.0,0.0,,
+Newham,Outer London,51.52906,0.02096,Habitación individual,Multipropiedad,542,215.0,4.0,0.0,9044.0,40996.0
+Newham,Outer London,51.52906,0.02096,Habitación individual,Particular,643,152.0,4.0,0.0,6758.0,25836.0
+Newham,Outer London,51.52906,0.02096,Habitación individual,Profesional,56,26.0,0.0,0.0,1033.0,6800.0
+Newham,Outer London,51.52906,0.02096,Hotel,Multipropiedad,1,0.0,0.0,0.0,,
+Newham,Outer London,51.52906,0.02096,Hotel,Particular,3,2.0,0.0,0.0,250.0,346.0
+Newham,Outer London,51.52906,0.02096,Hotel,Profesional,3,3.0,0.0,0.0,378.0,933.0
+Redbridge,Outer London,51.57915,0.06597,Base privada,Multipropiedad,51,22.0,0.0,0.0,1984.0,3858.0
+Redbridge,Outer London,51.57915,0.06597,Base privada,Particular,146,25.0,0.0,0.0,2436.0,5481.0
+Redbridge,Outer London,51.57915,0.06597,Base privada,Profesional,25,3.0,3.0,0.0,203.0,876.0
+Redbridge,Outer London,51.57915,0.06597,Compartido,Multipropiedad,2,0.0,0.0,0.0,,
 Redbridge,Outer London,51.57915,0.06597,Compartido,Particular,6,1.0,0.0,0.0,20.0,138.0
+Redbridge,Outer London,51.57915,0.06597,Habitación individual,Multipropiedad,211,82.0,4.0,0.0,3049.0,18671.0
+Redbridge,Outer London,51.57915,0.06597,Habitación individual,Particular,263,66.0,0.0,0.0,2323.0,12632.0
+Redbridge,Outer London,51.57915,0.06597,Habitación individual,Profesional,37,15.0,0.0,0.0,466.0,3157.0
+Redbridge,Outer London,51.57915,0.06597,Hotel,Multipropiedad,1,0.0,0.0,0.0,,
+Richmond upon Thames,Outer London,51.45426,-0.30672,Base privada,Multipropiedad,131,52.0,0.0,4.0,8518.0,10723.0
+Richmond upon Thames,Outer London,51.45426,-0.30672,Base privada,Particular,471,119.0,2.0,2.0,15920.0,20314.0
+Richmond upon Thames,Outer London,51.45426,-0.30672,Base privada,Profesional,89,12.0,2.0,1.0,1820.0,3203.0
 Richmond upon Thames,Outer London,51.45426,-0.30672,Compartido,Multipropiedad,4,0.0,0.0,0.0,,
+Richmond upon Thames,Outer London,51.45426,-0.30672,Habitación individual,Multipropiedad,217,94.0,2.0,0.0,5585.0,20234.0
+Richmond upon Thames,Outer London,51.45426,-0.30672,Habitación individual,Particular,316,108.0,2.0,1.0,5710.0,21542.0
+Richmond upon Thames,Outer London,51.45426,-0.30672,Habitación individual,Profesional,3,2.0,0.0,0.0,166.0,505.0
+Richmond upon Thames,Outer London,51.45426,-0.30672,Hotel,Multipropiedad,6,2.0,0.0,0.0,239.0,635.0
+Southwark,Inner London,51.48637,-0.07904,Base privada,Multipropiedad,726,293.0,8.0,9.0,44125.0,56622.0
+Southwark,Inner London,51.48637,-0.07904,Base privada,Particular,1582,312.0,3.0,12.0,42703.0,50628.0
+Southwark,Inner London,51.48637,-0.07904,Base privada,Profesional,388,128.0,23.0,7.0,20284.0,28223.0
+Southwark,Inner London,51.48637,-0.07904,Compartido,Multipropiedad,14,4.0,5.0,0.0,129.0,851.0
+Southwark,Inner London,51.48637,-0.07904,Compartido,Particular,10,0.0,0.0,0.0,,
+Southwark,Inner London,51.48637,-0.07904,Compartido,Profesional,9,7.0,0.0,0.0,70.0,1997.0
+Southwark,Inner London,51.48637,-0.07904,Habitación individual,Multipropiedad,847,336.0,17.0,17.0,16563.0,65678.0
+Southwark,Inner London,51.48637,-0.07904,Habitación individual,Particular,1313,275.0,7.0,8.0,13930.0,42896.0
+Southwark,Inner London,51.48637,-0.07904,Habitación individual,Profesional,115,74.0,0.0,15.0,3756.0,17114.0
+Southwark,Inner London,51.48637,-0.07904,Hotel,Multipropiedad,17,13.0,0.0,0.0,12120.0,3742.0
+Southwark,Inner London,51.48637,-0.07904,Hotel,Particular,4,0.0,0.0,0.0,,
+Southwark,Inner London,51.48637,-0.07904,Hotel,Profesional,1,0.0,0.0,0.0,,
+Sutton,Outer London,51.36645,-0.18352,Base privada,Multipropiedad,27,9.0,0.0,0.0,656.0,1353.0
+Sutton,Outer London,51.36645,-0.18352,Base privada,Particular,69,17.0,0.0,0.0,1585.0,2686.0
+Sutton,Outer London,51.36645,-0.18352,Base privada,Profesional,1,0.0,0.0,0.0,,
 Sutton,Outer London,51.36645,-0.18352,Compartido,Multipropiedad,2,0.0,0.0,0.0,,
+Sutton,Outer London,51.36645,-0.18352,Habitación individual,Multipropiedad,96,23.0,4.0,0.0,873.0,5725.0
+Sutton,Outer London,51.36645,-0.18352,Habitación individual,Particular,122,37.0,2.0,0.0,1357.0,6536.0
+Tower Hamlets,Inner London,51.51801,-0.04765,Base privada,Multipropiedad,1274,466.0,6.0,0.0,66160.0,90381.0
+Tower Hamlets,Inner London,51.51801,-0.04765,Base privada,Particular,1862,333.0,3.0,0.0,43161.0,52154.0
+Tower Hamlets,Inner London,51.51801,-0.04765,Base privada,Profesional,1082,349.0,6.0,0.0,46234.0,74462.0
 Tower Hamlets,Inner London,51.51801,-0.04765,Compartido,Multipropiedad,20,6.0,0.0,0.0,154.0,962.0
+Tower Hamlets,Inner London,51.51801,-0.04765,Compartido,Particular,21,1.0,0.0,0.0,54.0,364.0
+Tower Hamlets,Inner London,51.51801,-0.04765,Compartido,Profesional,22,1.0,0.0,0.0,40.0,257.0
+Tower Hamlets,Inner London,51.51801,-0.04765,Habitación individual,Multipropiedad,1284,411.0,11.0,0.0,21131.0,79078.0
+Tower Hamlets,Inner London,51.51801,-0.04765,Habitación individual,Particular,1963,281.0,15.0,0.0,15566.0,45331.0
+Tower Hamlets,Inner London,51.51801,-0.04765,Habitación individual,Profesional,1022,599.0,0.0,0.0,22683.0,153374.0
+Tower Hamlets,Inner London,51.51801,-0.04765,Hotel,Multipropiedad,17,11.0,0.0,0.0,1571.0,2343.0
+Tower Hamlets,Inner London,51.51801,-0.04765,Hotel,Particular,6,2.0,0.0,0.0,258.0,395.0
+Tower Hamlets,Inner London,51.51801,-0.04765,Hotel,Profesional,38,14.0,0.0,0.0,1480.0,2611.0
+Waltham Forest,Outer London,51.57776,-0.01213,Base privada,Multipropiedad,132,45.0,1.0,0.0,5164.0,8735.0
+Waltham Forest,Outer London,51.57776,-0.01213,Base privada,Particular,470,83.0,2.0,0.0,8366.0,11772.0
+Waltham Forest,Outer London,51.57776,-0.01213,Base privada,Profesional,77,43.0,0.0,0.0,3598.0,11294.0
+Waltham Forest,Outer London,51.57776,-0.01213,Compartido,Multipropiedad,11,1.0,0.0,0.0,25.0,356.0
 Waltham Forest,Outer London,51.57776,-0.01213,Compartido,Particular,5,0.0,0.0,0.0,,
 Waltham Forest,Outer London,51.57776,-0.01213,Compartido,Profesional,6,0.0,0.0,0.0,,
+Waltham Forest,Outer London,51.57776,-0.01213,Habitación individual,Multipropiedad,312,94.0,1.0,0.0,3445.0,18857.0
+Waltham Forest,Outer London,51.57776,-0.01213,Habitación individual,Particular,446,94.0,3.0,0.0,3429.0,16841.0
+Waltham Forest,Outer London,51.57776,-0.01213,Habitación individual,Profesional,17,6.0,0.0,0.0,172.0,494.0
+Waltham Forest,Outer London,51.57776,-0.01213,Hotel,Multipropiedad,4,2.0,0.0,0.0,160.0,704.0
+Wandsworth,Inner London,51.45625,-0.17817,Base privada,Multipropiedad,484,145.0,2.0,82.0,22603.0,25674.0
+Wandsworth,Inner London,51.45625,-0.17817,Base privada,Particular,1567,268.0,3.0,128.0,40043.0,41990.0
+Wandsworth,Inner London,51.45625,-0.17817,Base privada,Profesional,389,77.0,4.0,48.0,13738.0,18801.0
+Wandsworth,Inner London,51.45625,-0.17817,Compartido,Multipropiedad,4,4.0,0.0,2.0,188.0,857.0
 Wandsworth,Inner London,51.45625,-0.17817,Compartido,Particular,8,0.0,0.0,0.0,,
+Wandsworth,Inner London,51.45625,-0.17817,Habitación individual,Multipropiedad,723,267.0,4.0,116.0,14089.0,53112.0
+Wandsworth,Inner London,51.45625,-0.17817,Habitación individual,Particular,1071,268.0,4.0,105.0,13748.0,45012.0
+Wandsworth,Inner London,51.45625,-0.17817,Habitación individual,Profesional,57,26.0,1.0,22.0,1188.0,6348.0
+Wandsworth,Inner London,51.45625,-0.17817,Hotel,Multipropiedad,4,1.0,0.0,1.0,149.0,285.0
+Wandsworth,Inner London,51.45625,-0.17817,Hotel,Profesional,30,20.0,0.0,7.0,1683.0,5852.0
+Westminster,Inner London,51.51348,-0.16258,Base privada,Multipropiedad,2240,1001.0,30.0,1001.0,193838.0,189405.0
+Westminster,Inner London,51.51348,-0.16258,Base privada,Particular,2112,538.0,15.0,538.0,99221.0,85927.0
+Westminster,Inner London,51.51348,-0.16258,Base privada,Profesional,3026,1134.0,90.0,1134.0,251737.0,254788.0
+Westminster,Inner London,51.51348,-0.16258,Compartido,Multipropiedad,22,14.0,0.0,14.0,334.0,3125.0
 Westminster,Inner London,51.51348,-0.16258,Compartido,Particular,14,1.0,0.0,1.0,50.0,86.0
 Westminster,Inner London,51.51348,-0.16258,Compartido,Profesional,19,18.0,0.0,18.0,418.0,2606.0
+Westminster,Inner London,51.51348,-0.16258,Habitación individual,Multipropiedad,942,403.0,53.0,403.0,29523.0,73786.0
+Westminster,Inner London,51.51348,-0.16258,Habitación individual,Particular,937,194.0,11.0,194.0,14928.0,30686.0
+Westminster,Inner London,51.51348,-0.16258,Habitación individual,Profesional,459,227.0,33.0,227.0,16833.0,47099.0
+Westminster,Inner London,51.51348,-0.16258,Hotel,Multipropiedad,52,13.0,3.0,13.0,1639.0,4170.0
+Westminster,Inner London,51.51348,-0.16258,Hotel,Particular,8,4.0,0.0,4.0,464.0,928.0
+Westminster,Inner London,51.51348,-0.16258,Hotel,Profesional,61,38.0,2.0,38.0,10968.0,8896.0

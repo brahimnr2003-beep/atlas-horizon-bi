@@ -17,6 +17,16 @@
 
 ---
 
+## Por qué rehice el proyecto
+
+Cuando entregamos la primera versión, el trabajo cumplía lo que se pedía, pero al revisarlo meses después vi que tenía problemas que en una empresa real no pasarían:
+
+- **Las dos fases no estaban conectadas.** En la primera diseñamos 10 KPIs para ventas, logística y seguridad, pero en la segunda analizamos un dataset de alojamientos que no medía ninguno de ellos. El diseño y los datos iban por caminos distintos.
+- **Algunas decisiones no tenían justificación.** Convertimos el tipo de alojamiento en "tipo de expedición" sin un motivo de negocio, y los 821 hoteles se quedaron sin clasificar.
+- **La limpieza se quedó a medias.** No tratamos los precios a 0 ni los extremos, y había dos identificadores de KPI cruzados en el documento.
+
+Quería que el proyecto contara una historia coherente de principio a fin. Por eso añadí un objetivo de negocio que sí se puede medir con estos datos (el alojamiento antes de cada expedición), construí un data warehouse con las reglas en SQL y rehice el informe y el cuadro de mando para que respondan a preguntas concretas. La versión original sigue en [`legacy/`](legacy/) para que se vea de dónde parte.
+
 ## El problema de negocio
 
 Atlas Horizon organiza expediciones a destinos remotos. Antes de cada salida, clientes y staff pasan de 1 a 3 noches en **Londres** para el *briefing* de seguridad y el vuelo desde Heathrow. El equipo de logística necesita responder a tres preguntas:
@@ -38,7 +48,7 @@ Atlas Horizon organiza expediciones a destinos remotos. Antes de cada salida, cl
 **Hallazgos clave**
 - **25.690 alojamientos** cumplen los criterios de Atlas. El problema no es la cantidad, sino el **precio** y la **ubicación**.
 - Los barrios junto a la sede son los más caros: **Westminster (204 £)** y **Kensington and Chelsea (190 £)** por noche en base privada.
-- **Hammersmith and Fulham** (3 km, 147 £) y **Lambeth** (5,6 km, 145 £) combinan cercanía y precio dentro de la meta. Son la recomendación principal del informe.
+- **Hammersmith and Fulham** (829 bases privadas aptas a ≤ 5 km, 147 £) y **Lambeth** (327, 145 £) combinan cercanía y precio dentro de la meta. Son la recomendación principal del informe.
 
 ![Informe de negocio](docs/img/informe.png)
 
