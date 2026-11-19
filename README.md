@@ -10,7 +10,7 @@
 
 **[▶ Ver el cuadro de mando](https://brahimnr2003-beep.github.io/atlas-horizon-bi/dashboard/)** · **[📄 Ver el informe de negocio](https://brahimnr2003-beep.github.io/atlas-horizon-bi/reports/informe_oferta_alojamiento.html)** · **[🧭 Documento de diseño](docs/diseno_bi.md)**
 
-> Proyecto académico de la asignatura *Business Intelligence* (Grado en Gestión de Información y Contenidos Digitales), realizado en pareja con Raúl Fulgencio Belmonte.
+> Proyecto realizado en pareja con Raúl Fulgencio Belmonte.
 > **Versión 2 rediseñada y ampliada por Brahim Nouni Ros:** integración de ambas fases, data warehouse en SQL, nueva ETL, informe y cuadro de mando.
 
 ![Cuadro de mando](docs/img/dashboard.png)
